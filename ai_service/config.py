@@ -14,8 +14,12 @@ load_dotenv(_BACKEND_ENV)
 
 # ── Gemini ──────────────────────────────────────────────────────────────────
 GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
+# Pinned stable production model — do not use preview/latest aliases (#10)
 GEMINI_MODEL: str = "gemini-2.5-flash"
-GEMINI_TEMPERATURE: float = 0.2
+# Deterministic inference settings (#2)
+GEMINI_TEMPERATURE: float = 0.0
+GEMINI_TOP_P: float = 1.0
+GEMINI_TOP_K: int = 1
 GEMINI_MAX_TOKENS: int = 8192
 
 # ── Supabase ────────────────────────────────────────────────────────────────

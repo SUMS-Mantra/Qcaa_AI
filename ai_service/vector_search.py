@@ -26,6 +26,24 @@ def _get_model() -> SentenceTransformer:
     return _model
 
 
+def build_multi_section_query(text: str) -> str:
+    """Extract intro, middle, and conclusion segments for a richer RAG query (#8).
+
+    The first 500 chars often only contain introduction boilerplate.
+    Sampling from three sections captures a wider range of topics.
+    """
+    text = text.strip()
+    if len(text) <= 1200:
+        return text
+
+    intro = text[:400]
+    mid_start = len(text) // 2
+    middle = text[mid_start : mid_start + 400]
+    end = text[-400:]
+
+    return intro + "\n" + middle + "\n" + end
+
+
 def search(
     query_text: str,
     subject: str | None = None,
@@ -34,7 +52,8 @@ def search(
 ) -> list[dict]:
     """Embed query_text locally, then call match_qcaa_vectors RPC.
 
-    Returns list of {id, subject, section, content, metadata, similarity}.
+    Returns list of {id, subject, section, content, metadata, similarity},
+    sorted by similarity descending (#9).
     """
     model = _get_model()
     embedding = model.encode(query_text).tolist()
@@ -62,6 +81,10 @@ def search(
         return []
 
     results = resp.json()
+
+    # Stabilise retrieval order: sort by similarity descending (#9)
+    results = sorted(results, key=lambda x: x.get("similarity", 0), reverse=True)
+
     log.info(
         "Vector search: %d results for '%s…' (subject=%s)",
         len(results),

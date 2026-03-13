@@ -139,6 +139,10 @@ export interface FeedbackCriterion {
   score: number;
   max_score: number;
   feedback: string;
+  band?: string;
+  improvement?: string;
+  evidence_quotes?: string[];
+  band_analysis?: Record<string, string>;
 }
 
 export interface FeedbackResult {
@@ -147,6 +151,7 @@ export interface FeedbackResult {
   overallScore: number;
   maxOverallScore: number;
   feedback: string;
+  assignmentText: string;
   processedAt: string;
 }
 

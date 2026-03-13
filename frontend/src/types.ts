@@ -4,6 +4,10 @@ export interface RubricCriterion {
   maxScore: number;
   score: number;
   feedback: string;
+  band?: string;
+  improvement?: string;
+  evidenceQuotes?: string[];
+  bandAnalysis?: Record<string, string>;
 }
 
 export interface AssignmentResult {

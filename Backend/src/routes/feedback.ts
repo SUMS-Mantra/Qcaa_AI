@@ -59,6 +59,7 @@ router.get('/:assignmentId', async (req: Request, res: Response) => {
           overallScore: result.overall_score,
           maxOverallScore: result.max_overall_score,
           feedback: result.feedback,
+          assignmentText: result.assignment_text ?? '',
           processedAt: result.processed_at,
         }
       : null,

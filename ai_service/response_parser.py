@@ -7,9 +7,47 @@ from config import GEMINI_MODEL
 
 log = logging.getLogger(__name__)
 
+# Valid QCAA bands
+_VALID_BANDS = {"A", "B", "C", "D", "E"}
+# Minimum word count for substantive feedback (#6)
+_MIN_FEEDBACK_WORDS = 25
+
 
 class ValidationError(Exception):
     """Raised when the LLM output fails validation."""
+
+
+def _validate_feedback_quality(feedback: str, criterion: str) -> None:
+    """Ensure feedback meets minimum quality bar (#6)."""
+    word_count = len(feedback.split())
+    if word_count < _MIN_FEEDBACK_WORDS:
+        raise ValidationError(
+            f"Feedback too short for '{criterion}': {word_count} words "
+            f"(minimum {_MIN_FEEDBACK_WORDS}). Feedback must contain substantive analysis."
+        )
+
+
+def _validate_evidence_quotes(quotes: Any, criterion: str) -> list[str]:
+    """Validate evidence_quotes array — must be a list of non-empty strings."""
+    if not isinstance(quotes, list):
+        return []
+    cleaned = [q.strip() for q in quotes if isinstance(q, str) and q.strip()]
+    # We require at least 1 quote but don't hard-fail — the prompt requests 2-5
+    if not cleaned:
+        log.warning("No evidence quotes returned for criterion '%s'", criterion)
+    return cleaned
+
+
+def _validate_band_analysis(analysis: Any, criterion: str) -> dict[str, str]:
+    """Validate band_analysis dict — should have keys for each QCAA band."""
+    if not isinstance(analysis, dict):
+        return {}
+    cleaned: dict[str, str] = {}
+    for band in ("A", "B", "C", "D", "E"):
+        val = analysis.get(band, "")
+        if isinstance(val, str) and val.strip():
+            cleaned[band] = val.strip()
+    return cleaned
 
 
 def validate_and_normalise(
@@ -81,8 +119,14 @@ def validate_and_normalise(
                 f"Score {score} out of range [0, {max_score}] for '{criterion}'"
             )
 
-        if band and band not in {"A", "B", "C", "D", "E"}:
-            band = ""  # drop invalid band rather than fail
+        # Band must be a valid QCAA band (#6)
+        if band not in _VALID_BANDS:
+            raise ValidationError(
+                f"Invalid band '{band}' for '{criterion}'. Must be one of: {', '.join(sorted(_VALID_BANDS))}"
+            )
+
+        # Feedback quality gate (#6)
+        _validate_feedback_quality(feedback, criterion)
 
         running_total += score
         running_max += max_score
@@ -95,6 +139,8 @@ def validate_and_normalise(
                 "band": band,
                 "feedback": feedback,
                 "improvement": improvement,
+                "evidence_quotes": _validate_evidence_quotes(item.get("evidence_quotes", []), criterion),
+                "band_analysis": _validate_band_analysis(item.get("band_analysis", {}), criterion),
             }
         )
 
@@ -106,4 +152,64 @@ def validate_and_normalise(
         "max_overall_score": running_max,
         "feedback": overall_feedback,
         "model_version": GEMINI_MODEL,
+    }
+
+
+def validate_single_criterion(raw: dict[str, Any], max_score: int | None = None) -> dict[str, Any]:
+    """Validate a single criterion result from per-criterion evaluation (#12).
+
+    Parameters
+    ----------
+    raw : dict
+        Parsed JSON for one criterion from the LLM.
+    max_score : int or None
+        Authoritative max score from mark allocation if known.
+
+    Returns
+    -------
+    dict
+        Cleaned single-criterion result.
+
+    Raises
+    ------
+    ValidationError
+        If the result is invalid.
+    """
+    criterion = raw.get("criterion", "").strip()
+    if not criterion:
+        raise ValidationError("Missing criterion name in single-criterion response")
+
+    try:
+        score = int(raw.get("score", 0))
+        raw_max = int(raw.get("max_score", 0))
+    except (TypeError, ValueError):
+        raise ValidationError(
+            f"Non-integer score/max_score for criterion '{criterion}'"
+        )
+
+    effective_max = max_score if max_score is not None else raw_max
+
+    if score < 0 or score > effective_max:
+        raise ValidationError(
+            f"Score {score} out of range [0, {effective_max}] for '{criterion}'"
+        )
+
+    band = raw.get("band", "").strip().upper()
+    if band not in _VALID_BANDS:
+        raise ValidationError(
+            f"Invalid band '{band}' for '{criterion}'. Must be one of: {', '.join(sorted(_VALID_BANDS))}"
+        )
+
+    feedback = raw.get("feedback", "").strip()
+    _validate_feedback_quality(feedback, criterion)
+
+    return {
+        "criterion": criterion,
+        "score": score,
+        "max_score": effective_max,
+        "band": band,
+        "feedback": feedback,
+        "improvement": raw.get("improvement", "").strip(),
+        "evidence_quotes": _validate_evidence_quotes(raw.get("evidence_quotes", []), criterion),
+        "band_analysis": _validate_band_analysis(raw.get("band_analysis", {}), criterion),
     }

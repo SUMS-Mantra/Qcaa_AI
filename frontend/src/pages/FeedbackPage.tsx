@@ -1,6 +1,7 @@
 import { useEffect, useState, useCallback } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import RubricCard from '../components/RubricCard';
+import HighlightedEssay from '../components/HighlightedEssay';
 import SkeletonCard from '../components/SkeletonCard';
 import { getFeedback, type FeedbackResponse } from '../api';
 import type { RubricCriterion } from '../types';
@@ -49,6 +50,10 @@ export default function FeedbackPage() {
     score: c.score,
     maxScore: c.max_score,
     feedback: c.feedback,
+    band: c.band,
+    improvement: c.improvement,
+    evidenceQuotes: c.evidence_quotes,
+    bandAnalysis: c.band_analysis,
   }));
 
   const overallPct = result
@@ -129,7 +134,18 @@ export default function FeedbackPage() {
         </div>
       )}
 
+      {/* Assignment text with highlighted evidence */}
+      {result?.assignmentText && !isProcessing && (
+        <div className="mb-8">
+          <h2 className="text-lg font-semibold text-gray-900 mb-3">Your Assignment</h2>
+          <HighlightedEssay text={result.assignmentText} criteria={criteria} />
+        </div>
+      )}
+
       {/* Rubric grid */}
+      <h2 className="text-lg font-semibold text-gray-900 mb-3">
+        {loading || isProcessing ? '' : 'Rubric Breakdown'}
+      </h2>
       <div className="grid gap-4 sm:grid-cols-2">
         {(loading || isProcessing)
           ? Array.from({ length: 5 }).map((_, i) => <SkeletonCard key={i} />)
