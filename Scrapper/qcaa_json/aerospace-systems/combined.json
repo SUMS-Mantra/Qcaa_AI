@@ -1,0 +1,554 @@
+{
+  "subject": "Aerospace Systems",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Introduction to aerospace systems",
+      "subject": "Aerospace Systems",
+      "description": "In Unit 1, students are introduced to the technology, concepts and principles associated with the\naerospace industry. They learn about the global, national and local importance of the industry.\nStudents investigate the industry’s historical development and consider the challenges associated\nwith meeting the transportation needs and expectations of future societies. Students explore\nproblems associated with the increasing global demand for safe and efficient aircraft, pilots,\nsupport staff, maintenance staff and ground and airspace support systems. In this unit, students\ngain a basic understanding of aerodynamics and aircraft flight systems, concepts and principles\nsuch as lift, weight and drag, instability, high- and low-speed flight control, piston and gas turbine\nengines, electrical supply, control force and fuel delivery. Students gain an understanding of the\npotential impacts of weather conditions on various aerospace operations and the systems used to\nmitigate disruption.\nStudents learn about and use systems thinking habits and systems thinking strategies, such as\nvisual frameworks, causal loops and feedback loops to recognise and classify the\ninterrelationships that exist within and between various aerospace systems.\nUnit objectives\n1. Recognise and describe problems, aerospace technology knowledge, concepts and\nprinciples, and systems thinking habits and systems thinking strategies in relation to\naerospace systems and structures.\n2. Symbolise and explain ideas, solutio…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "includes learning experiences beyond traditional aircraft to build on students’ technology",
+      "subject": "Aerospace Systems",
+      "description": "knowledge of contemporary aerospace. These emerging technologies include satellites, space\nvehicles and remotely piloted aircraft systems (RPAS) and are finding innovative 21st century\napplications, for example, ways in which aerospace-related technologies can be used to solve\nproblems for people and communities in need. Students develop their knowledge and\nunderstanding of the applications of these future-focused and sometimes non-traditional\naerospace technologies (or assets) and operations (asset deployment) to solve problems through\nuse of systems thinking habits and systems thinking strategies. In this unit, students engage with\nreal-world problems to develop innovative future-focused solutions.\nUnit objectives\n1. Recognise and describe problems, aerospace technology knowledge, concepts and\nprinciples, and systems thinking habits and systems thinking strategies in relation to assets\nand asset-related operational systems.\n2. Symbolise and explain ideas, solutions and relationships in relation to assets and asset-\nrelated operational systems.\n3. Analyse problems and information in relation to assets and asset-related operational\nsystems.\n4. Determine success criteria for assets and asset-related operational system problems.\n5. Synthesise information and ideas to propose possible assets and asset-related operational\nsystems solutions.\n6. Generate assets and asset-related operational systems solutions to provide data to\ndetermine the feasibility of proposals.\n7. Evaluate and…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Aerospace ecosystems",
+      "subject": "Aerospace Systems",
+      "description": "In Unit 3, students will study the ecosystems used in the commercially competitive air\ntransportation industry. The unit topics provide a focus for student learning, and problem-solving\nengages students in the development of practical solutions to actual, possible or probable\noperational problems. Students use systems thinking habits and systems thinking strategies,\nincluding visual frameworks and causal loop diagrams to explore and document the relationships\nbetween and within aerospace ecosystems. Real-world situations, case studies and simulations\nare used to support student learning.\nLearning in this unit equips students with an appreciation for the role that aerospace ecosystems\nand their interconnectivity play in promoting public confidence in a highly competitive and safety-\nconscious industry.\nUnit objectives\n1. Recognise and describe problems, aerospace technology knowledge, concepts and\nprinciples, and systems thinking habits and systems thinking strategies in relation to\noperational systems.\n2. Symbolise and explain ideas, solutions and relationships in relation to operational systems.\n3. Analyse problems and information in relation to operational systems.\n4. Determine success criteria for operational systems problems.\n5. Synthesise information and ideas to propose possible operational systems solutions.\n6. Generate operational systems solutions to provide data to determine the feasibility of\nproposals.\n7. Evaluate and refine ideas and solutions to make justified r…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Aircraft performance systems and human factors ............................................... 29",
+      "subject": "Aerospace Systems",
+      "description": "Assessment __________________________________________ 35\nInternal assessment 1: Aerospace solution (25%)........................................................... 35\nInternal assessment 2: Examination — combination response (25%) ......................... 40\nInternal assessment 3: Aerospace solution (25%)........................................................... 46\nExternal assessment: Examination — combination response (25%) ........................... 51\nGlossary _____________________________________________ 53\nReferences ___________________________________________ 53\nVersion history________________________________________ 53\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Aerospace Systems",
+      "technique": "Examination — combination response (25%) ........................... 51",
+      "unit": "1 and Unit 2",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "𝐿",
+          "marks": 2
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Aerospace Systems",
+      "technique": "Aerospace solution (25%)........................................................... 35",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Symbolising and Communicating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "adept symbolisation and discerning explanation of ideas, a solution and relationships in\nrelation to aerospace management, safety, and airline and/or airport operations with\n- visual frameworks and flow charts\n- causal and feedback loops\n- diagrams and sketches and/or pictures",
+                "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective symbolisation and considered explanation of ideas, a solution and relationships in\nrelation to aerospace management, safety, and airline and/or airport operations with\n- visual frameworks and/or flow charts\n- causal and/or feedback loops\n- diagrams and/or sketches and/or pictures",
+                "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "competent symbolisation and appropriate explanation of some ideas, a solution and\nrelationships in relation to aerospace management, safety, and airline and/or airport\noperations with\n- visual frameworks and/or flow charts\n- causal and/or feedback loops\n- diagrams and/or sketches and/or pictures",
+                "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent symbolisation or superficial explanation of aspects of ideas, a solution, or\nrelationships in relation to aerospace management, safety, and airline and/or airport\noperations",
+                "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Determining and Generating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "astute determination of essential success criteria for the operational systems problem",
+                "proficient generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+                "provide valid data to critically determine the feasibility of a solution"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "reasoned determination of effective success criteria for the operational systems problem",
+                "effective generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+                "provide valid data to effectively determine the feasibility of a proposal"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "logical determination of appropriate success criteria for the operational systems problem",
+                "adequate generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+                "provide relevant data to determine the feasibility of a proposal"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable determination of some success criteria for the operational systems problem",
+                "partial generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+                "provide elements of data to partially determine the feasibility of a proposal"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about some success criteria for the operational systems problem",
+                "generation of elements of a solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising and Evaluating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "coherent and logical synthesis of relevant aerospace systems, technology and research\ninformation, and ideas to propose a possible solution, including\n- aerospace management\n- safety\n- airline and/or airport operations solution",
+                "critical evaluation of ideas and a solution using success criteria",
+                "discerning refinement of a solution to make astute recommendations justified by data and\nresearch evidence"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "logical synthesis of relevant aerospace systems, technology and research information, and\nideas to propose a possible solution, including\n- aerospace management and/or safety\n- airline and/or airport operations solution",
+                "reasoned evaluation of ideas and a solution using success criteria",
+                "effective refinement of a solution to make considered recommendations justified by data\nand research evidence"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "simple synthesis of aerospace systems, technology, and research information and ideas to\npropose a possible solution, including\n- aerospace management and/or safety\n- airline and/or airport operations solution",
+                "feasible evaluation of ideas and a solution using success criteria",
+                "adequate refinement of ideas and a solution to make fundamental recommendations\njustified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "rudimentary synthesis of partial aerospace systems, technology, or research information\nand/or ideas to propose a possible solution, including\n- aerospace management or safety or airline and/or airport operations solution",
+                "superficial evaluation of ideas or a solution using some success criteria to make elementary\nrecommendations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear combinations of information or ideas",
+                "identification of a change about an idea or the solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Aerospace Systems",
+      "technique": "Examination — combination response (25%) ......................... 40",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Aerospace systems knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "25",
+              "descriptors": [
+                "> 96%"
+              ]
+            },
+            {
+              "marks": "24",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "23",
+              "descriptors": [
+                "> 89%"
+              ]
+            },
+            {
+              "marks": "22",
+              "descriptors": [
+                "> 86%"
+              ]
+            },
+            {
+              "marks": "21",
+              "descriptors": [
+                "> 82%"
+              ]
+            },
+            {
+              "marks": "20",
+              "descriptors": [
+                "> 78%"
+              ]
+            },
+            {
+              "marks": "19",
+              "descriptors": [
+                "> 75%"
+              ]
+            },
+            {
+              "marks": "18",
+              "descriptors": [
+                "> 71%"
+              ]
+            },
+            {
+              "marks": "17",
+              "descriptors": [
+                "> 68%"
+              ]
+            },
+            {
+              "marks": "16",
+              "descriptors": [
+                "> 64%"
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Aerospace systems knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 57%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 50%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 46%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 42%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 37%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 33%"
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Aerospace systems knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 28%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 24%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 19%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 14%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 10%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 5%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Aerospace systems knowledge and problem-solving",
+            "objectives": "1, 2, 3, 5, 7",
+            "marks": 25
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Aerospace Systems",
+      "technique": "Aerospace solution (25%)........................................................... 46",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Symbolising and Communicating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "adept symbolisation and discerning explanation of ideas, a solution and relationships in\nrelation to aircraft performance systems and human factors with visual frameworks, causal\nand feedback loops, flow charts, diagrams, sketches and/or pictures",
+                "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective symbolisation and considered explanation of ideas, a solution and relationships in\nrelation to aircraft performance systems and human factors with visual frameworks, causal\nand feedback loops, flow charts, diagrams, sketches and/or pictures",
+                "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "competent symbolisation and appropriate explanation of some ideas, a solution and\nrelationships in relation to aircraft performance systems and human factors with visual\nframeworks, causal and feedback loops, flow charts, diagrams, sketches and/or pictures",
+                "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent symbolisation or superficial explanation of aspects of ideas, a solution or\nrelationships in relation to aircraft performance systems and human factors",
+                "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Determining and Generating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "astute determination of essential success criteria for the aircraft performance systems\nand/or human factors problem",
+                "proficient generation of a solution, including\n- aircraft performance systems and/or human factors",
+                "provide valid data to critically determine the feasibility of a solution"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "reasoned determination of effective success criteria for the aircraft performance systems\nand/or human factors problem",
+                "effective generation of a solution, including\n- aircraft performance systems and/or human factors",
+                "provide valid data to effectively determine the feasibility of a proposal"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "logical determination of appropriate success criteria for the aircraft performance systems\nand/or human factors problem",
+                "adequate generation of a solution, including\n- aircraft performance systems and/or human factors",
+                "to provide relevant data to determine the feasibility of a proposal"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable determination of some success criteria for the aircraft performance systems\nand/or human factors problem",
+                "partial generation of a solution, including\n- aircraft performance systems and/or human factors",
+                "elements of data to partially determine the feasibility of a proposal"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about some success criteria for the aircraft performance systems and/or human\nfactors problem",
+                "generation of elements of an aircraft performance systems and/or human factors solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising and Evaluating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "coherent and logical synthesis of relevant aerospace systems, technology, and research\ninformation and ideas to propose a possible solution, including\n- aircraft performance systems and/or human factors",
+                "critical evaluation of ideas and a solution using success criteria",
+                "discerning refinement of ideas and a solution using success criteria to make astute\nrecommendations justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "logical synthesis of relevant aerospace systems, technology, and research information and\nideas to propose a possible solution, including\n- aircraft performance systems and/or human factors",
+                "reasoned evaluation of ideas and a solution using success criteria",
+                "effective refinement of ideas and a solution using success criteria to make considered\nrecommendations justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "simple synthesis of aerospace systems, technology, and research information and ideas to\npropose a solution, including\n- aircraft performance systems and/or human factors",
+                "feasible evaluation of ideas and a solution using success criteria",
+                "adequate refinement of ideas and a solution using some success criteria to make\nfundamental recommendations justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "rudimentary synthesis of partial aerospace systems, technology, or research information\nand/or ideas to propose an aircraft performance systems and/or human factors solution",
+                "superficial evaluation of ideas or a solution using some success criteria to make elementary\nrecommendations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear combinations of information or ideas",
+                "identification of a change about an idea or the solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Symbolising and Communicating",
+            "objectives": "2, 8",
+            "marks": 7
+          },
+          {
+            "criterion": "Determining and Generating",
+            "objectives": "4, 6",
+            "marks": 9
+          },
+          {
+            "criterion": "Synthesising and Evaluating",
+            "objectives": "5, 7",
+            "marks": 9
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

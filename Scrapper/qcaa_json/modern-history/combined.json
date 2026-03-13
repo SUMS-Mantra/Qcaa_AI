@@ -1,0 +1,795 @@
+{
+  "subject": "Modern History",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Ideas in the Modern World",
+      "subject": "Modern History",
+      "description": "In Unit 1, students form their own knowledge and understanding about ideas that have emerged\nin the Modern World. The ideas examined include assumptions, beliefs, views or opinions that\nare of local, national or international significance. They consist of, for example: authoritarianism,\ncapitalism, communism, democracy, environmental sustainability, egalitarianism, imperialism,\nnationalism, and self-determination. Students apply historical concepts and historical skills to\nexplore the nature, origins, development, legacies and contemporary significance of these ideas\nwithin selected historical contexts, e.g. rebellions, restorations, revolutions or conflicts.\nExamples of key inquiry questions to help guide the course of study in Unit 1 are:\n To what extent did the ideas under investigation help to shape the Modern World?\n How did these ideas influence the development of the Modern World?\nExamples of sub-questions to help guide the course of study in Unit 1 are:\n What terms, concepts and issues are linked to the ideas under investigation?\n Why did these ideas occur?\n To what degree did conditions remain the same or change while these ideas developed?\n How have historians or other commentators interpreted contestable and historical features\nlinked to these ideas?\n How have these ideas influenced recent and/or current events?\nUnit objectives\n1. Devise historical questions and conduct research about ideas in the Modern World.\n2. Comprehend terms, concepts and issues about …"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Movements in the Modern World",
+      "subject": "Modern History",
+      "description": "In Unit 2, students form their own knowledge and understanding about movements that have\nemerged in the Modern World. The movements examined include actions or activities on a local,\nnational or international level that are directed towards a particular social purpose. Often the\nsocial purpose has been to make the world more inclusive, liberal, equitable, egalitarian or\naccessible through the removal of discrimination and exploitation based on some form of\nprejudice, e.g. ableism, anti-Semitism, classism, homophobia, Islamophobia, racism, sexism,\ntransphobia or xenophobia. Students apply historical concepts and historical skills to explore the\nnature, origins, development, legacies and contemporary significance of these movements within\nselected historical contexts.\nExamples of key inquiry questions to help guide the course of study in Unit 2 are:\n To what extent did the movements under investigation help to shape the Modern World?\n How did these movements influence the development of the Modern World?\nExamples of sub-questions to help guide the course of study in Unit 2 are:\n What terms, concepts and issues are linked to these movements under investigation?\n Why did these movements occur?\n When, why and how did individuals, groups, events or other factors contribute to these\nmovements?\n To what degree did conditions remain the same or change while these movements\ndeveloped?\n How have historians or other commentators interpreted contestable and historical features\nlink…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "National experiences in the Modern World",
+      "subject": "Modern History",
+      "description": "In Unit 3, students form their own knowledge and understanding about national experiences that\nhave emerged in the Modern World. The national experiences examined may include crises that\nhave confronted nations, their responses to these crises, and the different paths nations have\ntaken to fulfil their goals. These national experiences consist of, for example: civil wars,\nimmigration policies, electoral campaigns and major economic events. Students apply historical\nconcepts and historical skills to explore the nature, origins, development, legacies and\ncontemporary significance of these national experiences within selected historical contexts.\nExamples of key inquiry questions to help guide the course of study in Unit 3 are:\n To what extent did the national experiences under investigation help to shape the Modern World?\n How did these national experiences influence the development of the Modern World?\nExamples of sub-questions to help guide the course of study in Unit 3 are:\n What terms, concepts and issues are linked to the national experiences under investigation?\n Why did these national experiences occur?\n To what degree did conditions remain the same or change while these national experiences\ndeveloped?\n How have historians or other commentators interpreted contestable and historical features\nlinked to these national experiences?\n How have these national experiences influenced recent and/or current events?\nUnit objectives\n1. Devise historical questions and conduct …"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "International experiences in the Modern World ................................................... 24",
+      "subject": "Modern History",
+      "description": "Assessment __________________________________________ 27\nInternal assessment 1: Examination — extended response (25%) .............................. 27\nInternal assessment 2: Investigation (25%) ...................................................................... 31\nInternal assessment 3: Investigation (25%) ...................................................................... 35\nExternal assessment: Examination — short response (25%) ........................................ 39\nGlossary _____________________________________________ 40\nReferences ___________________________________________ 40\nVersion history________________________________________ 43\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Modern History",
+      "technique": "Examination — short response (25%) ........................................ 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Glossary _____________________________________________",
+          "marks": 40
+        },
+        {
+          "name": "References ___________________________________________",
+          "marks": 40
+        },
+        {
+          "name": "Version History________________________________________",
+          "marks": 43
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Modern History",
+      "technique": "Examination — extended",
+      "unit": "",
+      "conditions": {
+        "topic": "and aspect of the topic focused on national experiences in the Modern World."
+      },
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 0
+        },
+        {
+          "name": "Evaluating",
+          "marks": 0
+        },
+        {
+          "name": "Synthesising",
+          "marks": 0
+        },
+        {
+          "name": "Communicating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "thorough and mostly accurate use of terms in historical context",
+                "informed understanding of concepts related to the unseen question",
+                "detailed explanation of issues related to the unseen question"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "appropriate use of terms in historical context",
+                "reasonable understanding of concepts related to the unseen question",
+                "adequate explanation of issues related to the unseen question"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "partial and/or inaccurate use of terms",
+                "superficial understanding of concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "discerning selection and detailed examination of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective examination of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "adequate examination of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "identification of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of a feature of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "discerning and well-reasoned judgments about the usefulness and/or reliability of evidence\nfrom historical sources in the stimulus"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective judgments about the usefulness and/or reliability of evidence from historical\nsources in the stimulus"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "adequate judgments about the usefulness and/or reliability of evidence from historical\nsources in the stimulus"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "superficial judgments about the usefulness and/or reliability of evidence from historical\nsources in the stimulus"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "irrelevant or inaccurate judgments about the usefulness and/or reliability of evidence from\nhistorical sources in the stimulus"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "sophisticated historical argument that skilfully combines evidence from a range of historical\nsources to justify decisions"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective historical argument that combines evidence from a range of historical sources to\njustify decisions"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "basic historical argument that combines evidence from historical sources to support\ndecisions"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "superficial historical argument that combines evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial historical argument or non-historical argument that refers to evidence from\nsources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "conveys ideas related to the unseen question clearly and purposefully",
+                "all features of an essay in response to historical sources are consistently applied",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "conveys ideas related to the unseen question purposefully",
+                "most features of an essay in response to historical sources are applied",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "conveys idea/s related to the unseen question superficially",
+                "features of an essay in response to historical sources are inconsistently applied",
+                "frequent errors in spelling, grammar and punctuation impede the communication of ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "2",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Synthesising",
+            "objectives": "5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "6",
+            "marks": 5
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Modern History",
+      "technique": "Investigation (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 0
+        },
+        {
+          "name": "Evaluating",
+          "marks": 0
+        },
+        {
+          "name": "Synthesising",
+          "marks": 0
+        },
+        {
+          "name": "Communicating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Devising and Conducting",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "development and application of a nuanced key inquiry question and relevant sub-questions",
+                "discerning selection of relevant evidence from primary and secondary historical sources",
+                "acknowledgment of different perspectives in the evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "development and application of a key inquiry question and relevant sub-questions",
+                "selection of relevant evidence from primary and secondary historical sources",
+                "acknowledgment of perspectives in the evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "includes a key inquiry question and/or sub-questions",
+                "selection of evidence from sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "discerning selection and detailed examination of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective examination of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "adequate examination of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "identification of features of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of a feature of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "discerning and well-reasoned judgments about the usefulness and reliability of evidence\nfrom historical sources"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective judgments about the usefulness and reliability of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "adequate judgments about the usefulness and/or reliability of evidence from historical\nsources"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "superficial judgments about the usefulness and/or reliability of evidence from historical\nsources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "irrelevant or inaccurate judgments about the usefulness and/or reliability of evidence from\nhistorical sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "sophisticated historical argument that skilfully combines evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective historical argument that combines evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "basic historical argument that combines evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "superficial historical argument that combines evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial historical argument or non-historical argument that refers to evidence from\nsources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "conveys ideas related to the key inquiry question and sub-questions clearly and purposefully",
+                "all features of an independent source investigation are consistently applied",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "conveys ideas related to the key inquiry question and sub-questions purposefully",
+                "most features of an independent source investigation are applied",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "conveys idea/s related to the historical question/s superficially",
+                "features of an independent source investigation are inconsistently applied",
+                "frequent errors in spelling, grammar and punctuation impede the communication of ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Devising and Conducting",
+            "objectives": "1",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Synthesising",
+            "objectives": "5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "6",
+            "marks": 5
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Modern History",
+      "technique": "Investigation (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 0
+        },
+        {
+          "name": "Evaluating",
+          "marks": 0
+        },
+        {
+          "name": "Synthesising",
+          "marks": 0
+        },
+        {
+          "name": "Communicating",
+          "marks": 4
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Devising and Conducting",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "development and application of a nuanced key inquiry question",
+                "discerning selection of relevant evidence from primary and secondary historical sources",
+                "acknowledgment of different perspectives in the evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "development and application of a key inquiry question",
+                "selection of relevant evidence from primary and secondary historical sources",
+                "acknowledgment of perspectives in the evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "includes a key inquiry question",
+                "selection of evidence from sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "thorough and mostly accurate use of terms in historical context",
+                "informed understanding of concepts related to the key inquiry question",
+                "detailed explanation of issues related to the key inquiry question"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "appropriate use of terms in historical context",
+                "reasonable understanding of concepts related to the key inquiry question",
+                "adequate explanation of issues related to the key inquiry question"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "partial and/or inaccurate use of terms",
+                "superficial understanding of concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "4",
+              "descriptors": [
+                "discerning and well-reasoned judgments about the usefulness and reliability of evidence\nfrom historical sources"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "effective judgments about the usefulness and reliability of evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "adequate judgments about the usefulness and/or reliability of evidence from historical\nsources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial, irrelevant and/or inaccurate judgments about the usefulness and/or reliability of\nevidence from historical sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "sophisticated historical argument that skilfully combines evidence from historical sources to\njustify decisions"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "effective historical argument that combines evidence from historical sources to justify\ndecisions"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "basic historical argument that combines evidence from historical sources to support\ndecisions"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "superficial historical argument that combines evidence from historical sources"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial historical argument or non-historical argument that refers to evidence from\nsources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "conveys ideas related to the key inquiry question clearly and purposefully",
+                "all features of a historical essay based on research are consistently applied",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "conveys ideas related to the key inquiry question purposefully",
+                "most features of a historical essay based on research are applied",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "conveys idea/s related to the key inquiry question superficially",
+                "features of a historical essay based on research are inconsistently applied",
+                "frequent errors in spelling, grammar and punctuation impede the communication of ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Devising and Conducting",
+            "objectives": "1",
+            "marks": 4
+          },
+          {
+            "criterion": "Comprehending",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 4
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 4
+          },
+          {
+            "criterion": "Synthesising",
+            "objectives": "5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "6",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

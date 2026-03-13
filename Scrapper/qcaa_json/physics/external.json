@@ -1,0 +1,37 @@
+{
+  "assessment": "External",
+  "subject": "Physics",
+  "technique": "Examination — combination response (50%) ........................... 51",
+  "unit": "3 and 4.",
+  "conditions": {
+    "topic": "1: Heating processes (15 hours)"
+  },
+  "criteria": [
+    {
+      "name": "Energy Output",
+      "marks": 100
+    },
+    {
+      "name": "Energy Input",
+      "marks": 1
+    },
+    {
+      "name": "𝑜",
+      "marks": 2
+    },
+    {
+      "name": "2",
+      "marks": 4
+    },
+    {
+      "name": "𝑇𝑎",
+      "marks": 2
+    },
+    {
+      "name": "𝑇𝑏",
+      "marks": 2
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

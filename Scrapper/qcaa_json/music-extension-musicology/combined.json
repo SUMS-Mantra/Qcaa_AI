@@ -1,0 +1,506 @@
+{
+  "subject": "Music Extension (Musicology)",
+  "units": [
+    {
+      "unit": "Unit 3",
+      "title": "Explore",
+      "subject": "Music Extension (Musicology)",
+      "description": "In Unit 3, students enter into an apprenticeship and work towards realising their potential as\ncomposers, musicologists or performers. As an apprentice, students will work alongside an\nexpert, artisan and/or resource to explore their specialisation.\nThrough a gradual release of responsibility model, students develop into musicians who are\nworking towards independence. With explicit guidance from teachers, students explore three\nmodels of apprenticeship: oral traditions, cognitive apprenticeship and interactive learning. They\nconsider what constitutes good practice through research, mentor guidance, critique and\nfundamental skills of the specialisation. Students also develop skills in goal setting and reflective\npractice when developing their skills and understanding in the specialisation.\nUnit objectives\n1. Analyse music and ideas about music.\n2. Apply literacy skills to communicate ideas.\n3. Evaluate music and ideas about music.\n4. Express meaning about music ideas.\n5. Investigate the use of music elements and concepts and ideas about music.\nKey ideas\n Initiate best practice\n Consolidate best practice\nMusic Extension — Musicology 2026 v1.3 Units\nGeneral (Extension) senior syllabus | January 2026 Unit 3: Explore\n\nSubject matter\nKey idea 1: Initiate best practice\nCommon area of study\nStudents:\n initiate best practice by developing techniques and strategies to achieve the most efficient and\neffective result, such as\n- seeking information specific to their specialisation\n- us…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Emerge ....................................................................................................................... 20",
+      "subject": "Music Extension (Musicology)",
+      "description": "Assessment __________________________________________ 22\nInternal assessment 1: Investigation 1 (20%) ................................................................... 22\nInternal assessment 2: Investigation 2 (20%) ................................................................... 24\nInternal assessment 3: Musicology project (35%)............................................................ 26\nExternal assessment: Examination — extended response (25%) ................................ 30\nGlossary _____________________________________________ 31\nReferences ___________________________________________ 31\nVersion history________________________________________ 31\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Music Extension (Musicology)",
+      "technique": "Examination — extended response (25%) ................................ 30",
+      "unit": "3 and 4",
+      "conditions": {
+        "duration": "the relative lengths of  beat and pulse"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Music Extension (Musicology)",
+      "technique": "Investigation 1 (20%) ................................................................... 22",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Applying literacy skills",
+          "bands": [
+            {
+              "marks": "4",
+              "descriptors": [
+                "application of written literacy skills through articulated ideas and controlled structure of\ninformation"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of written literacy skills through sequenced and connected ideas"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of written literacy skills using music terminology relevant to genre/style,\nreferencing and language conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of written literacy skills to describe ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Expressing meaning",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "expression of meaning or ideas about music through the summary of key findings"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "expression of meaning or ideas about music reveals a summary of the text"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "expression of meaning or ideas about music through musicology"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification and citation of music source/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Investigating music",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "investigation of a selection of sources to examine for relevance and value"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "investigation of the use of music elements and concepts and ideas about music from a\nrange of sources"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "investigation of the use of music elements and concepts and ideas about music"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "selection and description of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Applying literacy skills",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Expressing meaning",
+            "objectives": "4",
+            "marks": 8
+          },
+          {
+            "criterion": "Investigating music",
+            "objectives": "5",
+            "marks": 8
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Music Extension (Musicology)",
+      "technique": "Investigation 2 (20%) ................................................................... 24",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Applying literacy skills",
+          "bands": [
+            {
+              "marks": "4",
+              "descriptors": [
+                "application of literacy skills through articulated ideas and controlled structure of information"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of literacy skills through sequenced and connected ideas"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of literacy skills using music terminology relevant to genre/style, referencing and\nlanguage conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of literacy skills to describe ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Expressing meaning",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "expression of meaning or ideas about music is consolidated to enable new understandings\nor conclusions about the topic"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "expression of meaning or ideas about music reveals a considered connection to the topic"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "expression of meaning or ideas about music"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "statement of music ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Investigating music",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "investigation of the use of music elements and concepts and ideas about music from a\ndiscriminating range of sources"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "investigation of the use of music elements and concepts and ideas about music from a\nrange of sources"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "investigation of the use of music elements and concepts and ideas about music"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "selection and description of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Applying literacy skills",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Expressing meaning",
+            "objectives": "4",
+            "marks": 8
+          },
+          {
+            "criterion": "Investigating music",
+            "objectives": "5",
+            "marks": 8
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Music Extension (Musicology)",
+      "technique": "Musicology project (35%)............................................................ 26",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Analysing music",
+          "bands": [
+            {
+              "marks": "10",
+              "descriptors": [
+                "analysis of music elements and concepts and ideas about music is consistently accurate"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "analysis of music identifies interconnections between music elements and concepts and\nideas about music"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "analysis of music elements and concepts and ideas about music\n- is detailed\n- shows specificity"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "analysis of pertinent music elements and concepts and ideas about music from sources"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "analysis of music elements and concepts and ideas about music from sources"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of music elements and features within sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Investigating music",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "investigation of ideas about music\n- determines the relationships between primary and secondary sources\n- supports the refinement of the chosen question, issue, design, challenge or hypothesis"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "investigation of ideas about music\n- from primary and secondary sources\n- supports the chosen question, issue, design, challenge or hypothesis"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "investigation of ideas about music\n- uses a range of sources\n- makes connection to the chosen question, issue, design, challenge or hypothesis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "selection and description of sources"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of music source/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising information",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "synthesis of information is consolidated to enable new understandings or conclusions about\na music idea",
+                "consistent use of credible evidence to support the viewpoint"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "synthesis of information provides conclusions that are clear and logical",
+                "use of credible evidence to support the viewpoint"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "synthesis of information to justify viewpoint",
+                "use of relevant evidence to support the viewpoint"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "organisation of analytical information related to a hypothesis or a music viewpoint",
+                "use of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inclusion of analytical information"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Reflective statement",
+          "bands": [
+            {
+              "marks": "6",
+              "descriptors": [
+                "evaluation provides evidence of metacognition that informs independent best practice"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "application of literacy skills through sequenced and connected ideas, and referencing\nconventions",
+                "evaluation examines the logic of the two selected techniques and/or strategies"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas",
+                "evaluation of two techniques and/or strategies of best practice"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of literacy skills to identify techniques or strategies of best practice"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Analysing music",
+            "objectives": "1",
+            "marks": 10
+          },
+          {
+            "criterion": "Investigating music",
+            "objectives": "5",
+            "marks": 10
+          },
+          {
+            "criterion": "Synthesising information",
+            "objectives": "6",
+            "marks": 9
+          },
+          {
+            "criterion": "Reflective statement",
+            "objectives": "2, 3",
+            "marks": 6
+          }
+        ],
+        "total_marks": 35
+      }
+    }
+  ]
+}

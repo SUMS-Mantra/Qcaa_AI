@@ -1,0 +1,251 @@
+{
+  "assessment": "IA1",
+  "subject": "Modern History",
+  "technique": "Examination — extended",
+  "unit": "",
+  "conditions": {
+    "topic": "and aspect of the topic focused on national experiences in the Modern World."
+  },
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 0
+    },
+    {
+      "name": "Evaluating",
+      "marks": 0
+    },
+    {
+      "name": "Synthesising",
+      "marks": 0
+    },
+    {
+      "name": "Communicating",
+      "marks": 5
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "thorough and mostly accurate use of terms in historical context",
+            "informed understanding of concepts related to the unseen question",
+            "detailed explanation of issues related to the unseen question"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate use of terms in historical context",
+            "reasonable understanding of concepts related to the unseen question",
+            "adequate explanation of issues related to the unseen question"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "partial and/or inaccurate use of terms",
+            "superficial understanding of concepts"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning selection and detailed examination of features of evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective examination of features of evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "adequate examination of features of evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "identification of features of evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "identification of a feature of evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning and well-reasoned judgments about the usefulness and/or reliability of evidence\nfrom historical sources in the stimulus"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective judgments about the usefulness and/or reliability of evidence from historical\nsources in the stimulus"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "adequate judgments about the usefulness and/or reliability of evidence from historical\nsources in the stimulus"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial judgments about the usefulness and/or reliability of evidence from historical\nsources in the stimulus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "irrelevant or inaccurate judgments about the usefulness and/or reliability of evidence from\nhistorical sources in the stimulus"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "sophisticated historical argument that skilfully combines evidence from a range of historical\nsources to justify decisions"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective historical argument that combines evidence from a range of historical sources to\njustify decisions"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "basic historical argument that combines evidence from historical sources to support\ndecisions"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial historical argument that combines evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial historical argument or non-historical argument that refers to evidence from\nsources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "conveys ideas related to the unseen question clearly and purposefully",
+            "all features of an essay in response to historical sources are consistently applied",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "conveys ideas related to the unseen question purposefully",
+            "most features of an essay in response to historical sources are applied",
+            "some errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "conveys idea/s related to the unseen question superficially",
+            "features of an essay in response to historical sources are inconsistently applied",
+            "frequent errors in spelling, grammar and punctuation impede the communication of ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "2",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 5
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 5
+      },
+      {
+        "criterion": "Synthesising",
+        "objectives": "5",
+        "marks": 5
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 25
+  }
+}

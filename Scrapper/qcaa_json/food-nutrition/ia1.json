@@ -1,0 +1,158 @@
+{
+  "assessment": "IA1",
+  "subject": "Food & Nutrition",
+  "technique": "Examination — combination response (25%) ......................... 32",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Recognising and Explaining",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "accurate and discriminating recognition and discerning description of facts and principles\nrelated to the processing, and nutritional, chemical, functional and sensory properties,\nof carbohydrate- or fat-based food",
+            "discerning explanation of food science ideas and problems related to carbohydrate- or fat-\nbased food"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "accurate recognition and effective description of facts and principles related to the\nprocessing, and nutritional, chemical, functional and sensory properties, of carbohydrate- or\nfat-based food",
+            "effective explanation of food science ideas and problems related to carbohydrate- or fat-\nbased food"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate recognition and description of some facts and principles related to the\nprocessing, or nutritional, chemical, functional or sensory properties, of carbohydrate- or\nfat-based food",
+            "appropriate explanation of food science ideas and problems related to carbohydrate- or fat-\nbased food"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent recognition and superficial description of the processing, or nutritional,\nchemical, functional or sensory properties, of carbohydrate- or fat-based food",
+            "superficial explanation of food science ideas and a problem related to a carbohydrate-\nor fat-based food solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing and Determining",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "insightful analysis of relevant problems, information and data related to the properties and\nprocessing of carbohydrate- or fat-based food to identify constraints",
+            "astute determination of success criteria that include the relevant impacts and implications\nof, and the quality and functionality indicators for, the carbohydrate- or fat-based food\nproblem"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "appropriate analysis of problems, information and data related to the properties and\nprocessing of carbohydrate- or fat-based food to identify some of the constraints",
+            "reasonable determination of some success criteria that include the impacts and\nimplications of, and the quality or functionality indicators for, the carbohydrate- or fat-based\nfood problem"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial analysis of problems and information or data related to the properties and\nprocessing of carbohydrate- or fat-based food",
+            "vague determination of some success criteria for the carbohydrate- or fat-based food\nproblem"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "makes statements about a problem or information related to a carbohydrate- or fat-based\nfood problem",
+            "identification of a criterion for carbohydrate- or fat-based food problems"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "coherent and logical synthesis of\n- chemical and functional information\n- nutritional information, and\n- primary and secondary data for chosen solutions",
+            "critical evaluation of ideas and carbohydrate- or fat-based food solutions against success\ncriteria",
+            "discerning refinement of ideas and carbohydrate- or fat-based food solutions\n- against success criteria\n- to make astute recommendations for enhancements, justified by data"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "logical synthesis of\n- chemical and functional information\n- nutritional information, and\n- primary and secondary data for chosen solutions",
+            "reasoned evaluation of ideas and carbohydrate- or fat-based food solutions against\nsuccess criteria",
+            "effective refinement of ideas and carbohydrate- or fat-based food solutions\n- against success criteria\n- to make effective recommendations for enhancements, justified by data"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "simple synthesis of\n- chemical and functional information or\n- nutritional information, and\n- primary or secondary data for chosen solutions",
+            "feasible evaluation of ideas and carbohydrate- or fat-based food solutions against some\nsuccess criteria",
+            "adequate refinement of ideas and carbohydrate- or fat-based food solutions\n- against some success criteria\n- to make fundamental recommendations for enhancements, justified by data"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "rudimentary synthesis of information or data for a chosen solution",
+            "superficial evaluation of ideas and a carbohydrate- or fat-based food solution against some\ncriteria",
+            "superficial refinement of ideas and a carbohydrate- or fat-based food solution\n- against some criteria\n- to make elementary recommendations for enhancements"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "unclear combination of information about a solution for a carbohydrate- or fat-based food\nproblem",
+            "identification of a change to an idea or solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Recognising and Explaining",
+        "objectives": "1, 2",
+        "marks": 7
+      },
+      {
+        "criterion": "Analysing and Determining",
+        "objectives": "3, 4",
+        "marks": 8
+      },
+      {
+        "criterion": "Synthesising and Evaluating",
+        "objectives": "5, 7",
+        "marks": 10
+      }
+    ],
+    "total_marks": 25
+  }
+}

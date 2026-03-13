@@ -1,0 +1,208 @@
+{
+  "assessment": "IA2",
+  "subject": "Study of Religion",
+  "technique": "Investigation — inquiry",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Explaining",
+      "marks": 6
+    },
+    {
+      "name": "Analysing",
+      "marks": 7
+    },
+    {
+      "name": "Evaluating",
+      "marks": 7
+    },
+    {
+      "name": "Communicating",
+      "marks": 5
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Explaining",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "comprehensive and relevant identification of the distinguishing features of one religious\ntradition that informs its ethical teachings",
+            "thorough and detailed description of characteristics of one religious tradition and the way it\ninforms a response to the contemporary personal ethical issue selected",
+            "accurate and detailed explanation of the ways one religious tradition is expressed in the\nlives of adherents in response to the contemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "relevant identification of the distinguishing features of one religious tradition and its ethical\nteachings",
+            "description of characteristics of one religious tradition and the way it informs a response to\nthe contemporary personal ethical issue selected",
+            "explanation of the ways one religious tradition is expressed in the lives of adherents in\nresponse to the contemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "limited identification of the features of one religious tradition and its ethical teachings",
+            "basic description of characteristics of one religious tradition and the way it informs a\nresponse to the contemporary personal ethical issue selected",
+            "simplistic explanation of the ways one religious tradition is expressed in the lives of\nadherents in response to the contemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "critical selection and appropriate use of relevant information from religious texts and other\nauthoritative sources to inform analysis of perspectives about religious expression within\none religious tradition",
+            "detailed and accurate explanation of distinct beliefs and practices within one religious\ntradition, including similarities and differences, that influence responses to the\ncontemporary personal ethical issue selected",
+            "thorough examination of perspectives within one religious tradition that influence responses\nto the contemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "considered selection and use of relevant information from religious texts and other\nauthoritative sources to inform analysis of perspectives about religious expression within\none religious tradition",
+            "explanation of beliefs and practices within one religious tradition, including similarities and\ndifferences, that influence responses to the contemporary personal ethical issue selected",
+            "examination of perspectives within one religious tradition that influence responses to the\ncontemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "selection and use of information from religious texts and/or other authoritative sources to\ninform basic analysis of perspectives about religious expression within one religious\ntradition",
+            "some explanation of beliefs and practices within one religious tradition that influence\nresponses to the contemporary personal ethical issue selected",
+            "basic examination of perspectives within one religious tradition that influence responses to\nthe contemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "limited selection and use of information from religious texts or other authoritative sources to\ninform statements about religious expression within one religious tradition",
+            "simplistic or erroneous statements about beliefs and/or practices within one religious\ntradition related to the contemporary personal ethical issue selected",
+            "one or more statements on a perspective within a religious tradition related to the\ncontemporary personal ethical issue selected"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "thorough and succinct synthesis of ideas about the influence of religious ethics on\nresponses to a contemporary personal ethical issue",
+            "discerning judgments about the significance of religion and its influence on responses to a\ncontemporary personal ethical issue",
+            "detailed justification of judgments supported using reasoning and evidence"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "considered synthesis of ideas about the influence of religious ethics on responses to a\ncontemporary personal ethical issue",
+            "appropriate judgments about the significance of religion and its influence on responses to a\ncontemporary personal ethical issue",
+            "justification of judgments supported using reasoning and evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "some synthesis of ideas about religious ethics and a response to a contemporary personal\nethical issue",
+            "basic judgments about the significance of religion and its influence on responses to a\ncontemporary personal ethical issue",
+            "limited justification of judgments, supported with reasoning and/or evidence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "one or more statements about religious ethics and a response to a contemporary personal\nethical issue",
+            "simplistic and/or erroneous judgments about the significance of religion and its influence on\nresponses to a contemporary personal ethical issue",
+            "inaccurate and/or irrelevant justification"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "accurate choice of religious language, logical, cohesive and succinct development of ideas\nsuitable for the analytical essay genre, including creation of hypothesis",
+            "consistently appropriate application of language conventions (spelling, grammar,\npunctuation)",
+            "consistent identification and acknowledgment of sources, accurately using a\nrecognised/prescribed system of referencing"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate choice of religious language, development of ideas suitable for the analytical\nessay genre, including creation of hypothesis",
+            "application of language conventions (spelling, grammar, punctuation)",
+            "acknowledgment of sources using a system of referencing"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "some use of religious language, with ideas related to a hypothesis and features of an essay",
+            "limited application of language conventions (spelling, grammar, punctuation)",
+            "limited acknowledgment of sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Explaining",
+        "objectives": "1",
+        "marks": 6
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "2",
+        "marks": 7
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "3",
+        "marks": 7
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "4",
+        "marks": 5
+      }
+    ],
+    "total_marks": 25
+  }
+}

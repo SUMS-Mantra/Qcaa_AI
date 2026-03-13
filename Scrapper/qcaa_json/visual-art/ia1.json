@@ -1,0 +1,173 @@
+{
+  "assessment": "IA1",
+  "subject": "Visual Art",
+  "technique": "Investigation — inquiry phase 1 (20%) ..................................... 47",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Developing — generating solutions",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "implementation of ideas and representations informed by\n- constructed knowledge\n- an individualised inquiry question that directs targeted investigation"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "implementation of ideas and representations that synthesise artists’ practices and new\nknowledge and/or experiences"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "implementation of ideas and representations through an inquiry question that generates\nrelevant solutions in response to the defined stimulus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "implementation of ideas in response to the stimulus"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Researching — reacting to stimulus",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "analysis and interpretation of the interrelationships between the individualised reaction to\nthe stimulus and the artworks and/or practices of self and others",
+            "experimentation and exploitation of visual forms and media that demonstrate synthesis of\nnew knowledge and understanding informed by the inquiry"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "analysis and interpretation of\n- literal and non-literal meaning in the work of self and/or others\n- the ways the selected artworks and context/s shape the inquiry",
+            "experimentation with visual forms and media informed by and building on research of\nrelevant key artists and relevant practices"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "analysis and interpretation of key artists’ works\n- through specified context/s\n- in response to the inquiry question",
+            "experimentation with visual forms and media in response to the stimulus and inquiry\nquestion"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "interpretation of meaning and/or context in artworks",
+            "exploration of media, ideas and/or information"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Reflecting — considering ideas and information",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "evaluation of contemporary and/or historical influences and their impact on intellectual\ninquiry",
+            "justification of experimental approaches supported by critical understanding of the\nstrengths, implications and limitations of the visual inquiry"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "evaluation of the influences of relevant primary sources and secondary sources in the\nformulation of ideas",
+            "justification of viewpoints supported by ideas and information presented through the\nstimulus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "identification of relevant sources in the formulation of ideas",
+            "statement of opinions relevant to ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Resolving — communicating as artist and audience",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "application of literacy skills through logical and connected ideas that unpack the inquiry\nquestion",
+            "realisation of responses that reach conclusions and express meaning about the\ninterrelationships of knowledge and art practice to articulate a defined focus"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of literacy skills using referencing, relevant visual art terminology and language\nconventions that recognise artwork features and practices",
+            "realisation of visual, written or spoken responses to communicate the body of work focus in\nresponse to the stimulus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "use of terminology to identify artworks",
+            "presentation of visual, written or spoken responses"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Developing — generating solutions",
+        "objectives": "1",
+        "marks": 5
+      },
+      {
+        "criterion": "Researching — reacting to stimulus",
+        "objectives": "3, 6",
+        "marks": 7
+      },
+      {
+        "criterion": "Reflecting — considering ideas and information",
+        "objectives": "4, 5",
+        "marks": 4
+      },
+      {
+        "criterion": "Resolving — communicating as artist and audience",
+        "objectives": "2, 8",
+        "marks": 4
+      }
+    ],
+    "total_marks": 20
+  }
+}

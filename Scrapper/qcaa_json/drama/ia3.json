@@ -1,0 +1,205 @@
+{
+  "assessment": "IA3",
+  "subject": "Drama",
+  "technique": "Practice-led project (35%) .......................................................... 41",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Applying digital literacy skills in a directorial vision",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "application of digital literacy skills enhances communication by making connections\nbetween ideas"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of digital literacy skills to communicate ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "use of digital media and drama terminology in the directorial vision"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Articulating a directorial vision",
+      "bands": [
+        {
+          "marks": "13-14",
+          "descriptors": [
+            "manipulation shapes a vision that synthesises dramatic languages to reveal layers of\nmeaning in the transformed work",
+            "evaluation reveals the interrelationship between purpose, context and meaning using\ndiscriminating examples"
+          ]
+        },
+        {
+          "marks": "11-12",
+          "descriptors": [
+            "manipulation shows the interrelationship between elements of drama, stagecraft and\nconventions to shape a coherent directorial vision",
+            "evaluation of directorial choices clarifies the relationship between purpose, context and\nmeaning using relevant examples"
+          ]
+        },
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "manipulation shows selection of elements of drama, stagecraft and conventions to\ncommunicate stylistic characteristics within dramatic action and meaning",
+            "evaluation of the vision highlights the impact of directorial choices in relation to identified\npurpose, context and meaning"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "manipulation of elements of drama, stagecraft and conventions to shape and adapt\ndramatic action and meaning to transform an inherited published text into Contemporary\nperformance",
+            "evaluation of the use of dramatic languages to communicate dramatic meaning for a\ncontemporary audience"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "manipulation of elements of drama and conventions to shape dramatic action to suit the\nchosen context or purpose",
+            "explanation of elements of drama and conventions to communicate dramatic context or\npurpose"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "use of elements of drama and conventions",
+            "organisation of ideas to interpret text"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of elements of drama or conventions",
+            "communication of selected text and context"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Demonstrating skills of acting",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "demonstration of skills of acting\n- creates energy and focus through commitment to role, reacting to cues, rhythms of\nperformance and ensemble (as appropriate)\n- is convincing, refined and sustained"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "demonstration of skills of acting is\n- controlled and intentional\n- suited to identified form/style"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "demonstration of skills of acting using\n- expressive skills\n- performance skills"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of expressive skills to communicate scripted dialogue through\n- vocal qualities\n- movement qualities"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating meaning in performance",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "interpretation exploits dramatic languages to reveal layers of meaning",
+            "manipulation synthesises elements of drama, stagecraft and conventions to create\nengaging dramatic action and realise Contemporary performance"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "interpretation intentionally integrates dramatic languages for a contemporary audience",
+            "manipulation of elements of drama, stagecraft and conventions to create a coherent\nContemporary performance"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "interpretation shows valid interrelationships between purpose, context and text",
+            "manipulation of elements of drama, stagecraft and conventions to create dramatic action,\nmeaning and communicate identified Contemporary performance characteristics"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "interpretation of purpose and context within the chosen text",
+            "manipulation of elements of drama, stagecraft and conventions to create dramatic action\nand meaning"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "interpretation shows an understanding of situation, role and relationship in chosen text",
+            "use of elements of drama and stagecraft to create action"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Applying digital literacy skills in a directorial vision",
+        "objectives": "2",
+        "marks": 3
+      },
+      {
+        "criterion": "Articulating a directorial vision",
+        "objectives": "4, 6",
+        "marks": 14
+      },
+      {
+        "criterion": "Demonstrating skills of acting",
+        "objectives": "1",
+        "marks": 8
+      },
+      {
+        "criterion": "Communicating meaning in performance",
+        "objectives": "3, 4",
+        "marks": 10
+      }
+    ],
+    "total_marks": 35
+  }
+}

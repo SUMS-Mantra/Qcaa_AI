@@ -1,0 +1,17 @@
+{
+  "assessment": "External",
+  "subject": "Legal Studies",
+  "technique": "Examination — combination response (25%) ........................... 42",
+  "unit": "1 and Unit 2",
+  "conditions": {
+    "topic": "1: Legal foundations"
+  },
+  "criteria": [
+    {
+      "name": "Punishment",
+      "marks": 1984
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

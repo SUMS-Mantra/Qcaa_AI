@@ -1,0 +1,31 @@
+{
+  "subject": "Aquatic Practices",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "and Unit 2",
+      "subject": "Aquatic Practices",
+      "description": "Schools make A–E judgments on individual assessment instruments implemented in Unit 1 and"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "using reporting standards",
+      "subject": "Aquatic Practices",
+      "description": "Schools report results to the QCAA for students who complete Unit 1 and/or Unit 2. Results are\nreported as satisfactory (S) or unsatisfactory (U). Where appropriate, schools may also report\na not rated (NR).\nUnits 3 and 4\nSchools make A–E judgments on each of the four assessment instruments implemented in\nUnits 3 and 4 using instrument-specific standards (ISS).\nSchools report instrument results to the QCAA for students enrolled in Units 3 and 4 for each\nof the four assessments implemented. Where appropriate, schools may also report a\nnot rated (NR).\nSchools are also responsible for determining and reporting an A–E final subject result to the\nQCAA. The subject result is an on-balance judgment about how the pattern of evidence across\nthe four assessments in Units 3 and 4 best matches the characteristics of the reporting standards\nat one of five levels (A–E).\nAquatic Practices 2024 v1.2 Course overview\nApplied senior syllabus | January 2026 Reporting\n\nUnit options\nUnit option A: Aquatic ecosystems\nIn this unit, students explore the rich biodiversity that exists in aquatic ecosystems, including the\nbiotic and abiotic components that create this diversity. They explain the processes that form,\ndegrade and restore ecosystems and the wide variety of ecological relationships they each\ncontain. Students build skills in identifying species, measuring water quality, conducting risk\nassessments and identifying threats to ecosystems. They gain an appreciation and awareness of\nthe cultural…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Aquatic Practices",
+      "technique": "",
+      "unit": "",
+      "conditions": {
+        "unit": "option D: Aquariums and aquaculture"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

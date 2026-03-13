@@ -1,0 +1,169 @@
+{
+  "assessment": "IA3",
+  "subject": "Engineering",
+  "technique": "Engineered solution (25%) ......................................................... 43",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Symbolising and Communicating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "adept symbolisation and discerning explanation of ideas and a solution in relation to\nmachines and/or mechanisms with\n- sketches and drawings\n- tables and graphs\n- diagrams and/or schemas",
+            "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective symbolisation and considered explanation of ideas and a solution in relation to\nmachines and/or mechanisms with\n- sketches and/or drawings\n- tables and/or graphs\n- diagrams and/or schemas",
+            "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "competent symbolisation and appropriate explanation of some ideas and a solution in\nrelation to machines and/or mechanisms with\n- sketches and/or drawings\n- tables and/or graphs\n- diagrams and/or schemas",
+            "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent symbolisation or superficial explanation of aspects of ideas or a solution in\nrelation to machines and/or mechanisms",
+            "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- grammar and language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Determining and Generating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "astute determination of essential success criteria for the machines and/or mechanisms\nproblem",
+            "proficient generation of a machines and/or mechanisms prototype solution",
+            "provide valid performance data to critically determine the feasibility of the real-world\nsolution"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "reasoned determination of effective success criteria for the machines and/or mechanisms\nproblem",
+            "effective generation of a machines and/or mechanisms prototype solution",
+            "provide valid performance data to effectively determine the feasibility of the real-world\nsolution"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "logical determination of appropriate success criteria for the machines and/or mechanisms\nproblem",
+            "adequate generation of a machines and/or mechanisms prototype solution",
+            "provide relevant performance data to determine the feasibility of the real-world solution"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable determination of some success criteria for the machine and/or mechanism\nproblem",
+            "partial generation of a machine and/or mechanism prototype solution",
+            "provide elements of performance data to partially determine the feasibility of the solution"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about some success criteria for the machines and/or mechanisms problem",
+            "generation of elements of a machines and/or mechanisms prototype solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "coherent and logical synthesis to propose a possible machine and/or mechanism solution\nof ideas and the relevant\n- engineering mechanics\n- materials science\n- control technologies\n- technology\n- research information",
+            "critical evaluation of ideas and a solution using success criteria",
+            "discerning refinement of a solution using success criteria to make astute recommendations\nfor modifications justified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "logical synthesis to propose a possible machine and/or mechanism solution of ideas and\nthe relevant\n- engineering mechanics\n- materials science\n- control technologies\n- technology and/or research information",
+            "reasoned evaluation of ideas and a solution using success criteria",
+            "effective refinement of a solution using success criteria to make considered\nrecommendations for modifications justified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "simple synthesis to propose a possible machine and/or mechanism solution of ideas and\n- engineering mechanics\n- materials science\n- control technologies\n- technology and/or research information",
+            "feasible evaluation of ideas and a solution using some success criteria",
+            "adequate refinement of a solution using some success criteria to make fundamental\nrecommendations for modifications justified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "rudimentary synthesis to propose a machine and/or mechanism solution of partial\nengineering mechanics, materials science, control technologies, technology or research\ninformation, or ideas",
+            "superficial evaluation of ideas or a solution using some success criteria",
+            "superficial refinements of a solution to make elementary recommendations for\nmodifications"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "unclear combinations of information or ideas",
+            "identification of a change about an idea or the solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Symbolising and Communicating",
+        "objectives": "2, 8",
+        "marks": 7
+      },
+      {
+        "criterion": "Determining and Generating",
+        "objectives": "4, 6",
+        "marks": 9
+      },
+      {
+        "criterion": "Synthesising and Evaluating",
+        "objectives": "5, 7",
+        "marks": 9
+      }
+    ],
+    "total_marks": 25
+  }
+}

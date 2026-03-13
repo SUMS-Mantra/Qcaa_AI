@@ -1,0 +1,245 @@
+{
+  "assessment": "IA2",
+  "subject": "Spanish",
+  "technique": "Examination — extended response (25%) .............................. 22",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Creating an extended response in Spanish — Responding and creating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "addresses the three different focuses related to the subject matter in Spanish"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "addresses two of the different focuses related to the subject matter in Spanish"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "addresses one of the different focuses related to the subject matter in Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating an extended response in Spanish — Responding (language elements)",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "constructs meaning by applying comprehensive and complex knowledge of language\nelements with minor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- punctuation\n- consistent register\n- spelling"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "constructs meaning by applying comprehensive knowledge of language elements with\nminor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- punctuation\n- register\n- spelling"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "constructs meaning by applying knowledge of language elements with minor errors in the\nuse of\n- range of vocabulary\n- range of grammar\n- punctuation\n- register\n- spelling"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "constructs meaning by applying some knowledge of language elements with some errors in\nuse of\n- vocabulary\n- grammar\n- punctuation\n- register\n- spelling"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "repetitive use of Spanish language elements and vocabulary"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating an extended response in Spanish — Responding (communication)",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "communicates with discerning selection, sequencing and synthesis of information to justify\nconclusions, ideas and perspectives appropriate to the task and text type"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "communicates with effective selection, sequencing and synthesis of information to justify\nconclusions, ideas and perspectives in a contextually appropriate to the task and text type"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "communicates with selection, sequencing and synthesis of information to justify\nconclusions, ideas and perspectives appropriate to the task and text type"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "communicates with some selection and sequencing of information with some justification of\nconclusions/ideas/perspectives appropriate to the task"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "a written response with some selection and sequencing of information/ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "disjointed use of Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Exchanging information and ideas in Spanish — Language elements",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "constructs meaning in response to stimulus by applying comprehensive knowledge of\nlanguage elements in a conversation with minor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- pronunciation\n- consistent register\n- intonation"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "constructs meaning in response to stimulus by applying knowledge of language elements in\na conversation with minor errors in the use of\n- range of vocabulary\n- range of grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "constructs meaning in response to stimulus by applying some knowledge of language\nelements with some errors in a conversation in the use of\n- vocabulary\n- grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "uses some Spanish language in a conversation, including repetitive use of\n- vocabulary\n- grammar"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of Spanish in a conversation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Exchanging information and ideas in Spanish — Communication",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "demonstrates discerning selection and sequencing of ideas in an unprepared conversation\nwith proficiency and spontaneity"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "demonstrates effective selection and sequencing of ideas in an unprepared conversation\nwith proficiency and spontaneity"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "demonstrates selection and sequencing of ideas in an unprepared conversation with some\nproficiency"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "demonstrates fragmented selection and sequencing of ideas, or delivers a rehearsed set of\nresponses"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "disjointed use of Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Creating an extended response in Spanish — Responding and\ncreating",
+        "objectives": "1, 4, 5, 6",
+        "marks": 3
+      },
+      {
+        "criterion": "Creating an extended response in Spanish — Responding\n(language elements) in Spanish",
+        "objectives": "1, 4, 5, 6",
+        "marks": 6
+      },
+      {
+        "criterion": "Creating an extended response in Spanish — Responding\n(communication)",
+        "objectives": "1, 4, 5, 6",
+        "marks": 6
+      },
+      {
+        "criterion": "Exchanging information and ideas in Spanish — Language\nelements",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Exchanging information and ideas in Spanish —\nCommunication",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 25
+  }
+}

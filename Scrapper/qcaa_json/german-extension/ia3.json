@@ -1,0 +1,155 @@
+{
+  "assessment": "IA3",
+  "subject": "German Extension",
+  "technique": "Investigative folio and interview (30%) ..................................... 28",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Analysing German texts",
+      "bands": [
+        {
+          "marks": "14-15",
+          "descriptors": [
+            "thorough comprehension of language elements, structures and/or textual conventions to\ndraw extensive detail from the stimulus texts to construct discerning meaning in German\nthrough an investigative process",
+            "perceptive interpretation of how meaning, attitudes, perspectives and/or values underpin\ntexts and influence audiences through an investigative process",
+            "discerning analysis and evaluation of relevant information and ideas in German texts\nthrough an investigative process to draw well-constructed and valid conclusions with well-\nsubstantiated justification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "12-13",
+          "descriptors": [
+            "effective comprehension of language elements, structures and/or textual conventions to\ndraw extensive detail from the stimulus texts to construct effective meaning in German\nthrough an investigative process",
+            "effective interpretation of how meaning, attitudes, perspectives and/or values underpin\ntexts and influence audiences through an investigative process",
+            "effective analysis and evaluation of relevant information and ideas in German texts through\nan investigative process to draw well-constructed and valid conclusions with justification of\npoints of view and arguments"
+          ]
+        },
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "comprehension of language elements, structures and/or textual conventions to draw detail\nfrom the stimulus texts to construct meaning in simplified German through an investigative\nprocess",
+            "considered interpretation of how meaning, attitudes, perspectives and/or values underpin\ntexts and influence audiences through an investigative process",
+            "analysis or evaluation of relevant information and ideas in German texts through an\ninvestigative process to draw considered conclusions with justification of points of view and\narguments"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "comprehension of language elements, structures and/or textual conventions to identify\nsome gist and obvious details in some of the stimulus texts",
+            "identification of how meaning, attitudes, perspectives and/or values underpin texts and\ninfluence audiences",
+            "analysis and evaluation of information and ideas in German texts to draw conclusions with\njustification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "comprehension of language elements, structures and/or textual conventions to identify\nsome details in some of the stimulus texts",
+            "superficial identification of how meaning influences audiences",
+            "superficial analysis of some information and ideas in German texts to draw conclusions"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "comprehension of parts of the stimulus texts",
+            "partial identification of how meaning influences audiences",
+            "analysis of some information"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "fragmented identification of attitudes, perspectives and/or values",
+            "comprehension of some German"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "comprehension of some German"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating German texts",
+      "bands": [
+        {
+          "marks": "14-15",
+          "descriptors": [
+            "discerning application of language elements, structures and/or textual conventions to\ncreate meaning in proficient and complex German through an investigative process",
+            "discerning integration of context, purpose, audience, tone and/or cultural conventions to\ncreate fluent texts in German",
+            "discerning synthesis of relevant information to cohesively and coherently structure the\nresponse and develop ideas"
+          ]
+        },
+        {
+          "marks": "12-13",
+          "descriptors": [
+            "effective application of language elements, structures and/or textual conventions to create\nmeaning in mostly proficient and complex German through an investigative process",
+            "effective integration of context, purpose, audience, tone and/or cultural conventions to\ncreate generally fluent texts in German",
+            "effective synthesis of relevant information to cohesively and coherently structure the\nresponse and develop ideas"
+          ]
+        },
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "considered application of language elements, structures and/or textual conventions to\ncreate meaning in mostly proficient or complex German through an investigative process",
+            "considered integration of context, purpose, audience, tone and/or cultural conventions to\ncreate generally fluent texts in German",
+            "considered synthesis of relevant information to structure the response and develop ideas"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "application of language elements, structures and/or textual conventions to create meaning\nin German texts with sufficient proficiency to convey meaning",
+            "integration of context, purpose, audience, tone and/or cultural conventions to create texts in\nGerman",
+            "synthesis of some information to structure the response and/or develop ideas"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "application of some language elements, structures or textual conventions to create\nmeaning in German texts, in which the overall response can be understood",
+            "inconsistent integration of context, purpose, audience or cultural conventions to create texts\nin German",
+            "synthesis of information to structure the response and/or develop ideas"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "application of some language elements, structures or textual conventions to create\nfragmented meaning in German",
+            "integration of some aspects of context, purpose, audience or cultural conventions to create\nfragmented texts in German",
+            "uneven synthesis of information to structure the response and/or develop ideas"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "inaccurate application of language elements to create a response",
+            "isolated integration of context, purpose, audience or cultural conventions to create texts in\nGerman"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "incoherent response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {}
+}

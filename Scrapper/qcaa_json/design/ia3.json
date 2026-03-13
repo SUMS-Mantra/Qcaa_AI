@@ -1,0 +1,176 @@
+{
+  "assessment": "IA3",
+  "subject": "Design",
+  "technique": "Project (25%) ................................................................................ 39",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Exploring",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "insightful analysis of redesign opportunities\n- using relevant data about existing designed solutions and economic, social and\necological sustainability information\n- to identify the significant aesthetic, cultural, economic, social and technical features and\nconstraints of redesign problems and the relationships between them",
+            "discerning description of the\n- features and constraints that define a sustainable redesign problem\n- essential design criteria that integrate the specific requirements of the opportunity\nassociated with the features and constraints of the problem and the principles of good\ndesign"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "appropriate analysis of sustainable redesign opportunities\n- using data about existing designed solutions and economic, social and ecological\nsustainability information\n- to identify features and constraints of redesign problems and the relationships between\nthem",
+            "adequate description of\n- the features that define a sustainable redesign problem\n- design criteria based on the requirements of the opportunity and the principles of good\ndesign"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "superficial analysis of sustainable redesign opportunities to identify partial features of\nredesign problems",
+            "superficial description of a sustainable redesign problem and some design criteria"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about opportunities",
+            "description of aspects of a redesign problem"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Devising",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "range of credible ideas perceptively devised using circular design in response to the\nsustainable redesign problem that demonstrate flexibility in ways of responding, originality\nand detailed attributes"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "range of credible ideas appropriately devised using circular design in response to the\nsustainable redesign problem that demonstrate detailed attributes"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "ideas superficially devised or described in response to aspects of the sustainable redesign\nproblem"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating and Proposing",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "critical evaluation of the strengths, limitations and implications of ideas against design\ncriteria",
+            "discerning refinement of ideas based on the criteria and stakeholder feedback",
+            "coherent, logical and innovative sustainable design concept proposed, by combining\nattributes of multiple ideas and sustainability information, in response to the design problem"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "feasible evaluation of the strengths and limitations of ideas against design criteria",
+            "make changes to ideas related to the criteria",
+            "credible sustainable design concept proposed, by combining ideas and sustainability\ninformation, in response to the design problem"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about ideas",
+            "partial sustainable concept proposed based on an idea"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Representing and Communicating",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "sophisticated representation of ideas, a sustainable design concept and sustainability\ninformation using fluent sequences of schematic sketching, ideation sketching and\nlow-fidelity prototyping to progress understanding in the design process",
+            "discerning decision-making about, and fluent use of\n- illustrations and/or low-fidelity prototypes with written features to present a visual display\nthat promotes the sustainable design concept for relevant stakeholders\n- written conventions, features and design-specific language to present a design brief for\nrelevant stakeholders"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "considered representation of ideas, a sustainable design concept and sustainability\ninformation using proficient schematic sketching and ideation sketching and low-fidelity\nprototyping to progress understanding in the design process",
+            "effective decision-making about, and proficient use of\n- illustrations and/or low-fidelity prototypes with written features to present a visual display\nthat promotes the sustainable design concept for stakeholders\n- written conventions, features and design-specific language to present a design brief for\nstakeholders"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "appropriate representation of ideas, a sustainable design concept and sustainability\ninformation using schematic sketching and ideation sketching and low-fidelity prototyping in\nthe design process",
+            "appropriate decision-making about and use of\n- illustrations and/or low-fidelity prototypes with written features to present a visual display\nthat promotes the sustainable design concept\n- written conventions and features to present a design brief"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "cursory representation of ideas and information using unclear sketching in the design\nprocess",
+            "variable decision-making about, and inconsistent use of\n- illustrations and/or low-fidelity prototypes to show a design concept\n- written conventions used in a design brief"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Exploring",
+        "objectives": "3, 1",
+        "marks": 7
+      },
+      {
+        "criterion": "Devising",
+        "objectives": "4",
+        "marks": 5
+      },
+      {
+        "criterion": "Evaluating and Proposing",
+        "objectives": "5, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Representing and Communicating",
+        "objectives": "2, 7",
+        "marks": 8
+      }
+    ],
+    "total_marks": 25
+  }
+}

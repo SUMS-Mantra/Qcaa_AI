@@ -1,0 +1,183 @@
+{
+  "assessment": "IA2",
+  "subject": "Literature",
+  "technique": "Imaginative response (25%)....................................................... 30",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Knowledge application",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "subtle and complex creation of perspectives and representations of concepts, identities,\ntimes and/or places in a reimagined spoken/multimodal text",
+            "discerning manipulation of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin texts, to invite audiences to reinterpret the base text",
+            "discerning use of aesthetic features and/or stylistic devices to prompt emotional and critical\naudience responses"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective creation of perspectives and representations of concepts, identities, times and/or\nplaces in a reimagined spoken/multimodal text",
+            "effective manipulation of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin texts, to invite audiences to reinterpret the base text",
+            "effective use of aesthetic features and/or stylistic devices to prompt emotional and critical\naudience responses"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "appropriate creation of perspectives and representations of concepts, identities, times\nand/or places in a reimagined spoken/multimodal text",
+            "appropriate use of the ways cultural assumptions, attitudes, values and/or beliefs underpin\ntexts, to invite audiences to reinterpret the base text",
+            "appropriate use of aesthetic features and/or stylistic devices to prompt audience responses"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial creation of perspectives and representations of concepts, identities, times and/or\nplaces in a reimagined spoken/multimodal text",
+            "superficial use of the ways cultural assumptions, attitudes, values and/or beliefs underpin\ntexts, to invite audiences to reinterpret the base text",
+            "use of aspects of aesthetic features and/or stylistic devices that vary in suitability"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "creation of fragmented perspectives and representations of concepts, identities, times\nand/or places in a reimagined spoken/multimodal text",
+            "fragmented use of some ways ideas underpin texts",
+            "fragmented use of language features"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organisation and development",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "discerning use of the patterns and conventions of the chosen imaginative genre, and the\nrole of the speaker/designer, to engage audiences with a reimagined text and invite them to\nreinterpret the base text",
+            "discerning selection and synthesis of subject matter to support perspectives in a\nreimagined spoken/multimodal text",
+            "discerning organisation and sequencing of subject matter to achieve particular purposes,\nincluding the discerning use of cohesive devices to develop and emphasise ideas and\nconnect parts of the reimagined spoken/multimodal text"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective use of the patterns and conventions of the chosen imaginative genre, and the role\nof the speaker/designer, to engage audiences with a reimagined text and invite them to\nreinterpret the base text",
+            "effective selection and synthesis of subject matter to support perspectives in a reimagined\nspoken/multimodal text",
+            "effective organisation and sequencing of subject matter to achieve particular purposes,\nincluding the effective use of cohesive devices to develop and emphasise ideas and\nconnect parts of the reimagined spoken/multimodal text"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "suitable use of the patterns and conventions of the chosen imaginative genre, and the role\nof the speaker/designer, to establish and maintain relationships with audiences",
+            "suitable selection and synthesis of subject matter to support perspectives in a reimagined\nspoken/multimodal text",
+            "suitable organisation and sequencing of subject matter to achieve particular purposes,\nincluding the suitable use of cohesive devices to develop and emphasise ideas and\nconnect parts of the reimagined spoken/multimodal text"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "inconsistent use of the patterns and conventions of the chosen imaginative genre, and the\nrole of the speaker/designer, to establish relationships with audiences",
+            "narrow selection of subject matter to support perspectives",
+            "disjointed organisation and sequencing of subject matter, including some use of cohesive\ndevices to connect parts of the reimagined spoken/multimodal text"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "fragmented use of the patterns and conventions of the chosen imaginative genre and\naspects of the role of the speaker/designer",
+            "fragmented selection of subject matter",
+            "some connections between parts of the text"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Textual features",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "discerning language choices for particular purposes in a specific context",
+            "discerning combination of a range of grammatically accurate/appropriate language\nstructures to achieve particular purposes",
+            "discerning use of mode-appropriate features to achieve particular purposes"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective language choices for particular purposes in a specific context",
+            "effective use of a range of grammatically accurate/appropriate language structures to\nachieve particular purposes",
+            "effective use of mode-appropriate features to achieve particular purposes"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "suitable language choices for particular purposes in a specific context",
+            "suitable use of a range of mostly grammatically accurate/appropriate language structures to\nachieve particular purposes",
+            "suitable use of mode-appropriate features to achieve particular purposes"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "language choices that vary in suitability",
+            "uneven use of grammar and language structures",
+            "use of mode-appropriate features that vary in suitability"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate language choices",
+            "fragmented use of grammar and language structures",
+            "fragmented use of mode-appropriate features"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Knowledge application",
+        "objectives": "3, 4, 5",
+        "marks": 9
+      },
+      {
+        "criterion": "Organisation and development",
+        "objectives": "1, 2, 6, 7, 8",
+        "marks": 9
+      },
+      {
+        "criterion": "Textual features",
+        "objectives": "9, 10, 11",
+        "marks": 7
+      }
+    ],
+    "total_marks": 25
+  }
+}

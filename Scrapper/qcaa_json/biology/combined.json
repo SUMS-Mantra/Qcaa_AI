@@ -1,0 +1,514 @@
+{
+  "subject": "Biology",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Cells and multicellular organisms",
+      "subject": "Biology",
+      "description": "In Unit 1, students explore the ways biology is used to describe and explain how the structure and\nfunction of cells and their components are related to the need to exchange matter and energy\nwith their immediate environment. An understanding of the structure and function of cells is\nessential to appreciate the processes vital for survival. Students investigate the structure and\nfunction of cells and multicellular organisms. They examine the structure and function of plant and\nanimal systems at cell and tissue levels in order to analyse how they facilitate the efficient\nprovision or removal of materials.\nContexts that could be investigated in this unit include stem cell research, animal ethics, organ\nand tissue transplantation, bio-artificial organs and photosynthesis productivity. Through the\ninvestigation of these contexts, students may explore the ethical considerations that apply to the\nuse of living organisms in research.\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of the\nrelationship between structure and function of cells and multicellular organisms. Collaborative\nexperimental work also helps students to develop communication, interaction, character and\nmanagement skills.\nThroughout the unit, students develop skills in conducting real or virtual laboratory work and\ncarrying out microscopic examination of cells and tissues. They use th…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Maintaining the internal environment",
+      "subject": "Biology",
+      "description": "In Unit 2, students explore the ways biology is used to describe and explain the responses of\nhomeostatic mechanisms to stimuli and the human immune system. An understanding of\npersonal and communal responses is essential to appreciate personal lifestyle choices and\ncommunity health. Students develop scientific skills and conceptual understanding in\nhomeostasis, the immune system and the relationships between global, community and individual\nimmunity. They examine geographical and population data to analyse strategies that may have\npersonal and communal consequences.\nContexts that could be investigated in this unit include historical and current epidemics and\npandemics. Through the investigation of these contexts, students may explore immunisation,\nquarantine, management strategies and travel preparation (both local and international).\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of controlling\nthe internal environment. Collaborative experimental work also helps students to develop\ncommunication, interaction, character and management skills.\nThroughout the unit, students develop skills in the application of technology, scientific practicals\nand investigations, analysis and evaluation. These skills allow them to describe and explain\nrelationships between external and internal stimuli on controlling the internal environment.\nUnit objectives\n1. …"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Biodiversity and the interconnectedness",
+      "subject": "Biology",
+      "description": "of life\nIn Unit 3, students explore the ways biology is used to describe and explain: the biodiversity\nwithin ecosystems; a range of biotic and abiotic components; species interactions; adaptations of\norganisms to their environment; principles of population dynamics; and how classification\nsystems are used to identify organisms and aid scientific communication. An understanding of the\nstructure of ecosystems, the processes involved in the movement of energy and matter in\necosystems and how environmental factors limit populations is essential to appreciate the\ndynamics, diversity and underlying unity of these systems. Students investigate the interactions\nwithin and between species, and the interactions between abiotic and biotic components of\necosystems. They also investigate how measurements of abiotic factors, population numbers,\nspecies diversity and descriptions of interactions between species can form the basis for spatial\nand temporal comparisons between ecosystems. They examine and analyse data collected from\nfieldwork to understand the interconnectedness of organisms, the physical environment and the\nimpact of human activity.\nContexts that could be investigated in this unit include the local ecosystem; fishing and mining\nindustries; habitat destruction; and ecosystem management systems. Through investigating these\ncontexts, students may explore the impact of human activity on biodiversity, and sustainability of\npractices.\nParticipation in a range of experiments and in…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Heredity and continuity of life .................................................................................. 34",
+      "subject": "Biology",
+      "description": "Assessment __________________________________________ 39\nInternal assessment 1: Data test (10%)............................................................................. 39\nInternal assessment 2: Student experiment (20%) .......................................................... 42\nInternal assessment 3: Research investigation (20%) .................................................... 46\nExternal assessment: Examination — combination response (50%) ........................... 50\nGlossary _____________________________________________ 52\nReferences ___________________________________________ 52\nVersion history________________________________________ 53\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.ql…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Biology",
+      "technique": "Examination — combination response (50%) ........................... 50",
+      "unit": "3 and 4.",
+      "conditions": {
+        "topic": "1: Cells as the basis of life (15 hours)"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Biology",
+      "technique": "Data test (10%)............................................................................. 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Data test",
+          "bands": [
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 90%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 70%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 50%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 30%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 10%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 1%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "≤ 1%"
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Data test",
+            "objectives": "2, 3, 4",
+            "marks": 10
+          }
+        ],
+        "total_marks": 10
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Biology",
+      "technique": "Student experiment (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale for the experiment",
+                "justified modifications to the methodology",
+                "a specific and relevant research question",
+                "a methodology that enables the collection of sufficient and relevant data",
+                "appropriate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale for the experiment",
+                "feasible modifications to the methodology",
+                "a relevant research question",
+                "a methodology that enables the collection of relevant data",
+                "use of basic genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the experiment",
+                "inappropriate modifications to the methodology",
+                "an inappropriate research question",
+                "a methodology that causes the collection of insufficient and irrelevant data",
+                "inadequate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered management of risks/ethical issues/environmental issues",
+                "collection of sufficient and relevant raw data",
+                "fluent and concise use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "management of risks/ethical issues/environmental issues",
+                "collection of relevant raw data",
+                "competent use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate management of risks/ethical issues/environmental issues",
+                "collection of insufficient and irrelevant raw data",
+                "simplistic use of language and representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "correct and relevant processing of data",
+                "thorough identification of relevant trends/patterns/relationships",
+                "thorough and appropriate identification of the uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "basic processing of data",
+                "identification of obvious trends/patterns/relationships",
+                "basic identification of uncertainty and/or limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "incorrect or irrelevant processing of data",
+                "identification of incorrect or irrelevant trends/patterns/relationships",
+                "incorrect or insufficient identification of uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting and Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified conclusion/s linked to the research question",
+                "justified discussion of the reliability and validity of the experimental process",
+                "suggested improvements and extensions to the experiment that are logically derived from the\nanalysis of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable conclusion/s relevant to the research question",
+                "reasonable description of the reliability and/or validity of the experimental process",
+                "suggested improvements and/or extensions to the experiment that are related to the analysis\nof evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant conclusion/s",
+                "cursory or simplistic statements about the reliability and validity of the experimental process",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Finding",
+            "objectives": "1, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2, 3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting and Evaluating",
+            "objectives": "4, 5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Biology",
+      "technique": "Research investigation (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        },
+        {
+          "name": "Interpreting",
+          "marks": 5
+        },
+        {
+          "name": "Evaluating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming and Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale identifying clear development of the research question from the claim",
+                "a specific and relevant research question",
+                "selection of sufficient and relevant sources",
+                "appropriate use of genre conventions",
+                "acknowledgment of sources of information through appropriate use of referencing\nconventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale that links the research question and the claim",
+                "a relevant research question",
+                "selection of relevant sources",
+                "use of basic genre conventions",
+                "use of basic referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the investigation",
+                "an inappropriate research question",
+                "selection of insufficient or irrelevant sources",
+                "inadequate use of genre conventions",
+                "inadequate acknowledgment of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "the identification of sufficient and relevant evidence",
+                "thorough identification of relevant trends/patterns/relationships in evidence",
+                "thorough and appropriate identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "the identification of relevant evidence",
+                "identification of obvious trends/patterns/relationships in evidence",
+                "basic identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "the identification of insufficient and irrelevant evidence",
+                "identification of incorrect or irrelevant trends/patterns/relationships in evidence",
+                "incorrect or insufficient identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified scientific argument/s",
+                "justified conclusion linked to the research question",
+                "fluent and concise use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable scientific argument/s",
+                "reasonable conclusion relevant to the research question",
+                "competent use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant argument/s",
+                "inappropriate or irrelevant conclusion",
+                "incorrect use of language/representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified discussion of the quality of evidence",
+                "extrapolation of credible findings of the research to the claim",
+                "suggested improvements and extensions to the investigation that are considered and\nrelevant to the claim"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable description of the quality of evidence",
+                "application of relevant findings of the research to the claim",
+                "suggested improvements and/or extensions to the investigation that are relevant to the claim"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "cursory or simplistic statements about the quality of evidence",
+                "application of insufficient or inappropriate findings of the research to the claim",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming and Finding",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting",
+            "objectives": "1, 4",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    }
+  ]
+}

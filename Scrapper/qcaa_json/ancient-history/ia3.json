@@ -1,0 +1,241 @@
+{
+  "assessment": "IA3",
+  "subject": "Ancient History",
+  "technique": "Investigation (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 0
+    },
+    {
+      "name": "Evaluating",
+      "marks": 0
+    },
+    {
+      "name": "Synthesising",
+      "marks": 0
+    },
+    {
+      "name": "Communicating",
+      "marks": 4
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Devising and Conducting",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "development and application of a nuanced key inquiry question",
+            "discerning selection of relevant evidence from ancient and modern historical sources",
+            "acknowledgment of different perspectives in the evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "development and application of a key inquiry question",
+            "selection of relevant evidence from ancient and modern historical sources",
+            "acknowledgment of perspectives in the evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "includes a key inquiry question",
+            "selection of evidence from sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "thorough and mostly accurate use of terms in historical context",
+            "informed understanding of concepts related to the key inquiry question",
+            "detailed explanation of issues related to the key inquiry question"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "appropriate use of terms in historical context",
+            "reasonable understanding of concepts related to the key inquiry question",
+            "adequate explanation of issues related to the key inquiry question"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "partial and/or inaccurate use of terms",
+            "superficial understanding of concepts"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "4",
+          "descriptors": [
+            "discerning and well-reasoned judgments about the usefulness and reliability of evidence\nfrom historical sources"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "effective judgments about the usefulness and reliability of evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "adequate judgments about the usefulness and/or reliability of evidence from historical\nsources"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial, irrelevant and/or inaccurate judgments about the usefulness and/or reliability of\nevidence from historical sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "sophisticated historical argument that skilfully combines evidence from historical sources to\njustify decisions"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective historical argument that combines evidence from historical sources to justify\ndecisions"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "basic historical argument that combines evidence from historical sources to support\ndecisions"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial historical argument that combines evidence from historical sources"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial historical argument or non-historical argument that refers to evidence from\nsources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "conveys ideas related to the key inquiry question clearly and purposefully",
+            "all features of a historical essay based on research are consistently applied",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "conveys ideas related to the key inquiry question purposefully",
+            "most features of a historical essay based on research are applied",
+            "some errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "conveys idea/s related to the key inquiry question superficially",
+            "features of a historical essay based on research are inconsistently applied",
+            "frequent errors in spelling, grammar and punctuation impede the communication of ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Devising and Conducting",
+        "objectives": "1",
+        "marks": 4
+      },
+      {
+        "criterion": "Comprehending",
+        "objectives": "2",
+        "marks": 4
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 4
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 4
+      },
+      {
+        "criterion": "Synthesising",
+        "objectives": "5",
+        "marks": 5
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "6",
+        "marks": 4
+      }
+    ],
+    "total_marks": 25
+  }
+}

@@ -1,0 +1,462 @@
+{
+  "subject": "Mathematical Methods",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Surds, algebra, functions and probability",
+      "subject": "Mathematical Methods",
+      "description": "In Unit 1, students will develop mathematical understandings and skills to solve problems\nrelating to:\n Topic 1: Surds and quadratic functions\n Topic 2: Binomial expansion and cubic functions\n Topic 3: Functions and relations\n Topic 4: Trigonometric functions\n Topic 5: Probability.\nWorking with surds provides techniques that are useful in several areas of mathematics.\nRelationships between variable quantities are reviewed and these are used to introduce the key\nconcepts of a function and its graph. The algebraic expansion of powers of a binomial are found\nusing the binomial theorem. Quadratic, cubic and reciprocal functions are studied. Graphs of\nrelations are introduced. Trigonometric functions, graphs and equations are studied. The study of\ninferential statistics begins in this unit with a review of the fundamentals of probability and the\nintroduction of the concepts of conditional probability and independence.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nMathematical Methods 2025 v1.3 Units\n\nSubject matter\nTopic 1: Surds and quadratic functions\nSub-topic: Surds (4 hours)\n Understand the concept of a surd as an irrational number represented using a square root or a\nradical sign.\n Simplify square roots of natural numbers which contain perfect square factors,\ne.g. √45 = √9× 5= √9√5= …"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Calculus and further functions",
+      "subject": "Mathematical Methods",
+      "description": "In Unit 2, students will develop mathematical understandings and skills to solve problems\nrelating to:\n Topic 1: Exponential functions\n Topic 2: Logarithms and logarithmic functions\n Topic 3: Introduction to differential calculus\n Topic 4: Applications of differential calculus\n Topic 5: Further differentiation.\nExponential graphs are examined and their applications in a wide range of settings are explored.\nLogarithms are introduced. Logarithmic laws and definitions are developed and used, logarithmic\nfunctions are explored graphically and algebraically and the applications of logarithmic functions\nare studied.\nRates and average rates of change are also introduced, followed by the key concept of the\nderivative as an ‘instantaneous rate of change’. These concepts are reinforced numerically,\ngeometrically as gradients of chords and tangents, and algebraically.\nCalculus is developed to study the derivatives of power and polynomial functions, with\napplications of the derivative to curve sketching, calculating gradients, finding equations of\ntangents and normals (a link to linear functions is assumed knowledge), determining\ninstantaneous rates of change of displacements as velocities and solving problems using\ndifferentiation rules.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nMathematical M…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Further calculus and introduction to statistics",
+      "subject": "Mathematical Methods",
+      "description": "In Unit 3, students will develop mathematical understandings and skills to solve problems relating to:\n Topic 1: Differentiation of exponential and logarithmic functions\n Topic 2: Differentiation of trigonometric functions and differentiation rules\n Topic 3: Further applications of differentiation\n Topic 4: Introduction to integration\n Topic 5: Discrete random variables.\nThe study of calculus continues with the derivatives of exponential, logarithmic and trigonometric\nfunctions and their applications, together with some differentiation techniques and applications to\noptimisation problems and graph sketching. Integration, both as a process that reverses\ndifferentiation and as a way of determining displacement given velocity or acceleration,\nis introduced.\nDiscrete random variables are introduced; this supports the development of a framework for\nstatistical inference. Use of discrete random variables in modelling random processes involving\nchance and variation are studied.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nMathematical Methods 2025 v1.3 Units\n\nSubject matter\nTopic 1: Differentiation of exponential and logarithmic functions\nSub-topic: Calculus of exponential functions (6 hours)\n𝑎ℎ−1\n Estimate the limit of as ℎ → 0, using technology, for various values of 𝑎 > 0.\nℎ\n Recognise t…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Further calculus, trigonometry and statistics ........................................................ 27",
+      "subject": "Mathematical Methods",
+      "description": "Assessment __________________________________________ 31\nInternal assessment 1: Problem-solving and modelling task (20%).............................. 31\nInternal assessment 2: Examination — short response (15%) ...................................... 35\nInternal assessment 3: Examination — short response (15%) ...................................... 39\nExternal assessment: Examination — combination response (50%) ........................... 43\nGlossary _____________________________________________ 46\nReferences ___________________________________________ 46\nVersion history________________________________________ 48\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-subjects and in …"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Mathematical Methods",
+      "technique": "Examination — combination response (50%) ........................... 43",
+      "unit": "1 and Unit 2",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "1",
+          "marks": 2
+        },
+        {
+          "name": "1 2",
+          "marks": 3
+        },
+        {
+          "name": "6",
+          "marks": 4
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Mathematical Methods",
+      "technique": "Problem-solving and modelling task (20%).............................. 31",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Formulate",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "justified statements of important assumptions",
+                "justified statements of important observations",
+                "justified mathematical translation of important aspects of the task"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "statement of a relevant assumption",
+                "statement of a relevant observation",
+                "mathematical translation of an aspect of the task"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Solve",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "accurate use of mathematical knowledge for important aspects of the task",
+                "efficient use of technology",
+                "a complete solution"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "use of mathematical knowledge for an important aspect of the task",
+                "use of technology",
+                "substantial progress towards a solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "simplistic use of mathematical knowledge relevant to the task",
+                "simplistic use of technology",
+                "progress towards a solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate use of mathematical knowledge or technology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluate",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "verified results",
+                "justified statements about the reasonableness of the solution by considering the\nassumptions",
+                "justified statements about the reasonableness of the solution by considering the\nobservations",
+                "justified statements of relevant strengths of the solution",
+                "justified statements of relevant limitations of the solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a verified result",
+                "statement about the reasonableness of the solution by considering an assumption or\nobservation",
+                "statement of a relevant strength or relevant limitation of the solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statement about the reasonableness of a result or the solution",
+                "statement of a strength or limitation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicate",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "correct use of appropriate mathematical language",
+                "logical organisation of the response, which can be read independently of the task sheet",
+                "justification of decisions using mathematical reasoning"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "use of some appropriate mathematical language",
+                "adequate organisation of the response",
+                "statement of a relevant decision"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Formulate",
+            "objectives": "1, 5",
+            "marks": 4
+          },
+          {
+            "criterion": "Solve",
+            "objectives": "1, 2, 6",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluate",
+            "objectives": "4, 5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicate",
+            "objectives": "3, 5",
+            "marks": 4
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Mathematical Methods",
+      "technique": "Examination — short response (15%) ...................................... 35",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Foundational knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 87%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 73%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 67%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 47%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 27%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 13%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 7%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Foundational knowledge and problem-solving",
+            "objectives": "1, 2, 3, 4, 5, 6",
+            "marks": 15
+          }
+        ],
+        "total_marks": 15
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Mathematical Methods",
+      "technique": "Examination — short response (15%) ...................................... 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Foundational knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 87%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 73%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 67%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 47%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 27%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 13%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 7%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Foundational knowledge and problem-solving",
+            "objectives": "1, 2, 3, 4, 5, 6",
+            "marks": 15
+          }
+        ],
+        "total_marks": 15
+      }
+    }
+  ]
+}

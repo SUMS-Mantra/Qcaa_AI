@@ -1,0 +1,211 @@
+{
+  "assessment": "IA3",
+  "subject": "Film, Television & New Media",
+  "technique": "Stylistic production (35%) ..................................................... 36",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Pre-production",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "• design for a stylistic moving-image media product using clear and effective formatting that\nguides the production"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• design for a stylistic moving-image media product that communicates intended purpose,\nusing\n- technical codes\n- symbolic codes"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "• design for a stylistic moving-image media product using conventions of a pre-production\nformat"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• use of a pre-production format"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• evidence of an idea"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Production: Creating moving-image media products",
+      "bands": [
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "• creation of a moving-image media product that demonstrates mastery of\n- production technologies\n- post-production processes"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "• creation of a refined moving-image media product by extending or exploiting the use of\n- production technologies\n- post-production processes"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "• creation of a moving-image media product by skilful use of\n- production technologies\n- post-production processes"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "• creation of a moving-image media product using production technologies and post-\nproduction processes"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• creation of components of a moving-image media product\n- using production technologies\n- through arranging media elements"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "• use of equipment to record or create own\n- visuals\n- audio"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Production: Resolving ideas, elements and processes",
+      "bands": [
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "• resolution of ideas, elements and processes to create a stylistic moving-image media\nproduct that\n- is consolidated through production practices\n- articulates a personalised, artistic identity"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "• resolution of ideas, elements and processes to create a stylistic moving-image media\nproduct through selection and use of\n- production practices that suit contexts of production and use\n- a personalised aesthetic"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "• resolution of ideas, elements and processes to create a moving-image media product that\ndemonstrates\n- production practices that suit contexts of production or use\n- a stylistic aesthetic"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "• resolution of ideas, elements and processes to communicate developed production\npractices and stylistic choices in a production"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• communication of stylistic elements in a moving-image media product, using\n- representations\n- languages"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "• use of\n- ideas, elements or processes\n- stylistic elements"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Statement of intent",
+      "bands": [
+        {
+          "marks": "7",
+          "descriptors": [
+            "• evaluation and justification that reveals the significance of stylistic influences on production\nchoices"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• evaluation of\n- stylistic influences\n- personalised use of production technologies and post-production processes"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• evaluation of\n- stylistic conventions\n- production practices\nin a statement of intent"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• description of stylistic elements"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of production ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Pre-production",
+        "objectives": "1",
+        "marks": 6
+      },
+      {
+        "criterion": "Production: Creating moving-image media products",
+        "objectives": "2",
+        "marks": 11
+      },
+      {
+        "criterion": "Production: Resolving ideas, elements and processes",
+        "objectives": "3",
+        "marks": 11
+      },
+      {
+        "criterion": "Statement of intent",
+        "objectives": "6",
+        "marks": 7
+      }
+    ],
+    "total_marks": 35
+  }
+}

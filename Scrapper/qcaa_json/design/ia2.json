@@ -1,0 +1,191 @@
+{
+  "assessment": "IA2",
+  "subject": "Design",
+  "technique": "Project (30%) ................................................................................ 34",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Exploring",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "insightful analysis of needs and wants\n- using relevant primary data about the stakeholder, secondary data about existing designs\nand designing with empathy knowledge\n- to identify the significant aesthetic, cultural, economic, social and technical features and\nconstraints of design problems and the relationships between them",
+            "discerning description of the\n- features and constraints that define a HCD problem\n- essential design criteria that integrate the stakeholder’s specific requirements associated\nwith the features and constraints of the problem and the principles of good design"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "considered analysis of needs and wants\n- using relevant primary data about the stakeholder, secondary data about existing designs\nand designing with empathy knowledge\n- to identify valid features and constraints of design problems and the relationships\nbetween them",
+            "effective description of the\n- features that define a HCD problem\n- design criteria based on the stakeholder’s requirements and principles of good design"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "appropriate analysis of needs and wants\n- using primary data about the stakeholder, secondary data about existing designs and\ndesigning with empathy information\n- to identify some features, constraints of design problems and the relationships between\nthem",
+            "adequate description of\n- the features that define a HCD problem\n- some design criteria based on the stakeholder’s requirements and principles of good\ndesign"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial analysis of needs and wants using stakeholder information to identify partial\nfeatures",
+            "superficial description of a HCD problem and some design criteria"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "statements about needs and/or wants",
+            "description of aspects of a HCD problem"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Devising",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "range of credible ideas perceptively devised using designing with empathy in response to\nthe HCD problem that demonstrate flexibility in ways of responding, originality and detailed\nattributes"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "range of credible ideas appropriately devised using designing with empathy in response to\nthe HCD problem that demonstrate detailed attributes"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "ideas superficially devised or described in response to aspects of the HCD problem"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating and Proposing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "critical evaluation of the strengths, limitations and implications of ideas against design\ncriteria",
+            "discerning refinements of ideas based on the criteria and stakeholder feedback",
+            "coherent, logical and innovative HCD concept proposed, by combining attributes of multiple\nideas and stakeholder information, in response to the design problem"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "feasible evaluation of the strengths and limitations of ideas against design criteria",
+            "effective refinements to ideas in response to the criteria",
+            "logical and credible HCD concept proposed, by combining ideas and stakeholder\ninformation, in response to the design problem"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "superficial evaluation of the strengths and limitations of ideas against some design criteria",
+            "make changes to ideas related to the criteria",
+            "simple HCD concept proposed, by selecting ideas and stakeholder information, in response\nto the design problem"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about ideas",
+            "partial HCD concept proposed based on an idea"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Representing and Communicating",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "sophisticated representation of ideas, a design concept and HCD information using fluent\nsequences of ideation sketching, schematic sketching and low-fidelity prototyping to\nprogress understanding in the design process",
+            "discerning decision-making about, and fluent use of\n- spoken features, design-specific vocabulary and visual elements and principles to\npresent a design proposal for a live or virtual stakeholder audience\n- written conventions, features and design-specific language to present a design brief for\nthe stakeholder"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "considered representation of ideas, a design concept and HCD information using proficient\nideation sketching, schematic sketching and low-fidelity prototyping to progress\nunderstanding in the design process",
+            "effective decision-making about, and proficient use of\n- spoken features, design-specific vocabulary and visual elements and principles to\npresent a design proposal for a live or virtual stakeholder audience\n- written conventions, features and design-specific language to present a design brief for\nthe stakeholder"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "appropriate representation of ideas, a design concept and HCD information using ideation\nsketching, schematic sketching and low-fidelity prototyping in the design process",
+            "appropriate decision-making about, and use of\n- spoken features and visual elements and principles to present a design proposal\n- written features to present a design brief"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "cursory representation of ideas and information using unclear sketching in the design\nprocess",
+            "variable decision-making, and inconsistent use of\n- spoken features or visual elements\n- written conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Exploring",
+        "objectives": "3, 1",
+        "marks": 10
+      },
+      {
+        "criterion": "Devising",
+        "objectives": "4",
+        "marks": 5
+      },
+      {
+        "criterion": "Evaluating and Proposing",
+        "objectives": "5, 6",
+        "marks": 7
+      },
+      {
+        "criterion": "Representing and Communicating",
+        "objectives": "2, 7",
+        "marks": 8
+      }
+    ],
+    "total_marks": 30
+  }
+}

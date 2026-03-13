@@ -1,0 +1,464 @@
+{
+  "subject": "General Mathematics",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Money, measurement, algebra and linear",
+      "subject": "General Mathematics",
+      "description": "equations\nIn Unit 1, students will develop mathematical understandings and skills to solve problems\nrelating to:\n Topic 1: Consumer arithmetic\n Topic 2: Shape and measurement\n Topic 3: Similarity and scale\n Topic 4: Algebra\n Topic 5: Linear equations and their graphs.\nConsumer arithmetic reviews the concepts of rate and percentage change in the context of\nearning and managing money and provides an opportunity for the use of spreadsheets. Shape\nand measurement and Similarity and scale extend the knowledge and skills students developed\nin the P–10 Australian Curriculum with Pythagoras’ theorem, the concept of similarity and\nproblems involving simple and compound geometric shapes. Students apply these skills in a\nrange of practical contexts, including those involving three-dimensional shapes. Algebra further\ndevelops students’ mastery of algebraic techniques and skills, and Linear equations and their\ngraphs uses linear equations and straight-line graphs, to model and analyse practical situations.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nGeneral Mathematics 2025 v1.3 Units\n\nSubject matter\nTopic 1: Consumer arithmetic\nSub-topic: Applications of rates, percentages and use of spreadsheets (14 hours)\n Understand the meaning of rates and percentages.\n Calculate weekly, fortnightly or mont…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Applications of linear equations and",
+      "subject": "General Mathematics",
+      "description": "trigonometry, matrices and univariate data analysis\nIn Unit 2, students will develop mathematical understandings and skills to solve problems\nrelating to:\n Topic 1: Applications of linear equations and their graphs\n Topic 2: Applications of trigonometry\n Topic 3: Matrices\n Topic 4: Univariate data analysis 1\n Topic 5: Univariate data analysis 2.\nApplications of linear equations and their graphs uses simultaneous linear equations, piece-wise\nlinear graphs and step graphs to model and solve practical problems. Applications of trigonometry\nextends students’ knowledge of trigonometry to solve practical problems involving non-right-\nangled triangles in both two and three dimensions, including problems involving the use of angles\nof elevation and depression, and bearings in navigation. Matrices introduces the new concept of\nmatrices for storing information and modelling and solving problems. Univariate data analysis\ndevelops students’ ability to organise and summarise univariate data in the context of conducting\na statistical investigation.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nGeneral Mathematics 2025 v1.3 Units\n\nSubject matter\nTopic 1: Applications of linear equations and their graphs\nSub-topic: Simultaneous linear equations and their applications (6 hours)\n Solve a pair of simulta…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Bivariate data and time series analysis,",
+      "subject": "General Mathematics",
+      "description": "sequences and Earth geometry\nIn Unit 3, students will develop mathematical understandings and skills to solve problems relating to:\n Topic 1: Bivariate data analysis 1\n Topic 2: Bivariate data analysis 2\n Topic 3: Time series analysis\n Topic 4: Growth and decay in sequences\n Topic 5: Earth geometry and time zones.\nBivariate data analysis introduces students to some methods for identifying, analysing and\ndescribing associations between pairs of variables, including the use of the least-squares method\nas a method for analysing linear associations. Time series analysis continues students’ study of\nstatistics by introducing them to the concepts and techniques of time series analysis. Growth and\ndecay in sequences employs recursion to generate sequences that can be used to model and\ninvestigate patterns of growth and decay in discrete situations. These sequences find application\nin a wide range of practical situations, including modelling the growth of a compound interest\ninvestment, the growth of a bacterial population or the decrease in the value of a car over time.\nSequences are also essential to understanding the patterns of growth and decay in loans and\ninvestments that are studied in detail in Unit 4. Earth geometry and time zones offers an\nopportunity to use contexts relevant to students.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedu…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Investing and networking ......................................................................................... 26",
+      "subject": "General Mathematics",
+      "description": "Assessment __________________________________________ 31\nInternal assessment 1: Problem-solving and modelling task (20%).............................. 31\nInternal assessment 2: Examination — short response (15%) ........................................ 35\nInternal assessment 3: Examination — short response (15%) ........................................ 39\nExternal assessment: Examination — combination response (50%) ........................... 43\nGlossary _____________________________________________ 46\nReferences ___________________________________________ 46\nVersion history________________________________________ 48\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-subjects and…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "General Mathematics",
+      "technique": "Examination — combination response (50%) ........................... 43",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "length": "of an unknown side in a right-angled triangle."
+      },
+      "criteria": [
+        {
+          "name": "360",
+          "marks": 1
+        },
+        {
+          "name": "1 3",
+          "marks": 1
+        },
+        {
+          "name": "𝑛 1 𝑛",
+          "marks": 1
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "General Mathematics",
+      "technique": "Problem-solving and modelling task (20%).............................. 31",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Formulate",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "justified statements of important assumptions",
+                "justified statements of important observations",
+                "justified mathematical translation of important aspects of the task"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "statement of a relevant assumption",
+                "statement of a relevant observation",
+                "mathematical translation of an aspect of the task"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Solve",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "accurate use of mathematical knowledge for important aspects of the task",
+                "efficient use of technology",
+                "a complete solution"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "use of mathematical knowledge for an important aspect of the task",
+                "use of technology",
+                "substantial progress towards a solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "simplistic use of mathematical knowledge relevant to the task",
+                "simplistic use of technology",
+                "progress towards a solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate use of mathematical knowledge or technology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluate",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "verified results",
+                "justified statements about the reasonableness of the solution by considering the\nassumptions",
+                "justified statements about the reasonableness of the solution by considering the\nobservations",
+                "justified statements of relevant strengths of the solution",
+                "justified statements of relevant limitations of the solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a verified result",
+                "statement about the reasonableness of the solution by considering an assumption or\nobservation",
+                "statement of a relevant strength or relevant limitation of the solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statement about the reasonableness of a result or the solution",
+                "statement of a strength or limitation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicate",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "correct use of appropriate mathematical language",
+                "logical organisation of the response, which can be read independently of the task sheet",
+                "justification of decisions using mathematical reasoning"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "use of some appropriate mathematical language",
+                "adequate organisation of the response",
+                "statement of a relevant decision"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Formulate",
+            "objectives": "1, 5",
+            "marks": 4
+          },
+          {
+            "criterion": "Solve",
+            "objectives": "1, 2, 6",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluate",
+            "objectives": "4, 5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicate",
+            "objectives": "3, 5",
+            "marks": 4
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "General Mathematics",
+      "technique": "Examination — short response (15%) ........................................ 35",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Foundational knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 87%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 73%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 67%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 47%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 27%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 13%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 7%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Foundational knowledge and problem-solving",
+            "objectives": "1, 2, 3, 4, 5, 6",
+            "marks": 15
+          }
+        ],
+        "total_marks": 15
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "General Mathematics",
+      "technique": "Examination — short response (15%) ........................................ 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Foundational knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 87%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 73%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 67%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 47%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 27%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 13%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 7%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Foundational knowledge and problem-solving",
+            "objectives": "1, 2, 3, 4, 5, 6",
+            "marks": 15
+          }
+        ],
+        "total_marks": 15
+      }
+    }
+  ]
+}

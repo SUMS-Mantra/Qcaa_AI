@@ -1,0 +1,17 @@
+{
+  "assessment": "External",
+  "subject": "Chemistry",
+  "technique": "Examination — combination response (50%) ........................... 55",
+  "unit": "3 and 4.",
+  "conditions": {
+    "topic": "1: Properties and structure of atoms (20 hours)"
+  },
+  "criteria": [
+    {
+      "name": "Theoretical Yield",
+      "marks": 1
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

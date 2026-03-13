@@ -1,0 +1,29 @@
+{
+  "subject": "Engineering Skills",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "and Unit 2",
+      "subject": "Engineering Skills",
+      "description": "Schools make A–E judgments on individual assessment instruments implemented in Unit 1 and"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "using reporting standards",
+      "subject": "Engineering Skills",
+      "description": "Schools report results to the QCAA for students who complete Unit 1 and/or Unit 2. Results are\nreported as satisfactory (S) or unsatisfactory (U). Where appropriate, schools may also report\na not rated (NR).\nUnits 3 and 4\nSchools make A–E judgments on each of the four assessment instruments implemented in\nUnits 3 and 4 using instrument-specific standards (ISS).\nSchools report instrument results to the QCAA for students enrolled in Units 3 and 4 for each\nof the four assessments implemented. Where appropriate, schools may also report a\nnot rated (NR).\nSchools are also responsible for determining and reporting an A–E final subject result to the\nQCAA. The subject result is an on-balance judgment about how the pattern of evidence across\nthe four assessments in Units 3 and 4 best matches the characteristics of the reporting standards\nat one of five levels (A–E).\nEngineering Skills 2024 v1.3 Course overview\nApplied senior syllabus | January 2026 Reporting\n\nUnit options\nUnit option A: Fitting and machining\nIn this unit, students demonstrate fitting and machining fundamental ways of working. They use\ntools, machinery and equipment safely and recognise that products are manufactured,\nmaintained and repaired using drawings and technical information that detail the expected quality\nstandards of the final product, e.g. size, type and grade of metal, tolerances, fits, finish and joints.\nStudents evaluate, make decisions about and adapt production plans, skills and procedures, and\nproducts …"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Engineering Skills",
+      "technique": "",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

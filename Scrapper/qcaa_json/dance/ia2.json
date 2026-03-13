@@ -1,0 +1,133 @@
+{
+  "assessment": "IA2",
+  "subject": "Dance",
+  "technique": "Choreography (20%) ................................................................... 46",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Evaluating dance concepts",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "evaluation of dance incorporates a well-reasoned justification using examples that reveal\nthe interrelationship between purpose, context and meaning"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "demonstration of an understanding of elements of dance, structure, and production\nelements in relation to purpose, context and chosen viewpoint",
+            "application of literacy skills through sequenced and connected ideas that enhance\ncommunication of meaning about the dance concepts",
+            "evaluation of the dance by justifying choices made in terms of the key elements of dance,\nstructure, and production elements used to communicate meaning"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "demonstration of understanding of elements of dance, structure and/or production elements",
+            "application of literacy skills, using relevant dance terminology, referencing and language\nconventions to communicate ideas and meaning",
+            "evaluation of dance, justifying the use of elements of dance, structure or production\nelements in own dance work"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Applying dance concepts",
+      "bands": [
+        {
+          "marks": "9",
+          "descriptors": [
+            "organisation and application make purpose and context explicit through integration of\nelements of dance, structure and use of production elements"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "organisation and application enhance purpose and context through\n- dynamics\n- relationships"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "organisation and application support purpose and context through choices of\n- production elements\n- choreographic devices, including motif/s"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "organisation and application for a stated purpose and context shows use of\n- elements of dance\n- choreographic devices\n- production elements"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "organisation of movement shows\n- sequences of movement\n- transitions using the elements of dance, choreographic devices or production elements"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating meaning",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "creation of dance communicates a viewpoint that\n- synthesises dance concepts into a cohesive form\n- reveals complex and subtle layers of meaning with impact and sensitivity"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "creation of dance communicates meaning through\n- purposeful selection of production elements\n- a social, political or cultural viewpoint"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "movement sequences\n- show ideas\n- use elements of dance or structure that link to meaning"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Evaluating dance concepts",
+        "objectives": "1, 2, 8",
+        "marks": 5
+      },
+      {
+        "criterion": "Applying dance concepts",
+        "objectives": "3",
+        "marks": 9
+      },
+      {
+        "criterion": "Communicating meaning",
+        "objectives": "7",
+        "marks": 6
+      }
+    ],
+    "total_marks": 20
+  }
+}

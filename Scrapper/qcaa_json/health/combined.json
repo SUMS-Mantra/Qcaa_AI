@@ -1,0 +1,537 @@
+{
+  "subject": "Health",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Resilience as a personal health resource",
+      "subject": "Health",
+      "description": "In Unit 1, students are introduced to and explore the broad notion of health, focusing on resilience\nas a personal health resource. In this introductory unit of Health, students will learn how to apply\na socio-critical lens to develop a critical perspective of health and to gain an understanding of\nhow health is socially constructed. The ability of people and authorities to influence the perception\nof health and illness for individuals is considered from pathogenically and salutogenically oriented\nlenses. Students develop their understanding of the salutogenic approach used to understand\nand critique health topics and issues through the Unit 1 Health inquiry model. Students learn how\nto reframe a broad health-related topic as a narrow, specific and contextualised issue through an\ninquiry approach. Students use the PERMA+ framework, personal skills action area of the Ottawa\nCharter and RE-AIM to analyse, implement and evaluate action strategies that build resilience as\na resource for personal health.\nFigure 2: Unit 1 Health inquiry model\nHealth 2025 v1.3 Units\n\nUnit objectives\n1. Recognise and describe information about resilience in a personal health context.\n2. Comprehend and use the Health inquiry model in relation to resilience in a personal health\ncontext.\n3. Analyse and interpret information to draw conclusions about resilience in a personal health\ncontext.\n4. Critique information about resilience to distinguish determinants that influence health in a\npersonal health con…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "focuses on the role and influence of peers and family as resources through one topic",
+      "subject": "Health",
+      "description": "selected from two choices: Elective topic 1: Alcohol, or Elective topic 2: Body image. Unit 3\nexplores the role of the community in shaping resources through one topic selected from three\nchoices: Elective topic 1: Homelessness, Elective topic 2: Transport safety, or Elective topic 3:\nAnxiety. The culminating unit challenges students to investigate and evaluate innovations that\ninfluence respectful relationships to help them navigate the post-schooling life course transition.\nHealth uses an inquiry approach informed by the critical analysis of health information to\ninvestigate sustainable health change at personal, peer, family and community levels. Students\ndefine and understand broad health topics, which they reframe into specific contextualised health\nissues for further investigation. Students plan, implement, evaluate and reflect on action\nstrategies that mediate, enable and advocate change through health promotion.\nStudying Health will highlight the value and dynamic nature of the discipline, alongside the\npurposeful processes and empathetic approach needed to enact change. The investigative skills\nrequired to understand complex issues and problems will enable interdisciplinary learning, and\nprepare students for further study and a diverse range of career pathways. The development of\nproblem-solving and decision-making skills will serve to enable learning now and in the future.\nThe health industry is currently experiencing strong growth and is recognised as the largest\ni…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Community as a resource for healthy living",
+      "subject": "Health",
+      "description": "In Unit 3, students develop their skills to plan, implement, evaluate and reflect on an action\nstrategy to advocate, mediate and/or enable change in relation to homelessness, transport safety\nor anxiety in a community health context. An inquiry approach is used to define and explore the\nbroad health-related topic before students reframe the chosen topic into a narrow-contextualised\nhealth issue.\nStudents investigate and analyse the risk factors and protective factors, individual and socio-\necological resources that are needed for a target group in their local or regional community.\nPrimary data and secondary data trends are interpreted to draw conclusions and inform the\ndevelopment of an action strategy to strengthen, maintain or adapt community resources. The\naction strategy is implemented and evaluated with recommendations and reflection used to\ninform future investigations. Approaches and frameworks within the Unit 3 Health inquiry model\nguide the action strategy development and evaluation.\nFigure 4: Unit 3 Health inquiry model\nHealth 2025 v1.3 Units\n\nUnit objectives\n1. Recognise and describe information about the chosen topic in a community health context.\n2. Comprehend and use the Health inquiry model in relation to the chosen topic in a community\nhealth context.\n3. Analyse and interpret information to draw conclusions about the chosen topic in a community\nhealth context.\n4. Critique information about the chosen topic to distinguish determinants that influence health\nin …"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Respectful relationships in the post-schooling transition.................................... 43",
+      "subject": "Health",
+      "description": "Assessment __________________________________________ 49\nInternal assessment 1: Action research (25%) ................................................................. 49\nInternal assessment 2: Examination — extended response (25%) .............................. 54\nInternal assessment 3: Investigation (25%) ...................................................................... 59\nExternal assessment: Examination — extended response (25%) ................................ 65\nGlossary _____________________________________________ 67\nReferences ___________________________________________ 67\nVersion history________________________________________ 70\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Health",
+      "technique": "Examination — extended response (25%) ................................ 65",
+      "unit": "2 focuses on the role and influence of peers and family as resources through one topic",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Health",
+      "technique": "Action research (25%) ................................................................. 49",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Recognising and Comprehending",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "accurate recognition and discerning description of contextual information from primary\nsources and secondary sources about the chosen health-related topic/issue that includes\n- barriers, enablers and resources\n- data trends\n- determinants",
+                "succinct comprehension and perceptive use of\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model level/s of influence\n- diffusion process variables"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "recognition and description of some contextual information from primary sources and\nsecondary sources about the chosen health-related topic/issue that includes\n- barriers, enablers and resources\n- data statements\n- determinants",
+                "comprehension and use of:\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model\n- diffusion of innovations model"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "variable recognition and superficial description of some information about the chosen topic",
+                "superficial comprehension and use of aspects of the Health inquiry model"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing, Interpreting and Critiquing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "analysis of contextual information from primary sources and secondary sources related to\nthe chosen health-related topic/issue to draw insightful conclusions about\n- barriers and enablers\n- relationships between existing personal, social or community resources",
+                "accurate interpretation of contextual information to draw insightful conclusions using data\ntrends",
+                "insightful critique of information using the social ecological model to distinguish\ndeterminants that influence health in the local or regional community context"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "analysis of contextual information from primary sources and secondary sources related to\nthe chosen health-related topic/issue to draw considered conclusions about\n- barriers and enablers\n- existing personal, social or community resources",
+                "interpretation of contextual information to draw considered conclusions using data trend/s",
+                "considered critique of contextual information to distinguish determinants that influence\nhealth in the local or regional community context"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "analysis of contextual information related to the chosen health-related topic/issue using\nprimary sources and/or secondary sources to draw conclusions about\n- barriers or enablers\n- existing personal, social or community resources",
+                "interpretation of contextual information to draw conclusions using data statement/s",
+                "critique of information to distinguish factors that influence health"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial description of aspects of information from sources about the chosen issue"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Investigating and Synthesising",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "investigation and insightful synthesis of information to develop a sophisticated diffusion\naction strategy for a contextual issue that includes:\n- a target group\n- the methodology and resources required to address the needs, barriers or enablers for\nthe target group by strengthening and/or maintaining innovation uptake\n- two diffusion process variables\n- post-implementation data-collection tools informed by RE-AIM"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "investigation and considered synthesis of information to develop a feasible diffusion action\nstrategy for a contextual issue that includes:\n- a target group\n- the methodology and resources required to address the needs, barriers or enablers for\nthe target group\n- two diffusion process variables\n- post-implementation data-collection tools informed by RE-AIM"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "investigation and synthesis of information to develop a diffusion action strategy for a\ncontextual issue that includes:\n- a target group\n- the methodology and resources for the target group\n- a diffusion process variable, diffusion stage or diffusion concept\n- post-implementation data-collection tools"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "investigation of information to develop an action strategy that includes superficial and/or\npartial aspects of:\n- a target group\n- the methodology and/or resources\n- data collection"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Organising and Communicating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective organisation of information to achieve a particular purpose",
+                "discerning decision-making and accurate use of\n- written features to achieve a particular purpose\n- language for a community context\n- referencing and report genre conventions"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "organisation of information",
+                "decision-making and use of\n- written features\n- language for a community context\n- referencing and report genre conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Recognising and Comprehending",
+            "objectives": "1, 2",
+            "marks": 6
+          },
+          {
+            "criterion": "Analysing, Interpreting and Critiquing",
+            "objectives": "3, 4",
+            "marks": 7
+          },
+          {
+            "criterion": "Investigating and Synthesising",
+            "objectives": "5",
+            "marks": 8
+          },
+          {
+            "criterion": "Organising and Communicating",
+            "objectives": "7, 8",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Health",
+      "technique": "Examination — extended response (25%) .............................. 54",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Recognising and Comprehending",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "accurate recognition and discerning description of contextual information from primary\nsources and secondary sources about the chosen health-related topic/issue that includes\n- barriers, enablers and resources\n- data trends\n- determinants",
+                "succinct comprehension and perceptive use of\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model level/s of influence\n- diffusion process variables\n- RE-AIM"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "recognition and description of some contextual information that includes\n- barriers, enablers and resources\n- data statements\n- determinants",
+                "comprehension and use of the\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model\n- diffusion of innovations model\n- RE-AIM"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "variable recognition and superficial description of some information about the chosen topic",
+                "superficial comprehension and use of aspects of the Health inquiry model"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing, Interpreting and Critiquing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "analysis of contextual information from primary sources and secondary sources related to\nthe chosen health-related topic/issue to draw insightful conclusions about\n- barriers and enablers\n- relationships between existing personal, social or community resources",
+                "accurate interpretation of contextual information to draw insightful conclusions using data\ntrends",
+                "insightful critique of information using the social ecological model to distinguish\ndeterminants that influence health in the alternate community context"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "analysis of relevant contextual information from sources to draw considered conclusions\nabout\n- barriers or enablers\n- personal, social or community resources",
+                "interpretation of contextual information to draw considered conclusions using data trend/s",
+                "considered critique of information using the social ecological model to distinguish\ndeterminants that influence health in the alternate community context"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "analysis of contextual information from sources to draw conclusions about\n- barriers or enablers\n- personal, social or community resources",
+                "interpretation of contextual information to draw conclusions using data statement/s",
+                "critique of contextual information to distinguish factors that influence health"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial description of aspects of information from provided sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating and Reflecting",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "critical evaluation of the selected innovation’s action strategy methodology and resources\nusing two relevant steps of RE-AIM",
+                "insightful reflection on the selected innovation’s impact/uptake using diffusion process\nvariables",
+                "discerning justification of a recommendation for action that mediates, advocates or enables\ninnovation uptake in an alternate community context using the diffusion of innovations\nmodel"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "considered evaluation of the selected innovation’s action strategy methodology and\nresources using two relevant steps of RE-AIM",
+                "purposeful reflection on the selected innovation’s impact/uptake using the diffusion of\ninnovations model",
+                "effective justification of a recommendation for future action in an alternate context"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "feasible evaluation of the selected innovation’s action strategy methodology and resources\nusing RE-AIM",
+                "feasible reflection on the selected innovation’s impact/uptake using the diffusion of\ninnovations model",
+                "feasible justification of a recommendation for future action"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "superficial evaluation of aspects of the selected innovation’s action strategy",
+                "superficial reflection on aspects of the selected innovation’s impact/uptake",
+                "superficial or partial recommendation for future action"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Organising and Communicating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective organisation of information to achieve a particular purpose",
+                "discerning decision-making and accurate use of\n- written features to achieve a particular purpose\n- language for a community context\n- referencing and essay genre conventions"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "organisation of information",
+                "decision-making and use of\n- written features\n- language for a community context\n- referencing and essay genre conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Health",
+      "technique": "Investigation (25%) ...................................................................... 59",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Recognising and Comprehending",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "accurate recognition and discerning description of information from primary sources and\nsecondary sources related to respectful relationships in the post-schooling transition that\nincludes\n- barriers, enablers and resources\n- data trends\n- determinants",
+                "succinct comprehension and perceptive use of\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- life course perspective\n- diffusion process variables\n- RE-AIM"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "recognition and description of some contextual information from primary sources and\nsecondary sources related to respectful relationships in the post-schooling transition\nthat includes\n- barriers, enablers and resources\n- data statements\n- determinants",
+                "comprehension and use of the\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- life course perspective\n- diffusion of innovations model\n- RE-AIM"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "variable recognition and superficial description of some information about respectful\nrelationships or the post-schooling transition",
+                "superficial comprehension and use of aspects of the Health inquiry model"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing, Interpreting and Critiquing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "analysis of contextual information from primary sources and secondary sources to draw\ninsightful conclusions about\n- barriers and enablers\n- relationships between existing personal, social or community resources",
+                "accurate interpretation of relevant contextual information to draw insightful conclusions\nusing data trends",
+                "insightful critique of information using life course perspective to distinguish determinants\nthat influence health in the school or community context"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "analysis and interpretation of contextual information from primary sources and secondary\nsources to draw considered conclusions about\n- barriers and enablers\n- existing personal, social or community resources",
+                "interpretation of contextual information to draw considered conclusions using data trend/s",
+                "considered critique of relevant contextual information to distinguish determinants that\ninfluence health in the post-schooling transition"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "analysis and interpretation of contextual information to draw conclusions about\n- barriers or enablers\n- existing personal, social or community resources",
+                "interpretation of contextual information to draw conclusions using data statement/s",
+                "critique of information to distinguish factors that influence health in the post-schooling\ntransition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "superficial description of aspects of information from sources about respectful relationships\nor the post-schooling transition"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Investigating, Synthesising, Evaluating and Reflecting",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "investigation and insightful synthesis of information from primary sources and secondary\nsources related to the development of respectful relationships in the post-schooling\ntransition that includes\n- critical evaluation of two implemented innovations using two RE-AIM steps\n- insightful reflection on the impact/uptake of each innovation using two diffusion process\nvariables",
+                "recommendation and insightful justification of an innovation for their Year 12 cohort that\ndevelops respectful relationships in the post-schooling transition",
+                "develop a diffusion action strategy for their school setting that\n- includes methodology and resources based on a diffusion process variable\n- addresses a need, barrier or enabler for their Year 12 cohort"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "investigation and considered synthesis of information from sources related to the\ndevelopment of respectful relationships that includes\n- considered evaluation of two implemented innovations using two RE-AIM steps\n- considered reflection on the impact/uptake of each innovation using two diffusion process\nvariables",
+                "recommendation and justification of an innovation for their Year 12 cohort",
+                "develop a diffusion action strategy that\n- includes methodology and resources\n- addresses a need, barrier or enabler for their Year 12 cohort"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "investigation and synthesis of information from sources that includes\n- evaluation of an implemented innovation using RE-AIM\n- reflection on innovation impact/uptake using the diffusion of innovations model",
+                "recommendation of an innovation for their Year 12 cohort",
+                "develop an action strategy that includes methodology or resources"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "partial investigation of information from sources about respectful relationships",
+                "superficial explanation of information related to an innovation",
+                "superficial or partial recommendation or action strategy"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Organising and Communicating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective organisation of information to achieve a particular purpose",
+                "discerning decision-making and accurate use of\n- written features to achieve a particular purpose\n- language for a community context\n- referencing and the selected genre’s conventions"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "appropriate organisation of information",
+                "appropriate decision-making and use of\n- written features\n- language for a community context\n- referencing and the selected genre’s conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Recognising and Comprehending",
+            "objectives": "1, 2",
+            "marks": 6
+          },
+          {
+            "criterion": "Analysing, Interpreting and Critiquing",
+            "objectives": "3, 4",
+            "marks": 7
+          },
+          {
+            "criterion": "Investigating, Synthesising, Evaluating and Reflecting",
+            "objectives": "5, 6",
+            "marks": 8
+          },
+          {
+            "criterion": "Organising and Communicating",
+            "objectives": "7, 8",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

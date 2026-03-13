@@ -1,0 +1,222 @@
+{
+  "assessment": "IA2",
+  "subject": "English & Literature Extension",
+  "technique": "Defence of a complex transformation (20%) ........................... 24",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Understanding and analysis of literary texts",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning understanding of the selected base text in order to develop discriminating\ninterpretations",
+            "discerning analysis of how the genre, structure and/or textual features of the base text and\nthe complex transformation support discriminating interpretations"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective understanding of the selected base text in order to develop an informed\ninterpretation",
+            "effective analysis of how the genre, structure and/or textual features of the base text and\nthe complex transformation support informed interpretations"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "adequate understanding of the selected base text in order to develop a valid interpretation",
+            "adequate analysis of how the genre, structure and/or textual features of the base text and\nthe complex transformation support valid interpretations"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial understanding of the selected base text in order to develop a rudimentary\ninterpretation",
+            "superficial analysis of how the genre, structure and/or textual features of the base text and\nthe complex transformation support interpretations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven understanding of the selected base text, resulting in a disjointed interpretation",
+            "uneven analysis of how the genre, structure and/or textual features of the base text and the\ncomplex transformation support interpretations"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Understanding and application of theories",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "discerning understanding of relevant aspects of text-centred and world-context-centred\ntheoretical approaches in order to systematically explore meaning in the base text and the\ncomplex transformation",
+            "discerning understanding of relationships among and within text-centred and world-context-\ncentred theoretical approaches used to systematically explore meanings in the base text\nand complex transformation",
+            "discerning application of appropriate aspects of text-centred and world-context-centred\ntheoretical approaches to reposition audiences in a theoretically defensible way through the\nconstruction of a complex transformation"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "effective understanding of relevant aspects of text-centred and world-context-centred\ntheoretical approaches in order to systematically explore meaning in the base text and the\ncomplex transformation",
+            "effective understanding of relationships among and within the text-centred and world-\ncontext-centred theoretical approaches used to systematically explore meanings in the\nbase text and complex transformation",
+            "effective application of appropriate aspects of text-centred and world-context-centred\ntheoretical approaches to reposition audiences in a theoretically defensible way through the\nconstruction of a complex transformation"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "adequate understanding of relevant aspects of text-centred and world-context-centred\ntheoretical approaches in order to explore meaning in the base text and the complex\ntransformation",
+            "adequate understanding of relationships among and within the text-centred and world-\ncontext-centred theoretical approaches used to explore meanings in the base text and\ncomplex transformation",
+            "adequate application of appropriate aspects of text-centred and world-context-centred\ntheoretical approaches to reposition audiences in a theoretically defensible way through the\nconstruction of a complex transformation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial understanding of aspects of text-centred and world-context-centred theoretical\napproaches in order to explain meaning in the base text and the complex transformation",
+            "superficial understanding of relationships among and within the text-centred and world-\ncontext-centred theoretical approaches used to explain meanings in the base text and\ncomplex transformation",
+            "superficial application of aspects of text-centred and world-context-centred theoretical\napproaches to reposition audiences through the construction of a complex transformation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven understanding of aspects of text-centred and world-context-centred theoretical\napproaches in order to explain meaning in the base text and the complex transformation",
+            "uneven understanding of relationships among and within text-centred and world-context-\ncentred theoretical approaches used to explain meanings in the base text and complex\ntransformation",
+            "uneven application of aspects of text-centred and world-context-centred theoretical\napproaches"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluation and synthesis",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning evaluation of the aspects of text-centred and world-context-centred theoretical\napproaches used to determine the invited and alternative reading/s of the base text and to\nreposition audiences in the complex transformation",
+            "discerning evaluation of the alternative reading position offered by the complex\ntransformation, making explicit the aspects of the text-centred and world-context-centred\ntheoretical approaches that underpin it",
+            "discerning synthesis of analysis of literary texts, text-centred and world-context-centred\ntheoretical approaches and interpretations with supporting evidence"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective evaluation of the aspects of text-centred and world-context-centred theoretical\napproaches used to determine the invited and alternative reading/s of the base text and to\nreposition audiences in the complex transformation",
+            "effective evaluation of the alternative reading position offered by the complex\ntransformation, making explicit the aspects of the text-centred and world-context-centred\ntheoretical approaches that underpin it",
+            "effective synthesis of analysis of literary texts, text-centred and world-context-centred\ntheoretical approaches and interpretations with supporting evidence"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "adequate evaluation of the aspects of text-centred and world-context-centred theoretical\napproaches used to determine the invited and alternative reading/s of the base text and to\nreposition audiences in the complex transformation",
+            "adequate evaluation of the alternative reading position offered by the complex\ntransformation, making explicit the aspects of the text-centred and world-context-centred\ntheoretical approaches that underpin it",
+            "adequate synthesis of analysis of literary texts, text-centred and world-context-centred\ntheoretical approaches and interpretations with supporting evidence"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial evaluation of text-centred and world-context-centred theoretical approaches\nused to reposition audiences in the complex transformation",
+            "superficial evaluation of the reading position offered by the complex transformation, and of\naspects of the text-centred and world-context-centred theoretical approaches that\nunderpin it",
+            "superficial evaluation of literary texts, theoretical approaches and interpretations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven evaluation of text-centred and world-context-centred theoretical approaches used\nto reposition audiences in the complex transformation",
+            "uneven evaluation of the reading position offered by the complex transformation, and of\naspects of text-centred and world-context-centred theoretical approaches that underpin it",
+            "uneven evaluation of literary texts, text-centred and world-context-centred theoretical\napproaches and interpretations"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Controlling textual features and conventions",
+      "bands": [
+        {
+          "marks": "4",
+          "descriptors": [
+            "discerning use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions, to\ncreate an extended theorised, spoken analytical response for an academic audience",
+            "discerning use of mode-appropriate textual features to create desired effects for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "effective use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions, to\ncreate an extended theorised, spoken analytical response for an academic audience",
+            "effective use of mode-appropriate textual features to create desired effects for an academic\naudience"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "suitable use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions, to\ncreate an extended theorised, spoken analytical response for an academic audience",
+            "suitable use of mode-appropriate textual features to create an extended theorised, spoken\nanalytical response for an academic audience"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven use of appropriate patterns and conventions of academic genres and\ncommunication",
+            "uneven use of mode-appropriate textual features to create effects for an academic\naudience"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Understanding and analysis of literary texts",
+        "objectives": "1, 5",
+        "marks": 5
+      },
+      {
+        "criterion": "Understanding and application of theories",
+        "objectives": "2, 3, 4",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluation and synthesis",
+        "objectives": "8, 9, 10",
+        "marks": 5
+      },
+      {
+        "criterion": "Controlling textual features and conventions",
+        "objectives": "6, 7",
+        "marks": 4
+      }
+    ],
+    "total_marks": 20
+  }
+}

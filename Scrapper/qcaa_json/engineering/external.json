@@ -1,0 +1,23 @@
+{
+  "assessment": "External",
+  "subject": "Engineering",
+  "technique": "Examination — combination response (25%) ........................... 48",
+  "unit": "1 and Unit 2",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "𝑇 1 2",
+      "marks": 3
+    },
+    {
+      "name": "𝑇 1",
+      "marks": 2
+    },
+    {
+      "name": "1 1",
+      "marks": 1
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

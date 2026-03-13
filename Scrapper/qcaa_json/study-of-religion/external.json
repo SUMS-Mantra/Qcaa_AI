@@ -1,0 +1,21 @@
+{
+  "assessment": "External",
+  "subject": "Study of Religion",
+  "technique": "Examination — short response (25%) ........................................ 40",
+  "unit": "1 and Unit 2",
+  "conditions": {
+    "topic": "1: Nature and purpose of religion"
+  },
+  "criteria": [
+    {
+      "name": "Oslo Accords",
+      "marks": 1995
+    },
+    {
+      "name": "Hagia Sophia In",
+      "marks": 2020
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

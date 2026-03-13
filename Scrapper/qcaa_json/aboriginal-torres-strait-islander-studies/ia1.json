@@ -1,0 +1,192 @@
+{
+  "assessment": "IA1",
+  "subject": "Aboriginal & Torres Strait Islander Studies",
+  "technique": "Examination — short",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Evaluating",
+      "marks": 8
+    },
+    {
+      "name": "Creating",
+      "marks": 3
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Defining, Using and Demonstrating understanding",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "thorough and accurate use of terminology related to the rights and freedoms of Aboriginal\npeoples and/or Torres Strait Islander peoples, with the meaning of words, phrases and\nconcepts correct in all key aspects",
+            "comprehensive identification of relevant responses and contributions related to the rights\nand freedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "detailed explanations of responses and contributions"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "use of appropriate terminology related to the rights and freedoms of Aboriginal peoples\nand/or Torres Strait Islander peoples, but the meaning of some words, phrases and/or\nconcepts characterised by inaccuracies or omissions",
+            "some identification of relevant responses and contributions related to the rights and\nfreedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "explanations of responses and contributions are evident, but with some errors or omissions"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of terminology related to the rights and freedoms of Aboriginal peoples and/or Torres\nStrait Islander peoples, but the meaning of words, phrases and/or concepts is\ncharacterised by inaccuracies and/or omissions throughout the response",
+            "one or more statements on responses and contributions related to the rights and freedoms\nof Aboriginal peoples and/or Torres Strait Islander peoples",
+            "significant errors and/or omissions are evident throughout the responses"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting and Analysing",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "detailed interpretation of information from sources that examine how rights and freedoms of\nAboriginal peoples and/or Torres Strait Islander peoples have been addressed",
+            "discerning identification of viewpoints and perspectives that relate to the rights and\nfreedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "well-reasoned analysis of viewpoints and perspectives to explain how they formed and\ninformed responses and contributions to rights and freedoms"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "interpretation of information from sources that examine how rights and freedoms of\nAboriginal peoples and/or Torres Strait Islander peoples have been addressed",
+            "identification of viewpoints and perspectives that relate to the rights and freedoms of\nAboriginal peoples and/or Torres Strait Islander peoples",
+            "analysis of viewpoints and perspectives to explain how they formed and informed\nresponses and contributions to rights and freedoms"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "fragmented interpretation of information from sources that examine how rights and\nfreedoms of Aboriginal peoples and/or Torres Strait Islander peoples have been addressed",
+            "some identification of viewpoints and perspectives that relate to the rights and freedoms of\nAboriginal peoples and/or Torres Strait Islander peoples",
+            "partial analysis of viewpoints and perspectives to make statements about how they formed\nand informed responses and contributions to rights and freedoms"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "statements about the sources that relate to how rights and freedoms of Aboriginal peoples\nand/or Torres Strait Islander peoples have been addressed",
+            "identification of a viewpoint and/or perspective evident in the sources that relate to the\nrights and freedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "one or more statements relating to the rights and freedoms of Aboriginal peoples and/or\nTorres Strait Islander peoples"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "insightful judgment/s of the extent to which responses and contributions influenced the\nrights and freedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "judgment/s supported by discerning and thorough reasoning",
+            "effective use of evidence from the sources to support the judgment/s"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "clear judgment/s of the extent to which responses and contributions influenced the rights\nand freedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "judgment/s supported by appropriate reasoning",
+            "use of evidence from the sources to support the judgment/s"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial judgment/s of the extent to which responses and contributions influenced the\nrights and freedoms of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "judgment supported by basic reasoning",
+            "some references to evidence from sources to support the judgment/s"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "simplistic and/or erroneous understanding of influences on rights and freedoms",
+            "statement/s about responses and contributions that influenced the rights and freedoms of\nAboriginal peoples and/or Torres Strait Islander peoples",
+            "reference to a source that relates to the statement/s made in the response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating",
+      "bands": [
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "use of appropriate language",
+            "logical sequencing of ideas related to the items",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "use of some appropriate language",
+            "conveys ideas that may not be related to the items",
+            "frequent errors in spelling, grammar and punctuation impede communication of ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Defining, Using and Demonstrating understanding",
+        "objectives": "1, 2",
+        "marks": 6
+      },
+      {
+        "criterion": "Interpreting and Analysing",
+        "objectives": "3, 4",
+        "marks": 8
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "5",
+        "marks": 8
+      },
+      {
+        "criterion": "Creating",
+        "objectives": "6",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

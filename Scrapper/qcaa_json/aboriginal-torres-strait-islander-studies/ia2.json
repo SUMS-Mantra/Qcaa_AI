@@ -1,0 +1,199 @@
+{
+  "assessment": "IA2",
+  "subject": "Aboriginal & Torres Strait Islander Studies",
+  "technique": "Investigation (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Evaluating",
+      "marks": 7
+    },
+    {
+      "name": "Creating",
+      "marks": 5
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Defining, Using and Demonstrating understanding",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "thorough and accurate use of terminology related to the land rights of Aboriginal peoples\nand/or Torres Strait Islander peoples",
+            "comprehensive and appropriate identification of relevant responses and contributions\nrelated to the land rights of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "detailed and accurate explanations of how the identified responses and contributions\ndemonstrated the need for Aboriginal societies and/or Torres Strait Islander societies to\nsustain cultures and identities"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "use of appropriate terminology related to the land rights of Aboriginal peoples and/or Torres\nStrait Islander peoples",
+            "some identification of relevant responses and contributions related to the land rights of\nAboriginal peoples and/or Torres Strait Islander peoples",
+            "explanations of how the identified responses and contributions demonstrated the need for\nAboriginal societies and/or Torres Strait Islander societies to sustain cultures and identities"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of terminology related to the land rights of Aboriginal peoples and/or Torres Strait\nIslander peoples, but the meaning of words, phrases and/or concepts is characterised by\ninaccuracies and/or omissions throughout the response",
+            "one or more statements on relevant responses and contributions related to the land rights\nof Aboriginal peoples and/or Torres Strait Islander peoples",
+            "significant errors and/or omissions within statements are evident throughout the response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting and Analysing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "detailed interpretation of information from sources that examine how land rights of\nAboriginal peoples and/or Torres Strait Islander peoples were addressed in the 20th\ncentury",
+            "discerning identification of viewpoints and perspectives that relate to the ways that\nrecognition of land rights were addressed",
+            "well-reasoned analysis of viewpoints and perspectives to explain how they influenced the\nrecognition of land rights"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "interpretation of information from sources that examine how land rights of Aboriginal\npeoples and/or Torres Strait Islander peoples were addressed in the 20th century",
+            "identification of viewpoints and perspectives that relate to the ways that recognition of land\nrights were addressed",
+            "analysis of viewpoints and perspectives to explain how they influenced the recognition of\nland rights"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "fragmented interpretation of information from sources that examine how land rights of\nAboriginal peoples and/or Torres Strait Islander peoples were addressed in the 20th\ncentury",
+            "identification of a viewpoint and/or perspective that relate to the ways that recognition of\nland rights were addressed",
+            "analysis of a viewpoint and/or perspective that influenced the recognition of land rights"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about viewpoints and/or perspectives that have formed and/or informed land\nrights",
+            "statement about an influence on the recognition of land rights"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "insightful judgment of the extent to which responses and contributions have influenced the\nland rights of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "judgment supported by discerning and thorough reasoning",
+            "effective use of evidence from sources to support the judgment"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "clear judgment of the extent to which responses and contributions have influenced the land\nrights of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "judgment supported by considered reasoning",
+            "use of evidence from sources to support the judgment"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "superficial judgment of the extent to which responses and contributions have influenced the\nland rights of Aboriginal peoples and/or Torres Strait Islander peoples",
+            "judgment supported by basic reasoning",
+            "some reference to evidence from sources that support the judgment"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about responses and/or contributions have influenced the land rights of\nAboriginal peoples and/or Torres Strait Islander peoples",
+            "statements related to land rights are based on a simplistic understanding of influences on\nland rights and/or are unclear",
+            "reference to a source that relates to the statements made in the response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "features of an analytical essay are consistently demonstrated",
+            "succinct, with ideas conveyed logically in relation to the hypothesis devised",
+            "appropriate language and recognised referencing conventions are adhered to, with minimal\nerrors throughout the response"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "features of an analytical essay are generally demonstrated",
+            "conveys ideas that are related to the hypothesis devised",
+            "appropriate language and recognised referencing conventions generally adhered to, but\nwith some errors evident throughout the response"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "features of an analytical essay are inconsistently demonstrated",
+            "conveys ideas not related to the hypothesis devised",
+            "frequent errors in appropriate language and/or referencing conventions impede\ncommunication of ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Defining, Using and Demonstrating understanding",
+        "objectives": "1, 2",
+        "marks": 6
+      },
+      {
+        "criterion": "Interpreting and Analysing",
+        "objectives": "3, 4",
+        "marks": 7
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "5",
+        "marks": 7
+      },
+      {
+        "criterion": "Creating",
+        "objectives": "6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 25
+  }
+}

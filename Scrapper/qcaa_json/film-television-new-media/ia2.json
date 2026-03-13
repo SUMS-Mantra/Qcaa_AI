@@ -1,0 +1,175 @@
+{
+  "assessment": "IA2",
+  "subject": "Film, Television & New Media",
+  "technique": "Multi-platform content project (25%) ..................................... 32",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Pre-production",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "• design for multi-platform film, television or new media content, including convincing\njustification of\n- the choice of representations and languages for the target audience\n- how the two platforms will sustain audience engagement"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• design for multi-platform film, television or new media content, including\n- justification of the intended use of technical and symbolic codes\n- explanation of audience participation in the story across two platforms"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• design for film, television or new media content for two interconnected platforms, using a\ntreatment that explains the intended use of\n- technical codes\n- symbolic codes"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• documentation of connection between two film, television or new media platforms"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• description of an idea"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Applying written literacy skills",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "• application of written literacy skills to communicate well-articulated ideas in a sustained,\nlogical sequencing of information, enhanced by accurate use of key terminology"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• application of written literacy skills using relevant terminology and language conventions in\na treatment"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• use of terminology and language conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Production: Creating moving-image media products",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "• creation of a refined moving-image media product by extending or exploiting the use of\n- production technologies\n- post-production processes"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• creation of a moving-image media product by skilful use of\n- production technologies\n- post-production processes"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• creation of a moving-image media product using\n- production technologies\n- post-production processes"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "• use of equipment to\n- arrange media elements\n- record or create own visuals and audio"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Production: Resolving ideas, elements and processes",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• resolution of a moving-image media product that demonstrates\n- understanding of how audiences engage with multi-platform content\n- selection of ideas, elements and processes that enhance contexts of production"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• resolution of a moving-image media product\n- that appeals to an audience of multi-platform content\n- using ideas, elements and processes to communicate purpose in a production"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• communication of ideas in a moving-image media product"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• use of media language in elements of a moving-image media product"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Pre-production",
+        "objectives": "1",
+        "marks": 8
+      },
+      {
+        "criterion": "Applying written literacy skills",
+        "objectives": "4",
+        "marks": 3
+      },
+      {
+        "criterion": "Production: Creating moving-image media products",
+        "objectives": "2",
+        "marks": 8
+      },
+      {
+        "criterion": "Production: Resolving ideas, elements and processes",
+        "objectives": "3",
+        "marks": 6
+      }
+    ],
+    "total_marks": 25
+  }
+}

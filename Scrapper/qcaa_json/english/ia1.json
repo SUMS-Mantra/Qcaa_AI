@@ -1,0 +1,183 @@
+{
+  "assessment": "IA1",
+  "subject": "English",
+  "technique": "Spoken persuasive response (25%) .......................................... 33",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Knowledge application",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "discerning creation of perspectives and representations of concepts, identities, times and/or\nplaces in a persuasive text",
+            "discerning manipulation of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin texts and invite audiences to take up positions",
+            "discerning use of aesthetic features and/or stylistic devices to achieve persuasive purposes"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective creation of perspectives and representations of concepts, identities, times and/or\nplaces in a persuasive text",
+            "effective manipulation of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin texts and invite audiences to take up positions",
+            "effective use of aesthetic features and/or stylistic devices to achieve persuasive purposes"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "appropriate creation of perspectives and representations of concepts, identities, times\nand/or places in a persuasive text",
+            "appropriate use of the ways cultural assumptions, attitudes, values and/or beliefs underpin\ntexts and invite audiences to take up positions",
+            "appropriate use of aesthetic features and/or stylistic devices to achieve persuasive\npurposes"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "superficial creation of perspectives and representations of concepts, identities, times and/or\nplaces in a persuasive text",
+            "superficial use of the ways cultural assumptions, attitudes, values and/or beliefs underpin\ntexts and invite audiences to take up positions",
+            "use of aspects of aesthetic features and/or stylistic devices that vary in suitability"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "creation of fragmented perspectives and representations of concepts, identities, times\nand/or places",
+            "fragmented use of some ways ideas underpin texts",
+            "fragmented use of persuasive language features"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organisation and development",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "discerning use of the patterns and conventions of a persuasive text, and of the role of the\nspeaker/designer, to achieve a particular purpose",
+            "discerning selection and synthesis of subject matter to support perspectives",
+            "discerning organisation and sequencing of subject matter to achieve a particular purpose,\nincluding discerning use of cohesive devices to emphasise ideas and connect parts of a\npersuasive text"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective use of the patterns and conventions of a persuasive text, and of the role of the\nspeaker/designer, to achieve a particular purpose",
+            "effective selection and synthesis of subject matter to support perspectives",
+            "effective organisation and sequencing of subject matter to achieve a particular purpose,\nincluding effective use of cohesive devices to emphasise ideas and connect parts of a\npersuasive text"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "suitable use of the patterns and conventions of a persuasive text, and of the role of the\nspeaker/designer, to achieve a particular purpose",
+            "suitable selection and adequate synthesis of subject matter to support perspectives",
+            "suitable organisation and sequencing of subject matter to achieve a particular purpose,\nincluding suitable use of cohesive devices to emphasise ideas and connect parts of a\npersuasive text"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "inconsistent use of the patterns and conventions of a persuasive text, and of the role of the\nspeaker/designer",
+            "narrow selection of subject matter to support perspectives",
+            "disjointed organisation and sequencing of subject matter, with some use of cohesive\ndevices to connect parts of a persuasive text"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of the patterns and conventions of a persuasive text",
+            "fragmented selection of subject matter",
+            "some connections between parts of the text"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Textual features",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "discerning language choices for particular purposes",
+            "discerning combination of a range of grammatically accurate/appropriate language\nstructures to achieve particular purposes",
+            "discerning use of mode-appropriate features to achieve particular purposes"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective language choices for particular purposes",
+            "effective use of a range of grammatically accurate/appropriate language structures to\nachieve particular purposes",
+            "effective use of mode-appropriate features to achieve particular purposes"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "suitable language choices for particular purposes",
+            "suitable use of a range of mostly grammatically accurate/appropriate language structures to\nachieve particular purposes",
+            "suitable use of mode-appropriate features to achieve particular purposes"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "inconsistent language choices",
+            "inconsistent use of grammar and language structures",
+            "use of mode-appropriate features that vary in suitability"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "inappropriate language choices",
+            "fragmented use of grammar and language structures",
+            "fragmented use of mode-appropriate features"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Knowledge application",
+        "objectives": "3, 4, 5",
+        "marks": 8
+      },
+      {
+        "criterion": "Organisation and development",
+        "objectives": "1, 2, 6, 7, 8",
+        "marks": 8
+      },
+      {
+        "criterion": "Textual features",
+        "objectives": "9, 10, 11",
+        "marks": 9
+      }
+    ],
+    "total_marks": 25
+  }
+}

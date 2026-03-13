@@ -1,0 +1,291 @@
+{
+  "assessment": "IA3",
+  "subject": "Spanish",
+  "technique": "Multimodal presentation and interview (30%).......................... 28",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Creating a multimodal presentation in Spanish — Multimodal presentation",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "comprehension of ideas in three stimulus texts in Spanish related to the present and/or\nfuture choices"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "comprehension of ideas in two stimulus texts in Spanish related to the present and/or future\nchoices"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "some comprehension of ideas in one stimulus text in Spanish related to the present and/or\nfuture choices"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating a multimodal presentation in Spanish — Responding (language",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "constructs meaning by applying comprehensive and complex knowledge of language\nelements in a multimodal presentation with minor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- pronunciation\n- consistent register\n- intonation"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "constructs meaning by applying comprehensive knowledge of language elements in a\nmultimodal presentation with minor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "constructs meaning by applying knowledge of language elements in a multimodal\npresentation with minor errors in the use of\n- range of vocabulary\n- range of grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "constructs meaning by applying some knowledge of language elements with some errors in\na multimodal presentation in the use of\n- vocabulary\n- grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "repetitive use of Spanish language elements and vocabulary in a multimodal presentation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating a multimodal presentation in Spanish — Responding (communication)",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "communicates with discerning selection, sequencing and synthesis of information from the\nstimulus texts to justify conclusions, ideas and perspectives appropriate to the task and text\ntype of the multimodal presentation"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "communicates with effective selection, sequencing and synthesis of information from the\nstimulus texts to justify conclusions, ideas and perspectives appropriate to the task and text\ntype of the multimodal presentation"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "communicates with selection, sequencing and synthesis of information from the stimulus to\njustify conclusions, ideas and perspectives appropriate to the task and text type of the\nmultimodal presentation"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "communicates with some selection and sequencing of information from the stimulus texts\nwith some justification of conclusions/ideas/perspectives appropriate to the task of the\nmultimodal presentation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "a multimodal presentation with some selection and sequencing of information/ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "disjointed use of Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Exchanging information and ideas in Spanish — Creating and responding",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "thorough and discerning responses to the open, unseen interview questions"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "thorough responses to the open, unseen interview questions"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "relevant responses to the open, unseen interview questions, with some errors"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "mostly relevant responses to the open, unseen interview questions, with errors"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented engagement with the questions posed"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Exchanging information and ideas in Spanish — Language elements",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "constructs meaning in an interview by applying comprehensive knowledge of language\nelements with minor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- pronunciation\n- consistent register\n- intonation"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "constructs meaning in an interview by applying knowledge of language elements with minor\nerrors in the use of\n- range of vocabulary\n- range of grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "constructs meaning in an interview by applying some knowledge of language elements with\nsome errors in the use of\n- vocabulary\n- grammar\n- pronunciation\n- register\n- intonation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "uses some Spanish language in an interview, including repetitive use of\n- vocabulary\n- grammar"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of Spanish in an interview"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Exchanging information and ideas in Spanish — Communication",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "demonstrates discerning selection and sequencing of ideas in an interview with proficiency\nand spontaneity"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "demonstrates effective selection and sequencing of ideas in an interview with proficiency\nand spontaneity"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "demonstrates selection and sequencing of ideas in an interview with some proficiency"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "demonstrates fragmented selection and sequencing of ideas in an interview, or delivers a\nset of rehearsed responses"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "disjointed use of Spanish"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Creating a multimodal presentation in Spanish — Multimodal\npresentation",
+        "objectives": "1, 4, 5, 6",
+        "marks": 3
+      },
+      {
+        "criterion": "Creating a multimodal presentation in Spanish — Responding\n(language elements)",
+        "objectives": "1, 4, 5, 6",
+        "marks": 6
+      },
+      {
+        "criterion": "Creating a multimodal presentation in Spanish — Responding\n(communication)",
+        "objectives": "1, 4, 5, 6",
+        "marks": 6
+      },
+      {
+        "criterion": "Exchanging information and ideas in Spanish — Creating and\nresponding",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Exchanging information and ideas in Spanish — Language\nelements",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Exchanging information and ideas in Spanish —\nCommunication",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 30
+  }
+}

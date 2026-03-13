@@ -1,0 +1,183 @@
+{
+  "assessment": "IA1",
+  "subject": "English as an Additional Language",
+  "technique": "Examination — extended response (25%) .............................. 33",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Knowledge application",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "discerning analysis of perspectives and representations of concepts, identities, times\nand/or places in two different texts",
+            "discerning analysis of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin the texts and invite audiences to take up positions",
+            "discerning analysis of the effects of aesthetic features and/or stylistic devices in two\ndifferent texts"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective analysis of perspectives and representations of concepts, identities, times and/or\nplaces in two different texts",
+            "effective analysis of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin the texts and invite audiences to take up positions",
+            "effective analysis of the effects of aesthetic features and/or stylistic devices in different two\ntexts"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "adequate analysis of perspectives and representations of concepts, identities, times and/or\nplaces in two different texts",
+            "adequate analysis of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin the texts and invite audiences to take up positions",
+            "adequate analysis of the effects of aesthetic features and/or stylistic devices in two different\ntexts"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial analysis of perspectives and representations of concepts, identities, times and/or\nplaces in the texts",
+            "superficial analysis of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin the texts",
+            "identification of aesthetic features and/or stylistic devices and some effects"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of some perspectives and representations of concepts, identities, times and/or\nplaces in the texts",
+            "identification of some cultural assumptions, attitudes, values and/or beliefs underpin the\ntexts",
+            "identification of some aesthetic features and/or stylistic devices"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organisation and development",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "discerning use of the patterns and conventions of the analytical genre and the role of the\nwriter to analyse the texts",
+            "discerning selection and synthesis of subject matter to support perspectives",
+            "discerning organisation and sequencing of subject matter, including the discerning use of\ncohesive devices to emphasise ideas and connect parts of the analytical text"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective use of the patterns and conventions of the analytical genre and the role of the\nwriter to analyse the texts",
+            "effective selection and synthesis of subject matter to support perspectives",
+            "effective organisation and sequencing of subject matter, including the effective use of\ncohesive devices to emphasise ideas and connect parts of the analytical text"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "suitable use of the patterns and conventions of the analytical genre and the role of the\nwriter to analyse the texts",
+            "suitable selection and adequate synthesis of subject matter to support perspectives",
+            "suitable organisation and sequencing of subject matter, including the suitable use of\ncohesive devices to emphasise ideas and connect parts of the analytical text, including\nparagraphing"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "inconsistent use of the patterns and conventions of the analytical genre to write a response,\nand of the role of the writer",
+            "narrow selection of subject matter to support ideas",
+            "disjointed organisation and sequencing of subject matter, and some use of cohesive\ndevices to connect parts of the text, including paragraphing"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "fragmented use of the patterns and conventions of the analytical genre,",
+            "fragmented selection of subject matter",
+            "some connections between parts of the text"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Textual features",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "discerning language choices for particular purposes in a specific context",
+            "discerning combination of a range of grammatically accurate/appropriate language\nstructures, including clauses and sentences, to achieve particular purposes",
+            "discerning use of written features, including punctuation and conventional spelling, to\nachieve particular purposes"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective language choices for particular purposes in a specific context",
+            "effective use of a range of grammatically accurate/appropriate language structures,\nincluding clauses and sentences, to achieve particular purposes",
+            "effective use of written features, including punctuation and conventional spelling, to achieve\nparticular purposes"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "suitable language choices for particular purposes in a specific context",
+            "suitable use of a range of mostly grammatically accurate/appropriate language structures,\nincluding clauses and sentences, to achieve particular purposes",
+            "suitable use of written features, including punctuation and conventional spelling, to achieve\npurposes"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "inconsistent language choices",
+            "inconsistent use of grammar and language structures",
+            "use of written features, including punctuation and conventional spelling, that vary in\nsuitability"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate language choices",
+            "fragmented use of grammar and language structures",
+            "fragmented use of written features, including spelling and punctuation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Knowledge application",
+        "objectives": "3, 4, 5",
+        "marks": 9
+      },
+      {
+        "criterion": "Organisation and development",
+        "objectives": "1, 2, 6, 7, 8",
+        "marks": 9
+      },
+      {
+        "criterion": "Textual features",
+        "objectives": "9, 10, 11",
+        "marks": 7
+      }
+    ],
+    "total_marks": 25
+  }
+}

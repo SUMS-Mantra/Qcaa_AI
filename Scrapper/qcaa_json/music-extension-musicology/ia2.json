@@ -1,0 +1,135 @@
+{
+  "assessment": "IA2",
+  "subject": "Music Extension (Musicology)",
+  "technique": "Investigation 2 (20%) ................................................................... 24",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Applying literacy skills",
+      "bands": [
+        {
+          "marks": "4",
+          "descriptors": [
+            "application of literacy skills through articulated ideas and controlled structure of information"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "application of literacy skills through sequenced and connected ideas"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of literacy skills using music terminology relevant to genre/style, referencing and\nlanguage conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "application of literacy skills to describe ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Expressing meaning",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "expression of meaning or ideas about music is consolidated to enable new understandings\nor conclusions about the topic"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "expression of meaning or ideas about music reveals a considered connection to the topic"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "expression of meaning or ideas about music"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "statement of music ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Investigating music",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "investigation of the use of music elements and concepts and ideas about music from a\ndiscriminating range of sources"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "investigation of the use of music elements and concepts and ideas about music from a\nrange of sources"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "investigation of the use of music elements and concepts and ideas about music"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "selection and description of sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Applying literacy skills",
+        "objectives": "2",
+        "marks": 4
+      },
+      {
+        "criterion": "Expressing meaning",
+        "objectives": "4",
+        "marks": 8
+      },
+      {
+        "criterion": "Investigating music",
+        "objectives": "5",
+        "marks": 8
+      }
+    ],
+    "total_marks": 20
+  }
+}

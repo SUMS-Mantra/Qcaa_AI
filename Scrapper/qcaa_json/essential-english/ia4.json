@@ -1,0 +1,25 @@
+{
+  "assessment": "IA4",
+  "subject": "Essential English",
+  "technique": "Written response .......................................................................... 40",
+  "unit": "1 and 2",
+  "conditions": {
+    "topic": "1: Creating and shaping perspectives on community, local and global"
+  },
+  "criteria": [
+    {
+      "name": "Glossary _____________________________________________",
+      "marks": 43
+    },
+    {
+      "name": "References ___________________________________________",
+      "marks": 43
+    },
+    {
+      "name": "Version History________________________________________",
+      "marks": 43
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

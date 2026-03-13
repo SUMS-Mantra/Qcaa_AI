@@ -1,0 +1,15 @@
+{
+  "assessment": "External",
+  "subject": "Aerospace Systems",
+  "technique": "Examination — combination response (25%) ........................... 51",
+  "unit": "1 and Unit 2",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "𝐿",
+      "marks": 2
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

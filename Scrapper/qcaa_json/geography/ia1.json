@@ -1,0 +1,200 @@
+{
+  "assessment": "IA1",
+  "subject": "Geography",
+  "technique": "Examination — combination",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Explaining",
+      "marks": 5
+    },
+    {
+      "name": "Communicating",
+      "marks": 7
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Explaining",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "detailed explanations of interactions between biophysical and anthropogenic processes\nthat result in land cover change",
+            "detailed explanations of interactions between biophysical and anthropogenic processes\nthat result in climate change",
+            "explanations of complex relationships between land cover change and climate change"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "simple explanations of interactions between biophysical and anthropogenic process that\nresult in land cover change",
+            "simple explanations of interactions between biophysical and anthropogenic process that\nresult in climate change",
+            "explanations of simple relationships between land cover change and climate change"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "unclear explanation of interactions between biophysical and anthropogenic processes that\nresult in land cover change",
+            "unclear explanation of interactions between biophysical and anthropogenic processes that\nresult in climate change",
+            "vague explanation of relationships between land cover change and climate change"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "recognition of comprehensive spatial patterns of land cover change",
+            "recognition of critical indications of climate change",
+            "identification of significant relationships and implications for people and/or places"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "recognition of simple spatial patterns of land cover change",
+            "recognition of fundamental indications of climate change",
+            "identification of rudimentary relationships and implications for people and/or places"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "vague recognition of spatial patterns of land cover change",
+            "vague recognition of indications of climate change",
+            "identification of irrelevant relationships and/or implications for people and/or places"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing and Applying",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "astute interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+            "discerning use of data and information",
+            "sophisticated generalisations about the impacts of the geographical challenge on\nbiophysical and anthropogenic environments"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "logical interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+            "considered use of data and information",
+            "reasoned generalisations about the impacts of the geographical challenge on biophysical\nand anthropogenic environments"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "simple interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+            "appropriate use of data and information",
+            "fundamental generalisations about the impacts of the geographical challenge on\nbiophysical and anthropogenic environments"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "vague interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+            "minimal use of data and information",
+            "narrow generalisations about the impacts of the geographical challenge on biophysical and\nanthropogenic environments"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "consistently uses appropriate forms of geographical communication",
+            "accomplished use of geographical terminology",
+            "adept use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "uses appropriate forms of geographical communication",
+            "considered use of geographical terminology",
+            "purposeful use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "uses relevant forms of geographical communication",
+            "appropriate use of geographical terminology",
+            "sufficient use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uses inappropriate forms of geographical communication",
+            "inconsistent use of geographical terminology",
+            "fragmented use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Explaining",
+        "objectives": "1",
+        "marks": 5
+      },
+      {
+        "criterion": "Comprehending",
+        "objectives": "2",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing and Applying",
+        "objectives": "3, 4",
+        "marks": 8
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "6",
+        "marks": 7
+      }
+    ],
+    "total_marks": 25
+  }
+}

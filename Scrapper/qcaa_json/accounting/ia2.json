@@ -1,0 +1,268 @@
+{
+  "assessment": "IA2",
+  "subject": "Accounting",
+  "technique": "Examination — combination",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 6
+    },
+    {
+      "name": "Evaluating",
+      "marks": 4
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "identification of significant characteristics in the response",
+            "thorough understanding of accounting concepts, principles and/or processes",
+            "perceptive use of accounting terminology"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "identification of appropriate characteristics in the response",
+            "adequate understanding of accounting concepts, principles and/or processes",
+            "adequate use of accounting terminology"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "identification of inappropriate characteristics in the response",
+            "vague or partial understanding of accounting concepts, principles and/or processes",
+            "inconsistent and/or narrow use of accounting terminology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising — Item 1",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "effective application of accounting principles and depreciation method to calculate the\npurchase of non-current assets and depreciation for part and full year periods",
+            "effective application of double entry to record and process transactions for the purchase\nand depreciation of non-current assets in the general ledger",
+            "effective application of accounting processes to report non-current assets in the Statement\nof Financial Position (extracts) for two consecutive financial years"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of accounting principles and depreciation method to calculate the purchase of\nnon-current assets and depreciation",
+            "application of double entry to record and process transactions for the purchase and\ndepreciation of non-current assets in the general ledger",
+            "application of accounting processes to report non-current assets in the Statement of\nFinancial Position (extracts) for two consecutive financial years"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent application of accounting principles and depreciation method to calculate the\npurchase of non-current assets and depreciation",
+            "inconsistent or partial application of double entry to record and process aspects of\ntransactions for the purchase and depreciation of non-current assets in the general ledger",
+            "inconsistent or partial application of accounting processes to report non-current assets in\nthe Statement of Financial Position (extracts)"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising — Item 2",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "effective application of accounting principles and depreciation method to calculate disposal\nof non-current assets, including historical cost, depreciation for a part year, accumulated\ndepreciation and gain or loss on disposal",
+            "effective application of double entry to record and process transactions for the disposal of a\nnon-current asset in the general ledger",
+            "effective application of accounting processes to report disposal data and information in the\nStatement of Profit or Loss (extract)"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of accounting principles and depreciation method to calculate disposal of non-\ncurrent assets",
+            "application of double entry to record and process transactions for the disposal of a non-\ncurrent asset in the general ledger",
+            "application of accounting processes to report disposal data and information in the\nStatement of Profit or Loss (extract)"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent application of accounting principles or depreciation method to calculate the\ndisposal of non-current assets",
+            "inconsistent or partial application of double entry to record and process aspects of\ntransactions for the disposal of a non-current asset in the general ledger",
+            "inconsistent or partial application of accounting processes to report the disposal in the\nStatement of Profit or Loss (extract)"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "examines financial data and information through the identification of significant and relevant\nrelationships",
+            "thorough interpretation of trends in the financial data and information",
+            "thorough and logical explanation of issues with the management of resources"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "examines financial data and information through the identification of relationships",
+            "interpretation of trends in the financial data and information",
+            "explanation of issues with the management of resources"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "examines financial data or information through the identification of superficial relationships",
+            "superficial interpretation of financial data or information",
+            "narrow or partial statements of issues"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "perceptive judgments for proposed changes to practices of financial management relating\nto managing resources",
+            "thoroughly justified decisions for managing resources relevant to the accounting context",
+            "convincing recommendations for managing resources relevant to the accounting context"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "judgments for proposed changes to practices of financial management relating to managing\nresources",
+            "decisions for managing resources relevant to the accounting context",
+            "recommendations for managing resources relevant to the accounting context"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "rudimentary or partial statements for proposed changes to practices of financial\nmanagement relating to managing resources",
+            "inconsistent or partial decisions for the accounting context",
+            "inconsistent or partial recommendations for the accounting context"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "succinct, with effective language choices to communicate analysis, interpretation and\nevaluation to the business owner",
+            "logical sequencing and organisation of ideas in a business report (extract)",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "appropriate language choices to communicate analysis, interpretation and evaluation to the\nbusiness owner",
+            "clear sequencing and organisation of ideas in a business report (extract)",
+            "some errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate language choices to communicate business data, information or advice",
+            "unclear or fragmented sequencing of ideas in a business report (extract)",
+            "frequent errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "1",
+        "marks": 5
+      },
+      {
+        "criterion": "Synthesising — Item 1",
+        "objectives": "2",
+        "marks": 4
+      },
+      {
+        "criterion": "Synthesising — Item 2",
+        "objectives": "2",
+        "marks": 3
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 4
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "5",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

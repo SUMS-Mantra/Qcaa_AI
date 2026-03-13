@@ -1,0 +1,848 @@
+{
+  "subject": "Music",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Designs",
+      "subject": "Music",
+      "description": "In Unit 1, students make and respond to music as they explore music elements and concepts to\ngain greater familiarity with the way music is designed. Students engage with a variety of\nrepertoire, covering a range of contexts, styles and genres, and develop musicianship through\ntheir understanding and use of music elements and concepts, and compositional devices.\nStudents develop a greater awareness of the stylistic considerations that inform the music they\ncompose and perform. They develop an understanding of the interrelationships between these\nelements in the resolution and realisation of cohesive music that communicates meaning.\nUnit objectives\n1. Demonstrate technical skills in performance.\n2. Use music elements and concepts in composition.\n3. Analyse music elements and concepts, and compositional devices.\n4. Apply compositional devices in composition.\n5. Apply literacy skills to communicate ideas.\n6. Interpret music elements and concepts in performance.\n7. Evaluate music elements and concepts, and compositional devices.\n8. Realise music ideas in performance.\n9. Resolve music ideas in composition.\nInquiry question\n How does the treatment and combination of different music elements enable musicians to\ndesign music that communicates meaning through performance and composition?\nMusic 2025 v1.3 Units\n\nSubject matter\nArea of study: Designs\nStudents:\n analyse repertoire to discern the ways musicians/composers have designed music to\ncommunicate meaning through manipulation and…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Identities",
+      "subject": "Music",
+      "description": "In Unit 2, students make and respond to music that expresses cultural, political and social\nidentities in both local and global contexts. Through the journey of critically considering how\nmusic can be used as a powerful form of expression, students explore their own musical identity.\nAt this stage of the course, students consolidate their knowledge from Unit 1 and continue to\ndevelop their understanding of music elements and concepts, and compositional devices as they\nconsider, develop and refine their own emerging voice or style as a musician.\nIn this unit, students will develop their understanding about the expression of identity in music\nthrough exploration of repertoire in the following contexts:\n cultural — reflecting identity and character (Australian and others)\n political — a vehicle to express political views\n social — reflecting the identity of social groups\n personal — developing and expressing their own musical identity.\nSome suggested repertoire representative of Unit 2 subject matter is provided as a guide in\nselecting appropriate repertoire for the local school context. Repertoire is suggested, not\nmandatory. When choosing repertoire, teachers should ensure that students have opportunities\nto reinforce subject matter from Unit 1.\nUnit objectives\n1. Demonstrate technical skills in performance (will be assessed if selected as specialisation in\nproject).\n2. Use music elements and concepts in composition (will be assessed if selected as\nspecialisation in projec…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Innovations",
+      "subject": "Music",
+      "description": "In this unit, students make and respond to music that demonstrates innovative use of music\nelements and concepts, and compositional devices, and learn about how these ideas are used to\ncommunicate new meanings. They study the ways in which music traditions have been\nchallenged, further developed or reconceptualised to represent, reflect and even shape cultural,\nsocietal and technological change. Such innovations in musical language and expression have\noften been prompted by the ways in which music reflects and comments on culture and society.\nStudents examine how music elements and concepts, and compositional devices have been\nused, manipulated and adapted in the promotion of these new ideas and representations, and the\nmain philosophical ideas that have promoted these changes. The musical styles and genres that\nreflect innovations extend from Western art music through to jazz, contemporary, and emerging\nstyles promoted by technological developments.\nSome suggested repertoire representative of Unit 3 subject matter is provided as a guide in\nselecting appropriate repertoire for the local school context. Suggested repertoire is not\nmandatory. When choosing repertoire, teachers should ensure that students have opportunities\nto reinforce subject matter from Units 1 and Unit 2.\nUnit objectives\n1. Demonstrate technical skills in performance.\n2. Use music elements and concepts in composition.\n3. Analyse music elements and concepts, and compositional devices used in innovative\nrepert…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Narratives ................................................................................................................... 29",
+      "subject": "Music",
+      "description": "Assessment __________________________________________ 32\nInternal assessment 1: Performance (20%) ...................................................................... 32\nInternal assessment 2: Composition (20%) ...................................................................... 35\nInternal assessment 3: Project (35%) ................................................................................ 39\nExternal assessment: Examination — extended response (25%) ................................ 48\nGlossary _____________________________________________ 49\nReferences ___________________________________________ 49\nVersion history________________________________________ 49\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is availabl…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Music",
+      "technique": "Examination — extended response (25%) ................................ 48",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "duration": "the relative lengths of  beat and pulse"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Music",
+      "technique": "Performance (20%) ...................................................................... 32",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Demonstrating technique",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "demonstration of technical skills is\n- refined and synthesised\n- sustained without interruption to create a polished performance"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "demonstration of technical skills\n- is specific to the chosen genre/style\n- displays control"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "demonstration of technical skills\n- for the chosen instrument or sound source\n- throughout the performance"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "demonstration of some technical skills"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting music elements and concepts",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "interpretation of music elements and concepts shows\n- sensitivity towards the genre/style\n- sustained and perceptive use of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "interpretation of music elements and concepts\n- makes the genre/style explicit\n- throughout the performance"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "interpretation of music elements and concepts\n- of the chosen genre/style\n- throughout the performance"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "interpretation of some music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Realising music ideas",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "realisation of music ideas reveals subtleties of meaning through the perceptive synthesis of\nexpressive devices"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "realisation of music ideas consolidates meaning through the sustained use of expressive\ndevices"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "realisation of music ideas supports meaning through a selection of expressive devices"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "realisation of music ideas to communicate meaning"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "presentation of music ideas to communicate meaning relevant to the performance of\nrepertoire"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Demonstrating technique",
+            "objectives": "1",
+            "marks": 8
+          },
+          {
+            "criterion": "Interpreting music elements and concepts",
+            "objectives": "6",
+            "marks": 7
+          },
+          {
+            "criterion": "Realising music ideas",
+            "objectives": "8",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Music",
+      "technique": "Composition (20%) ...................................................................... 35",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Using music elements and concepts",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "use of music elements and concepts shows\n- perceptive understanding of genre/style\n- sensitivity towards the genre/style through sustained synthesis of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "use of music elements and concepts\n- is integrated\n- incorporates genre/style-specific characteristics\n- makes the genre/style explicit"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "use of music elements and concepts\n- to reflect the genre/style\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "some selection of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Applying compositional devices",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "application of compositional devices is synthesised to create a polished work"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "application of compositional devices creates a unified and cohesive work"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of idiomatic compositional devices develops the work"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of compositional devices in the creation of the work"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of a selection of compositional devices"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Resolving music ideas",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "resolution of music ideas is perceptively synthesised and reveals subtleties of meaning"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "resolution of music ideas is sustained and consolidates meaning"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "resolution of music ideas is integral to communicate meaning"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "resolution of music ideas to communicate meaning"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "demonstration of music ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Statement of intent",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition is\ndetailed and specific",
+                "application of literacy skills through sequenced and connected ideas",
+                "evaluation shows insightful judgments about the use of music elements and concepts, and\ncompositional devices to communicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition",
+                "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas in the composition",
+                "evaluation of the use of music elements and concepts, and compositional devices to\ncommunicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "explanation of the choices made in the composition",
+                "application of literacy skills that communicate ideas about the composition",
+                "statements made about the use of music elements and concepts, and compositional\ndevices to communicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Using music elements and concepts",
+            "objectives": "2",
+            "marks": 7
+          },
+          {
+            "criterion": "Applying compositional devices",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Resolving music ideas",
+            "objectives": "9",
+            "marks": 5
+          },
+          {
+            "criterion": "Statement of intent",
+            "objectives": "3, 5, 7",
+            "marks": 3
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Music",
+      "technique": "Project (35%) ................................................................................ 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Analysing music",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "analysis\n- identifies interconnections between music elements and concepts, and compositional\ndevices\n- is consistently accurate"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices is\n- detailed\n- specific"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "analysis of the narrative through\n- music elements and concepts, and compositional devices\n- setting, characterisation, drama and/or action, mood or atmosphere"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating music",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "evaluation shows insightful judgments about the purpose of music elements and concepts,\nand compositional devices in conveying the narrative, consistently using convincing\nevidence to support judgments"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "evaluation shows reasonable judgments about the purpose of music elements and\nconcepts, and compositional devices in conveying the narrative, consistently using credible\nevidence to support judgments"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "evaluation of the use of music elements and concepts, and compositional devices to\nconvey the narrative in film music, television music, game music, musical theatre, opera,\nprogram music or art song, using relevant evidence to support judgments"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "statements made about the purpose of music elements and concepts, and compositional\ndevices, using evidence to support judgments"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "gives opinions about music"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Applying literacy skills",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of literacy skills through articulated ideas, controlled structure and the sequence\nof information that enhance communication of meaning in the topic"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of literacy skills using music terminology relevant to genre/style, referencing and\nlanguage conventions to communicate ideas"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of literacy skills to describe ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Using music elements and concepts",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "use of music elements and concepts shows\n- perceptive understanding of genre/style\n- sensitivity towards the genre/style through sustained synthesis of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "use of music elements and concepts\n- is integrated\n- incorporates genre/style specific characteristics\n- makes the genre/style explicit"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "use of music elements and concepts\n- to reflect the genre/style\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "some selection of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Applying compositional devices",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "application of compositional devices\n- creates a unified and cohesive work\n- is synthesised to create a polished work"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "application of compositional devices\n- is idiomatic\n- develops the work"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "application of compositional devices\n- in the creation of their work\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of a selection of compositional devices"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Resolving music ideas",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "resolution of music ideas is perceptively synthesised and reveals subtleties of the narrative"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "resolution of music ideas is sustained and consolidates the narrative"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "resolution of music ideas is integral to communicate the narrative"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "resolution of music ideas to communicate the narrative"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "demonstration of music ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing music",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "analysis\n- identifies interconnections between music elements and concepts, and compositional\ndevices\n- is consistently accurate"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices is\n- detailed\n- specific"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "analysis of the narrative through\n- music elements and concepts, and compositional devices\n- setting, characterisation, drama and/or action, mood or atmosphere"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating music",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "evaluation shows insightful judgments about the purpose of music elements and concepts,\nand compositional devices in conveying the narrative, consistently using convincing\nevidence to support a viewpoint"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "evaluation shows reasonable judgments about the purpose of music elements and\nconcepts, and compositional devices in conveying the narrative, consistently using credible\nevidence to support judgments"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "evaluation of the use of music elements and concepts, and compositional devices to\nconvey the narrative in film music, television music, game music, musical theatre, opera,\nprogram music or art song, using relevant evidence to support judgments"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "statements made about the purpose of music elements and concepts, and compositional\ndevices, using evidence to support judgments"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "gives opinions about music"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Applying literacy skills",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of literacy skills through articulated ideas, controlled structure and the sequence\nof information that enhance communication of meaning in the topic"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of literacy skills using music terminology relevant to genre/style, referencing and\nlanguage conventions to communicate ideas"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of literacy skills to describe ideas"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Demonstrating technique",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "demonstration of technical skills is\n- refined and synthesised\n- sustained without interruption to create a polished performance"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "demonstration of technical skills\n- is specific to the chosen genre/style\n- displays control"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "demonstration of technical skills\n- for the chosen instrument or sound source\n- throughout the performance"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "demonstration of some technical skills"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting music elements and concepts",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "interpretation of music elements and concepts shows\n- sensitivity towards the genre/style\n- sustained and perceptive use of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "interpretation of music elements and concepts\n- makes the genre/style explicit\n- throughout the performance"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "interpretation of music elements and concepts\n- of the chosen genre/style\n- throughout the performance"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "interpretation of some music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Realising music ideas",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "realisation of music ideas reveals subtleties of the narrative through the perceptive\nsynthesis of expressive devices"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "realisation of music ideas consolidates the narrative through the sustained use of\nexpressive devices"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "realisation of music ideas supports the narrative through a selection of expressive devices"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "realisation of music ideas to communicate the narrative"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "presentation of music ideas to communicate meaning relevant to the performance of\nrepertoire"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Analysing music",
+            "objectives": "3",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluating music",
+            "objectives": "7",
+            "marks": 5
+          },
+          {
+            "criterion": "Applying literacy skills",
+            "objectives": "5",
+            "marks": 3
+          },
+          {
+            "criterion": "Demonstrating technique",
+            "objectives": "1",
+            "marks": 8
+          },
+          {
+            "criterion": "Interpreting music elements and concepts",
+            "objectives": "6",
+            "marks": 7
+          },
+          {
+            "criterion": "Realising music ideas",
+            "objectives": "8",
+            "marks": 5
+          }
+        ],
+        "total_marks": 35
+      }
+    }
+  ]
+}

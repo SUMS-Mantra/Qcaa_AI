@@ -1,0 +1,136 @@
+{
+  "assessment": "IA1",
+  "subject": "Design",
+  "technique": "Design challenge (20%) .............................................................. 30",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Devising",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "range of credible ideas perceptively devised using designing with empathy in response to\nthe HCD problem that demonstrate flexibility in ways of responding, originality and detailed\nattributes"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "range of credible ideas purposefully devised using designing with empathy in response to\nthe HCD problem that demonstrate originality and detailed attributes"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "range of credible ideas appropriately devised using designing with empathy in response to\na HCD problem"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "ideas superficially devised or described in response to aspects of the HCD problem"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating and Proposing",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "critical evaluation of the strengths, limitations and implications of ideas against design\ncriteria",
+            "discerning refinement of ideas based on the criteria and stakeholder information",
+            "coherent, logical and innovative HCD concept proposed, by combining attributes of multiple\nideas and stakeholder information, in response to the design problem"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "feasible evaluation of the strengths and limitations of ideas against design criteria",
+            "effective refinements of ideas in response to the criteria",
+            "logical and credible HCD concept proposed, by combining ideas and stakeholder\ninformation, in response to the design problem"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial evaluation of the strengths and limitations of ideas against some design criteria",
+            "make changes to ideas related to the criteria",
+            "simple HCD concept proposed, by selecting ideas and stakeholder information, in response\nto the design problem"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "statements about ideas related to some design criteria",
+            "partial HCD concept proposed based on an idea"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Representing",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "sophisticated representation of ideas and a design concept using fluent sequences of\nideation and/or schematic sketching to progress understanding in the develop phase"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate representation of ideas and a design concept using ideation and/or schematic\nsketching in the develop phase to progress understanding of ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "cursory representation of ideas and a design concept using unclear ideation and/or\nschematic sketching in the develop phase"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Devising",
+        "objectives": "4",
+        "marks": 7
+      },
+      {
+        "criterion": "Evaluating and Proposing",
+        "objectives": "5, 6",
+        "marks": 8
+      },
+      {
+        "criterion": "Representing",
+        "objectives": "2",
+        "marks": 5
+      }
+    ],
+    "total_marks": 20
+  }
+}

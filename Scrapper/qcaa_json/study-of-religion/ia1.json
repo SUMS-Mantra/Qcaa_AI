@@ -1,0 +1,184 @@
+{
+  "assessment": "IA1",
+  "subject": "Study of Religion",
+  "technique": "Examination — extended",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Explaining",
+      "marks": 6
+    },
+    {
+      "name": "Analysing",
+      "marks": 8
+    },
+    {
+      "name": "Evaluating",
+      "marks": 8
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Explaining",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "comprehensive and relevant identification of distinguishing features of religious traditions\nthat inform religious ethics",
+            "thorough and detailed description of characteristics of religious traditions that inform social–\nethical responses",
+            "accurate and detailed explanation of the ways in which the two religious traditions are\nexpressed in the lives of adherents and inform ethical decision-making processes"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "relevant identification of distinguishing features of religious traditions that inform religious\nethics",
+            "description of characteristics of religious traditions that inform social–ethical responses",
+            "explanation of the ways in which the two religious traditions are expressed in the lives of\nadherents and inform ethical decision-making processes"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "simplistic identification of features of religious traditions that inform religious ethics",
+            "statements about characteristics of religious traditions that inform social–ethical responses",
+            "limited and basic explanation of the ways in which the two religious traditions are\nexpressed in the lives of adherents and inform ethical decision-making processes"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "comprehensive selection and accurate use of relevant information from stimulus that\ninfluence decision-making on the social–ethical issue",
+            "detailed and accurate explanation of distinct beliefs and practices in religious traditions,\nincluding similarities and differences",
+            "thorough examination of perspectives from two religious traditions that form and inform\nreligious–ethical responses to the social–ethical issue"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "appropriate selection and accurate use of relevant information from stimulus that influence\ndecision-making on the social–ethical issue",
+            "accurate explanation of distinct beliefs and practices in religious traditions, including\nsimilarities and differences",
+            "considered examination of perspectives from two religious traditions that form and inform\nreligious–ethical responses to the social–ethical issue"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "selection and use of relevant information from stimulus that influence decision-making on\nthe social–ethical issue",
+            "partial explanation of beliefs and practices in religious traditions, including similarities\nand/or differences",
+            "some examination of perspectives from two religious traditions that form and inform\nreligious–ethical responses to the social–ethical issue"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "limited selection and lack of/irrelevant use of information from stimulus that influence\ndecision-making on the social–ethical issue",
+            "simplistic and/or erroneous understanding of the two religious traditions’ beliefs and\npractices in relationship to the religious–ethical response to the social–ethical issue",
+            "one or more statements are made on beliefs, practices and/or perspectives within religious\ntraditions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "succinct synthesis of ideas about the role of religion in social–ethical situations or within\nsocial–ethical issues",
+            "discerning judgments and relevant conclusions about the significance of religious–ethical\nstances to a social–ethical issue and its influence on adherents",
+            "consistent and thorough justification of judgments using religious teachings"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "synthesis of ideas about the role of religion in social–ethical situations or within social–\nethical issues",
+            "considered judgments and appropriate conclusions about the significance of religious–\nethical stances to a social–ethical issue and its influence on adherents",
+            "justification of judgments using religious teachings"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "combination of ideas about the role of religion in social–ethical situations or within social–\nethical issues",
+            "basic judgments and simplistic conclusions about the significance of religious–ethical\nstances to a social–ethical issue and its influence on adherents",
+            "some justification of judgments"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "one or more statements about the role of religion in social–ethical situations or within\nsocial–ethical issues",
+            "simplistic and/or erroneous judgments about the significance of religious–ethical stances to\na social–ethical issue and its influence on adherents",
+            "inaccurate and/or irrelevant judgments"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "accurate choice of religious language, logical, cohesive, and succinct development of ideas\nsuitable for the analytical essay genre, including creation of hypothesis",
+            "consistently appropriate application of language conventions (spelling, grammar,\npunctuation)",
+            "consistent identification and acknowledgment of sources used"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "appropriate choice of some religious language, development of ideas suitable for the\nanalytical essay genre, including creation of hypothesis",
+            "application of language conventions (spelling, grammar, punctuation)",
+            "identification and acknowledgment of sources used"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "some use of religious language, with ideas related to a hypothesis and features of an essay",
+            "limited application of language conventions (spelling, grammar, punctuation)",
+            "limited acknowledgment of sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {}
+}

@@ -1,0 +1,178 @@
+{
+  "assessment": "IA2",
+  "subject": "Digital Solutions",
+  "technique": "Digital solution (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Evaluating",
+      "marks": 7
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Determining and Synthesising",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "• astute determination of success criteria\n• logical synthesis of relevant information and ideas to develop the possible solutions for\n- user interfaces\n- data and data repositories\n- programmed components"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• logical determination of success criteria\n• adequate synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- data and data repositories\n- programmed components"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• reasonable determination of success criteria\n• simple synthesis of information or ideas to develop the possible solutions for\n- user interfaces\n- data and data repositories\n- programmed components"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of a requirement or some criteria\n• unclear combination of information or ideas to develop data, data repositories, user\ninterface or programmed components"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Generating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "• proficient generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "• effective generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• adequate generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• basic generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• generation of elements of the prototype digital solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "• critical evaluation of features and components against criteria including\n- user experience\n- programmed components\n• critical evaluation of impacts\n• effective refinements and recommendations justified by\n- user feedback\n- testing"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• feasible evaluation of features and components against criteria including\n- user experience\n- programmed components\n• feasible evaluation of impacts\n• adequate refinements and recommendations justified by\n- user feedback\n- testing"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• superficial evaluation of\n- user experience\n- programmed components\n- impacts"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of a change to an idea or a solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "2",
+          "descriptors": [
+            "• effective decision-making about, and fluent use of\n- visual, written and spoken features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• simple decision-making about, and inconsistent use of\n- visual, written and spoken features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Determining and Synthesising",
+        "objectives": "4, 5",
+        "marks": 7
+      },
+      {
+        "criterion": "Generating",
+        "objectives": "6",
+        "marks": 9
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "7",
+        "marks": 7
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "8",
+        "marks": 2
+      }
+    ],
+    "total_marks": 25
+  }
+}

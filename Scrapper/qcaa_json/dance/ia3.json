@@ -1,0 +1,211 @@
+{
+  "assessment": "IA3",
+  "subject": "Dance",
+  "technique": "Dance work (35%)........................................................................ 50",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Understanding and evaluating dance concepts: Choreographic statement",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "evaluation of dance incorporates a well-reasoned justification using examples that reveal\nthe interrelationship between purpose, context and meaning"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "demonstration of an understanding of elements of dance, structure, and production\nelements in relation to purpose, context, personal viewpoint and personal style",
+            "application of literacy skills through sequenced and connected ideas that enhance\ncommunication of meaning about the dance concepts",
+            "evaluation of the dance by justifying choices made in terms of the key elements of dance,\nstructure, and production elements used to communicate meaning"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "demonstration of understanding of elements of dance, structure and/or production elements",
+            "application of literacy skills, using relevant dance terminology, referencing and language\nconventions to communicate ideas and meaning",
+            "evaluation of dance, justifying the use of elements of dance, structure or production\nelements in own dance work"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing and evaluating dance concepts: Evaluative response",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "analysis and interpretation offer solutions clearly linked to consideration of meaning and\npersonal viewpoint",
+            "evaluation of dance incorporates a well-reasoned justification using examples of meaning\nin their work and solutions to choreographic problems that reveal the interrelationship\nbetween purpose, context and meaning"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "analysis and interpretation of elements of dance and structure to examine a choreographic\nproblem/s",
+            "evaluation of dance by justifying choices made in terms of elements of dance and structure\nused to communicate meaning"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "identification of a choreographic problem/s",
+            "description of own work and solutions uses examples of elements of dance or structure"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "description of ideas about choreographic problem/s"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating dance to communicate meaning",
+      "bands": [
+        {
+          "marks": "12-13",
+          "descriptors": [
+            "organisation and application makes purpose and context explicit through integration of\nelements of dance, structure and use of production elements",
+            "creation of dance reveals complex and subtle layers of meaning to communicate viewpoint\nwith impact and sensitivity"
+          ]
+        },
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "organisation and application enhance purpose and context through dynamics, and\nrelationships",
+            "creation of dance is enhanced through cohesion of interconnected elements of dance,\nchoreographic devices and production elements"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "organisation and application reveals choices in production elements, elements of dance\nand choreographic devices, including motif/s and form, to support stated purpose and\ncontext",
+            "creation of dance manipulates the elements of dance, choreographic devices and\nproduction elements to communicate the viewpoint"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "organisation and application of elements of dance, choreographic devices and production\nelements for a stated purpose and context",
+            "creation of dance to communicate a personal viewpoint"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "organisation of movement to develop transitions using elements of dance, choreographic\ndevices or production elements",
+            "movement sequences use elements of dance, choreographic devices or production\nelements that link to personal viewpoint"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "development of short sequences of movement",
+            "use of elements of dance, choreographic devices or production elements to shape ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "development of isolated movements to show ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Realising meaning through technical and expressive skills",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "application shows sustained control and synthesis of complex movements to present a\ncohesive performance",
+            "realisation shows subtleties of meaning through a synthesis of expressive skills, including\nrelationships between dancers, audience, space and/or objects"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "application of technical skills shows accuracy and extension of movements through space",
+            "realisation of meaning through sustained use of focus, projection, facial and body\nexpression, variations in movement qualities and musicality (rhythm, accents, phrasing) to\ncommunicate the stated meaning"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "application of technical skills in a personal movement style",
+            "realisation of meaning through expressive skills that communicate the stated viewpoint"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "application of timing and spatial awareness is evident in isolated movement phrases",
+            "use of focus, projection, facial and/or body expression in isolated phrases of movement"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "coordination of simple movements",
+            "demonstration of variations in energy"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Understanding and evaluating dance concepts: Choreographic\nstatement",
+        "objectives": "1, 2, 8",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing and evaluating dance concepts: Evaluative\nresponse",
+        "objectives": "4, 8",
+        "marks": 7
+      },
+      {
+        "criterion": "Creating dance to communicate meaning",
+        "objectives": "3, 7",
+        "marks": 13
+      },
+      {
+        "criterion": "Realising meaning through technical and expressive skills",
+        "objectives": "5, 6",
+        "marks": 10
+      }
+    ],
+    "total_marks": 35
+  }
+}

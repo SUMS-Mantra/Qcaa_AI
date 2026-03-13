@@ -1,0 +1,41 @@
+{
+  "subject": "aboriginal-torres-strait-islander-languages",
+  "units": [],
+  "assessments": [
+    {
+      "assessment": "IA1",
+      "subject": "Aboriginal & Torres Strait Islander Languages",
+      "technique": "Project — Exploring connections............................................... 28",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Aboriginal & Torres Strait Islander Languages",
+      "technique": "Project — The art of storytelling ................................................ 31",
+      "unit": "",
+      "conditions": {
+        "topic": "Topic 1: Making connections"
+      },
+      "criteria": [
+        {
+          "name": "Glossary _____________________________________________",
+          "marks": 34
+        },
+        {
+          "name": "References ___________________________________________",
+          "marks": 34
+        },
+        {
+          "name": "Version History________________________________________",
+          "marks": 34
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

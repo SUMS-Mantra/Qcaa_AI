@@ -1,0 +1,199 @@
+{
+  "assessment": "IA2",
+  "subject": "Philosophy & Reason",
+  "technique": "Analytical essay (25%) ................................................................ 29",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Using and Explaining",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "astute understanding of meaning demonstrated through employing relevant terminology of\nthe philosophical school of thought",
+            "sustained and accurate use of terminology of argumentation",
+            "comprehensive and accurate descriptions and explanations of concepts, methods,\nprinciples and theories relating to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "substantial understanding of meaning demonstrated through employing relevant\nterminology of the philosophical school of thought",
+            "sustained and accurate use of terminology of argumentation, with minor errors or omissions",
+            "comprehensive descriptions and explanations of concepts, methods, principles and\ntheories relating to the philosophical school of thought that are accurate in most key\naspects"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "basic understanding of meaning demonstrated through employing relevant terminology of\nthe philosophical school of thought",
+            "some accurate use of terminology of argumentation",
+            "descriptions and explanations of concepts, methods, principles and theories relating to the\nphilosophical school of thought are evident, but with inaccuracies or omissions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "rudimentary understanding of meaning demonstrated through employing some terminology\nof the philosophical school of thought",
+            "use of terminology of argumentation is limited",
+            "significant inaccuracies or omissions in descriptions and explanations of concepts,\nmethods, principles and theories relating to the philosophical school of thought are evident\nthroughout the response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting and Analysing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "detailed and perceptive interpretation of significant ideas and information relating to the\nphilosophical school of thought",
+            "precise and accurate deconstruction of relevant arguments relating to the philosophical\nschool of thought",
+            "insightful determination of relationships within or between ideas, arguments and/or theories\nrelevant to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "informed interpretation of significant ideas and information relating to the philosophical\nschool of thought",
+            "accurate deconstruction of relevant arguments relating to the philosophical school of\nthought",
+            "effective determination of relationships within or between ideas, arguments and/or theories\nrelevant to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "interpretation of ideas and information relating to the philosophical school of thought",
+            "deconstruction of relevant arguments relating to the philosophical school of thought",
+            "identification of relationships within or between ideas, arguments and/or theories relevant to\nthe philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "simplistic interpretation of ideas and information relating to the philosophical school of\nthought",
+            "partial deconstruction of arguments relating to the philosophical school of thought",
+            "minimal identification of relationships within or between ideas, arguments and/or theories\nrelevant to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organising, Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "coherent and thorough synthesis of ideas and information relating to the philosophical\nschool of thought and the selected issue/topic in which all key aspects have been\nconsidered and resolved",
+            "insightful evaluation of claims, arguments, theories and views of the philosophical school of\nthought using discerning criteria",
+            "constructs a sophisticated argument relating to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "substantial synthesis of ideas and information relating to the philosophical school of thought\nand the selected issue/topic in which most key aspects have been considered and resolved",
+            "considered evaluation of claims, arguments, theories and views of the philosophical school\nof thought using appropriate criteria",
+            "constructs an effective argument relating to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "partial synthesis of ideas and information relating to the philosophical school of thought and\nthe selected issue/topic in which some key aspects have been considered and resolved",
+            "evaluation of claims, arguments, theories and views of the philosophical school of thought\nusing criteria",
+            "constructs a feasible argument relating to the philosophical school of thought"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "superficial synthesis of ideas and information relating to the philosophical school of thought\nand the selected issue/topic",
+            "superficial evaluation of claims, arguments, theories and views of the philosophical school\nof thought",
+            "provides a conclusion relating to the philosophical school of thought with simplistic\njustification"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating and Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "conveys relevant ideas and arguments purposefully and fluently",
+            "consistently demonstrates features of the analytical essay genre",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "conveys relevant ideas and arguments purposefully",
+            "generally demonstrates features of the analytical essay genre",
+            "some errors in spelling, grammar and/or punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "conveys ideas and/or arguments",
+            "sporadically demonstrates features of the analytical essay genre",
+            "frequent errors in spelling, grammar and/or punctuation impede communication of ideas\nand arguments"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Using and Explaining",
+        "objectives": "1, 2",
+        "marks": 7
+      },
+      {
+        "criterion": "Interpreting and Analysing",
+        "objectives": "3",
+        "marks": 7
+      },
+      {
+        "criterion": "Organising, Synthesising and Evaluating",
+        "objectives": "4, 5",
+        "marks": 8
+      },
+      {
+        "criterion": "Creating and Communicating",
+        "objectives": "6",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

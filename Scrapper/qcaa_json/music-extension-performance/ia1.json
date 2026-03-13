@@ -1,0 +1,181 @@
+{
+  "assessment": "IA1",
+  "subject": "Music Extension (Performance)",
+  "technique": "Performance 1 (20%) .................................................................. 25",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Applying technique",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "application of technical skills is\n- refined and synthesised\n- sustained without interruption to create a polished performance"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "application of technical skills\n- is specific to the chosen genre/style\n- displays control"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "application of technical skills\n- for the chosen instrument or sound source\n- throughout the performance"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "demonstration of some technical skills"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting music elements and concepts",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "interpretation of music elements and concepts shows\n- sensitivity towards the genre/style\n- sustained and perceptive use of stylistic nuances"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "interpretation of music elements and concepts makes the genre/style explicit"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "interpretation of music elements and concepts of the chosen genre/style"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "interpretation of some music elements and concepts"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Realising music ideas",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "realisation of music ideas reveals subtleties of meaning through the perceptive synthesis of\nexpressive devices"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "realisation of music ideas consolidates meaning through the sustained use of expressive\ndevices"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "realisation of music ideas supports meaning through a selection of expressive devices"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "realisation of music ideas to communicate meaning"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "presentation of music ideas relevant to the performance of repertoire"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Statement of intent",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "analysis of the choices made in the performance is detailed and specific",
+            "application of literacy skills through sequenced and connected ideas",
+            "evaluation shows insightful judgments about the choices made in the performance"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "analysis of the choices made in the performance",
+            "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas about the choices made in the performance",
+            "evaluation of the choices made in the performance to the communicate the intent"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "explains the choices made in the performance",
+            "application of literacy skills that communicate ideas about the choices made in the\nperformance",
+            "statements about the choices in the performance"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Applying technique",
+        "objectives": "4",
+        "marks": 7
+      },
+      {
+        "criterion": "Interpreting music elements and concepts",
+        "objectives": "5",
+        "marks": 5
+      },
+      {
+        "criterion": "Realising music ideas",
+        "objectives": "6",
+        "marks": 5
+      },
+      {
+        "criterion": "Statement of intent",
+        "objectives": "1, 2, 3",
+        "marks": 3
+      }
+    ],
+    "total_marks": 20
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "subject": "Engineering",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Engineering fundamentals",
+      "subject": "Engineering",
+      "description": "In Unit 1, students learn about engineering’s role in solving global and local societal problems in\norder to improve the human condition. They learn how to use their knowledge of fundamental\nmechanics and materials science concepts and principles to solve problems using the problem-\nsolving process in Engineering in ways that meet human needs while considering the economic,\nsocial, ethical, legal and environmental impacts of their solutions. Students explore the history of\nengineering to gain an appreciation for the role played by engineering in the shaping of\ncontemporary and future societies. Students engage in practical engineering activities to learn\nthat engineering is an applied practical discipline that uses science and mathematics concepts\nand principles to solve real-world-related problems. Students are introduced to engineering\ndrawings that communicate ideas to a technical and non-technical audience. Students participate\nin a range of individual and collaborative group activities, including those associated with material\nand process testing, analysis of the forces acting on basic structures, and problem-solving.\nUnit objectives\n1. Recognise and describe a structural problem, engineering technology knowledge, and\nmechanics and materials science concepts and principles in relation to engineering\nfundamentals and society.\n2. Symbolise and explain ideas and solutions in relation to engineering fundamentals and\nsociety.\n3. Analyse a structural problem, and information i…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Emerging technologies",
+      "subject": "Engineering",
+      "description": "In Unit 2, students explore the needs of contemporary and future societies. Students investigate\nthe emergence of new materials, processes and machines developed to solve problems in\nrelation to rapidly evolving needs. This unit builds on the knowledge gained in the previous unit\nand reinforces engineering’s role in solving global and local societal problems in order to improve\nthe human condition. Students use their knowledge of mechanics, materials science and control\ntechnologies to solve problems using the problem-solving process in Engineering in ways that\nmeet contemporary and future human needs while considering the social, economic, ethical, legal\nand environmental impacts of their solutions. Students investigate new and emerging\ntechnologies in relation to engineering fields including biomedical, aerospace, energy and\nelectrical. They engage in practical engineering activities using the knowledge gained in this unit\nto solve real-world-related problems. Students participate in a range of individual and\ncollaborative group activities including those associated with advanced materials, health,\nrenewable energy, autonomous vehicles and robotics.\nUnit objectives\n1. Recognise and describe emerging societal problems, engineering technology knowledge,\nand mechanics, materials science and control technologies concepts and principles, in\nrelation to emerging technologies.\n2. Symbolise and explain ideas and solutions in relation to emerging technologies.\n3. Analyse emerging so…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Civil structures",
+      "subject": "Engineering",
+      "description": "In Unit 3, students learn about engineering’s role in solving global and local societal problems to\nimprove the human condition using the problem-solving process in Engineering. Students\ninvestigate civil structures to examine the benefits and the social and environmental\nconsequences of their construction and use. Students engage in practical engineering activities to\nlearn that engineering is an applied practical discipline that uses science and mathematics\nconcepts and principles to solve real-world-related problems. Students participate in a range of\nindividual and collaborative group activities, including those associated with material and process\ntesting, and analysis of the forces acting on structures. Students investigate the difficulties\ninvolved in engineering solutions for communities where environmental extremes must be\nconsidered, including those associated with intense cold and heat, storms, drought or flood.\nUnit objectives\n1. Recognise and describe structural problems, engineering technology knowledge, and\nmechanics and materials science concepts and principles, in relation to structures.\n2. Symbolise and explain ideas and solutions in relation to structures.\n3. Analyse structural problems, and information in relation to structures.\n4. Determine success criteria for structural problems.\n5. Synthesise information and ideas to propose possible structural solutions.\n6. Generate structural prototype solutions to provide data to determine the feasibility of the rea…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Machines and mechanisms..................................................................................... 27",
+      "subject": "Engineering",
+      "description": "Assessment __________________________________________ 33\nInternal assessment 1: Engineered solution (25%) ......................................................... 33\nInternal assessment 2: Examination — combination response (25%) ......................... 38\nInternal assessment 3: Engineered solution (25%) ......................................................... 43\nExternal assessment: Examination — combination response (25%) ........................... 48\nGlossary _____________________________________________ 51\nReferences ___________________________________________ 51\nVersion history________________________________________ 51\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Engineering",
+      "technique": "Examination — combination response (25%) ........................... 48",
+      "unit": "1 and Unit 2",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "𝑇 1 2",
+          "marks": 3
+        },
+        {
+          "name": "𝑇 1",
+          "marks": 2
+        },
+        {
+          "name": "1 1",
+          "marks": 1
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Engineering",
+      "technique": "Engineered solution (25%) ......................................................... 33",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Symbolising and Communicating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "adept symbolisation and discerning explanation of ideas and a solution in relation to\nstructures with\n- sketches and drawings\n- tables and graphs\n- diagrams and/or schemas",
+                "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective symbolisation and considered explanation of ideas and a solution in relation to\nstructures with\n- sketches and/or drawings\n- tables and/or graphs\n- diagrams and/or schemas",
+                "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "competent symbolisation and appropriate explanation of some ideas and a solution in\nrelation to structures with\n- sketches and/or drawings\n- tables and/or graphs\n- diagrams and/or schemas",
+                "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent symbolisation or superficial explanation of aspects of ideas or a solution in\nrelation to structures",
+                "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Determining and Generating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "astute determination of essential success criteria for the structural problem",
+                "proficient generation of a structural prototype solution",
+                "provide valid performance data to critically determine the feasibility of the structural real-\nworld solution"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "reasoned determination of effective success criteria for the structural problem",
+                "effective generation of a structural prototype solution",
+                "provide valid performance data to effectively determine the feasibility of the structural real-\nworld solution"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "logical determination of appropriate success criteria for the structural problem",
+                "adequate generation of a structural prototype solution",
+                "provide relevant performance data to determine the feasibility of the structural real-world\nsolution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable determination of some success criteria for the structural problem",
+                "partial generation of a structural prototype solution",
+                "provide elements of performance data to partially determine the feasibility of the structural\nsolution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about some success criteria for the structural problem",
+                "generation of elements of a structural prototype solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising and Evaluating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "coherent and logical synthesis to propose a possible structural solution of ideas and the\nrelevant\n- engineering mechanics\n- materials science\n- technology\n- research information",
+                "critical evaluation of ideas and a solution using success criteria",
+                "discerning refinement of a solution using success criteria to make astute recommendations\nfor enhancements justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "logical synthesis to propose a possible structural solution of ideas and the relevant\n- engineering mechanics\n- materials science\n- technology and/or research information",
+                "reasoned evaluation of ideas and a solution using success criteria",
+                "effective refinement of a solution using success criteria to make considered\nrecommendations for enhancements justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "simple synthesis to predict a possible structural solution of ideas and\n- engineering mechanics\n- materials science\n- technology and/or research information",
+                "feasible evaluation of ideas and a solution using some success criteria",
+                "adequate refinement of a solution using some success criteria to make fundamental\nrecommendations for enhancements justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "rudimentary synthesis to propose a structural solution of partial engineering mechanics,\nmaterials science, technology or research information, or ideas",
+                "superficial evaluation of ideas or a solution using some success criteria",
+                "superficial refinements of a solution to make elementary recommendations for\nenhancements"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear combinations of information or ideas",
+                "identification of a change about an idea or the solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Symbolising and Communicating",
+            "objectives": "2, 8",
+            "marks": 7
+          },
+          {
+            "criterion": "Determining and Generating",
+            "objectives": "4, 6",
+            "marks": 9
+          },
+          {
+            "criterion": "Synthesising and Evaluating",
+            "objectives": "5, 7",
+            "marks": 9
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Engineering",
+      "technique": "Examination — combination response (25%) ......................... 38",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Engineering knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "25",
+              "descriptors": [
+                "> 96%"
+              ]
+            },
+            {
+              "marks": "24",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "23",
+              "descriptors": [
+                "> 89%"
+              ]
+            },
+            {
+              "marks": "22",
+              "descriptors": [
+                "> 86%"
+              ]
+            },
+            {
+              "marks": "21",
+              "descriptors": [
+                "> 82%"
+              ]
+            },
+            {
+              "marks": "20",
+              "descriptors": [
+                "> 78%"
+              ]
+            },
+            {
+              "marks": "19",
+              "descriptors": [
+                "> 75%"
+              ]
+            },
+            {
+              "marks": "18",
+              "descriptors": [
+                "> 71%"
+              ]
+            },
+            {
+              "marks": "17",
+              "descriptors": [
+                "> 68%"
+              ]
+            },
+            {
+              "marks": "16",
+              "descriptors": [
+                "> 64%"
+              ]
+            },
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 57%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 50%"
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Engineering knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 46%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 42%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 37%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 28%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 24%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 19%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 14%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 10%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 5%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Engineering knowledge and problem-solving",
+            "objectives": "1, 2, 3, 5",
+            "marks": 25
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Engineering",
+      "technique": "Engineered solution (25%) ......................................................... 43",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Symbolising and Communicating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "adept symbolisation and discerning explanation of ideas and a solution in relation to\nmachines and/or mechanisms with\n- sketches and drawings\n- tables and graphs\n- diagrams and/or schemas",
+                "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective symbolisation and considered explanation of ideas and a solution in relation to\nmachines and/or mechanisms with\n- sketches and/or drawings\n- tables and/or graphs\n- diagrams and/or schemas",
+                "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "competent symbolisation and appropriate explanation of some ideas and a solution in\nrelation to machines and/or mechanisms with\n- sketches and/or drawings\n- tables and/or graphs\n- diagrams and/or schemas",
+                "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent symbolisation or superficial explanation of aspects of ideas or a solution in\nrelation to machines and/or mechanisms",
+                "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Determining and Generating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "astute determination of essential success criteria for the machines and/or mechanisms\nproblem",
+                "proficient generation of a machines and/or mechanisms prototype solution",
+                "provide valid performance data to critically determine the feasibility of the real-world\nsolution"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "reasoned determination of effective success criteria for the machines and/or mechanisms\nproblem",
+                "effective generation of a machines and/or mechanisms prototype solution",
+                "provide valid performance data to effectively determine the feasibility of the real-world\nsolution"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "logical determination of appropriate success criteria for the machines and/or mechanisms\nproblem",
+                "adequate generation of a machines and/or mechanisms prototype solution",
+                "provide relevant performance data to determine the feasibility of the real-world solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable determination of some success criteria for the machine and/or mechanism\nproblem",
+                "partial generation of a machine and/or mechanism prototype solution",
+                "provide elements of performance data to partially determine the feasibility of the solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about some success criteria for the machines and/or mechanisms problem",
+                "generation of elements of a machines and/or mechanisms prototype solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising and Evaluating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "coherent and logical synthesis to propose a possible machine and/or mechanism solution\nof ideas and the relevant\n- engineering mechanics\n- materials science\n- control technologies\n- technology\n- research information",
+                "critical evaluation of ideas and a solution using success criteria",
+                "discerning refinement of a solution using success criteria to make astute recommendations\nfor modifications justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "logical synthesis to propose a possible machine and/or mechanism solution of ideas and\nthe relevant\n- engineering mechanics\n- materials science\n- control technologies\n- technology and/or research information",
+                "reasoned evaluation of ideas and a solution using success criteria",
+                "effective refinement of a solution using success criteria to make considered\nrecommendations for modifications justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "simple synthesis to propose a possible machine and/or mechanism solution of ideas and\n- engineering mechanics\n- materials science\n- control technologies\n- technology and/or research information",
+                "feasible evaluation of ideas and a solution using some success criteria",
+                "adequate refinement of a solution using some success criteria to make fundamental\nrecommendations for modifications justified by data and research evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "rudimentary synthesis to propose a machine and/or mechanism solution of partial\nengineering mechanics, materials science, control technologies, technology or research\ninformation, or ideas",
+                "superficial evaluation of ideas or a solution using some success criteria",
+                "superficial refinements of a solution to make elementary recommendations for\nmodifications"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear combinations of information or ideas",
+                "identification of a change about an idea or the solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Symbolising and Communicating",
+            "objectives": "2, 8",
+            "marks": 7
+          },
+          {
+            "criterion": "Determining and Generating",
+            "objectives": "4, 6",
+            "marks": 9
+          },
+          {
+            "criterion": "Synthesising and Evaluating",
+            "objectives": "5, 7",
+            "marks": 9
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "subject": "Essential Mathematics",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Number, data and money",
+      "subject": "Essential Mathematics",
+      "description": "In Unit 1, students will develop the mathematical understandings and skills to solve problems\nrelating to:\n Fundamental topic: Calculations\n Topic 1: Number\n Topic 2: Representing data\n Topic 3: Managing money.\nThe subject matter of the topics in this unit should be applied in contexts that are meaningful and\nof interest to students. A variety of approaches can be used to achieve this purpose. Two\npossible contexts that may be used are ‘Mathematics of foods’ and ‘Mathematics of independent\nliving’. However, these contexts may not be relevant to all students. Suitable contexts relevant to\nthe particular student cohort should be chosen.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nEssential Mathematics 2025 v1.3 Units\nApplied (Essential) senior syllabus | January 2026 Unit 1: Number, data and money\n\nSubject matter\nFundamental topic: Calculations\nCalculations should be integrated throughout Unit 1.\nSub-topic: Calculations\n Solve practical problems requiring basic number operations.\n Apply arithmetic operations according to their correct order.\n Ascertain the reasonableness of answers to arithmetic calculations.\n Use leading-digit approximation to obtain estimates of calculations.\n Use a calculator for multi-step calculations.\n Check results of calculations for accuracy.\n Recognise t…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Data and travel",
+      "subject": "Essential Mathematics",
+      "description": "In Unit 2, students will develop the mathematical understandings and skills to solve problems\nrelating to:\n Fundamental topic: Calculations\n Topic 1: Data collection\n Topic 2: Graphs\n Topic 3: Time and motion.\nThe subject matter of the topics in this unit should be applied in contexts that are meaningful and\nof interest to students. A variety of approaches can be used to achieve this purpose. Two\npossible contexts that may be used are ‘Mathematics of sports’ and ‘Mathematics of travel’.\nHowever, these contexts may not be relevant to all students. Suitable contexts relevant to the\nparticular student cohort should be chosen.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nEssential Mathematics 2025 v1.3 Units\nApplied (Essential) senior syllabus | January 2026 Unit 2: Data and travel\n\nSubject matter\nFundamental topic: Calculations\nCalculations should be integrated throughout Unit 2.\nSub-topic: Calculations\n Solve practical problems requiring basic number operations.\n Apply arithmetic operations according to their correct order.\n Ascertain the reasonableness of answers to arithmetic calculations.\n Use leading-digit approximation to obtain estimates of calculations.\n Use a calculator for multi-step calculations.\n Check results of calculations for accuracy.\n Recognise the significance of …"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Measurement, scales and chance",
+      "subject": "Essential Mathematics",
+      "description": "In Unit 3, students will develop the mathematical understandings and skills to solve problems\nrelating to:\n Fundamental topic: Calculations\n Topic 1: Measurement\n Topic 2: Scales, plans and models\n Topic 3: Probability and relative frequencies.\nThe subject matter of the topics in this unit should be applied in a context that is meaningful and\nof interest to students. A variety of approaches can be used to achieve this purpose. Two\npossible contexts that may be used in this unit are ‘Mathematics of designs’ and ‘Mathematics of\nthe media’. However, these contexts may not be relevant to all students. Suitable contexts\nrelevant to the particular student cohort should be chosen.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nEssential Mathematics 2025 v1.3 Units\nApplied (Essential) senior syllabus | January 2026 Unit 3: Measurement, scales and chance\n\nSubject matter\nFundamental topic: Calculations\nCalculations should be integrated throughout Unit 3.\nSub-topic: Calculations\n Solve practical problems requiring basic number operations.\n Apply arithmetic operations according to their correct order.\n Ascertain the reasonableness of answers to arithmetic calculations.\n Use leading-digit approximation to obtain estimates of calculations.\n Use a calculator for multi-step calculations.\n Check res…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Graphs, data and loans............................................................................................ 25",
+      "subject": "Essential Mathematics",
+      "description": "Assessment __________________________________________ 29\nInternal assessment 1: Problem-solving and modelling task ......................................... 29\nInternal assessment 2: Common internal assessment.................................................... 31\nInternal assessment 3: Problem-solving and modelling task ......................................... 33\nInternal assessment 4: Examination — short response .................................................. 35\nGlossary _____________________________________________ 38\nReferences ___________________________________________ 38\nVersion history________________________________________ 40\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/seni…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "IA1",
+      "subject": "Essential Mathematics",
+      "technique": "Problem-solving and modelling task ......................................... 29",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Essential Mathematics",
+      "technique": "Common internal assessment.................................................... 31",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Essential Mathematics",
+      "technique": "Problem-solving and modelling task ......................................... 33",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA4",
+      "subject": "Essential Mathematics",
+      "technique": "Examination — short response .................................................. 35",
+      "unit": "from which schools develop their course of study.",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Glossary _____________________________________________",
+          "marks": 38
+        },
+        {
+          "name": "References ___________________________________________",
+          "marks": 38
+        },
+        {
+          "name": "Version History________________________________________",
+          "marks": 40
+        },
+        {
+          "name": "3",
+          "marks": 1
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

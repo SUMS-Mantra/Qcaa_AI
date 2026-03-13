@@ -1,0 +1,519 @@
+{
+  "subject": "Chemistry",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Chemical fundamentals — structure,",
+      "subject": "Chemistry",
+      "description": "properties and reactions\nIn Unit 1, students relate matter and energy in chemical reactions as they consider the breaking\nand reforming of bonds as new substances are produced. The properties of a material depend\non, and can be explained by, the material’s structure. A range of models at the atomic and\nmolecular scale enable explanation and prediction of the structure of materials, and how this\nstructure influences properties and reactions.\nStudents conduct investigations to develop their understanding of patterns in the properties and\ncomposition of materials. They explore the structure of materials by describing physical and\nchemical properties at the macroscopic scale, and use models of structure and primary bonding\nat the atomic and subatomic scale to explain these properties. They are introduced to the mole\nconcept as a means of quantifying matter in chemical reactions.\nContexts that could be investigated in this unit include history of atomic model development, use\nof radioisotopes, energy transfers in industry and the human body, and analysis of elements in\nliving things. Students can also use materials that they encounter in their lives as a context for\ninvestigating the relationships between structure and properties.\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of chemical\nstructure and properties, and reaction enthalpy. Collaborativ…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Molecular interactions and reactions",
+      "subject": "Chemistry",
+      "description": "In Unit 2, students develop their understanding of the physical and chemical properties of\nmaterials including gases, water, aqueous solutions, acids and bases. Students explore the\ncharacteristic properties of water that make it essential for physical, chemical and biological\nprocesses on Earth, including the properties of aqueous solutions. They investigate and explain\nthe solubility of substances in water, and compare and analyse a range of solutions. They learn\nhow rates of reaction can be measured and altered to meet particular needs, and use models of\nenergy transfer and the structure of matter to explain and predict changes to rates of reaction.\nStudents gain an understanding of how to control the rates of chemical reactions, including\nthrough the use of a range of catalysts.\nStudents conduct investigations of chemical reactions, including the prediction and identification\nof products, and the measurement of the rate of reaction. They investigate the behaviour of\ngases, and use the kinetic theory to predict the effects of changing temperature, volume and\npressure in gaseous systems.\nContexts that could be investigated in this unit include forensic chemistry, and acids in the\natmosphere and ocean, such as rain, blood chemistry, water quality and the importance of\nenzymes. Through appropriate contexts, students explore how evidence from multiple disciplines\nand individuals and the development of ICT, and other technologies have contributed to\ndeveloping understanding of …"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Equilibrium, acids and redox reactions",
+      "subject": "Chemistry",
+      "description": "In Unit 3, students explore the reversibility of reactions in a variety of chemical systems at\ndifferent scales; acid-base equilibrium systems and their applications; the principles of oxidation\nand reduction reactions; and the production of electricity from electrochemical cells. Processes\nthat are reversible will respond to a range of factors and can achieve a state of dynamic\nequilibrium, while contemporary models can be used to explain the nature of acids and bases,\nand their properties and uses.\nStudents conduct investigations on electrochemical cells and volumetric analysis applications.\nThey examine qualitative and quantitative data about acids, equilibrium and redox to analyse\ntrends and draw conclusions.\nThey participate in experiments and investigations related to the principles of dynamic chemical\nequilibrium and how these can be applied to chemical processes and systems; electrochemical\ncells, the choice of materials used and the voltage produced by these cells; pH scale and the\nextent of dissociation of acids and bases; and the concentrations of ions in an aqueous solution.\nCollaborative experimental work allows students to progressively develop their science inquiry\nskills, while gaining an enhanced appreciation of the importance of equilibrium and redox in the\nreal world.\nContexts that could be investigated include environmental issues, such as acid rain and oceanic\nacidification; food or wine production; the historical development of theories about acids,\ncorr…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Structure, synthesis and design ............................................................................. 38",
+      "subject": "Chemistry",
+      "description": "Assessment __________________________________________ 44\nInternal assessment 1: Data test (10%)............................................................................. 44\nInternal assessment 2: Student experiment (20%) .......................................................... 47\nInternal assessment 3: Research investigation (20%) .................................................... 51\nExternal assessment: Examination — combination response (50%) ........................... 55\nGlossary _____________________________________________ 57\nReferences ___________________________________________ 57\nVersion history________________________________________ 58\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.ql…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Chemistry",
+      "technique": "Examination — combination response (50%) ........................... 55",
+      "unit": "3 and 4.",
+      "conditions": {
+        "topic": "1: Properties and structure of atoms (20 hours)"
+      },
+      "criteria": [
+        {
+          "name": "Theoretical Yield",
+          "marks": 1
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Chemistry",
+      "technique": "Data test (10%)............................................................................. 44",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Data test",
+          "bands": [
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 90%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 70%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 50%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 30%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 10%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 1%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "≤ 1%"
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Data test",
+            "objectives": "2, 3, 4",
+            "marks": 10
+          }
+        ],
+        "total_marks": 10
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Chemistry",
+      "technique": "Student experiment (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale for the experiment",
+                "justified modifications to the methodology",
+                "a specific and relevant research question",
+                "a methodology that enables the collection of sufficient and relevant data",
+                "appropriate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale for the experiment",
+                "feasible modifications to the methodology",
+                "a relevant research question",
+                "a methodology that enables the collection of relevant data",
+                "use of basic genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the experiment",
+                "inappropriate modifications to the methodology",
+                "an inappropriate research question",
+                "a methodology that causes the collection of insufficient and irrelevant data",
+                "inadequate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered management of risks/ethical issues/environmental issues",
+                "collection of sufficient and relevant raw data",
+                "fluent and concise use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "management of risks/ethical issues/environmental issues",
+                "collection of relevant raw data",
+                "competent use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate management of risks/ethical issues/environmental issues",
+                "collection of insufficient and irrelevant raw data",
+                "simplistic use of language and representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "correct and relevant processing of data",
+                "thorough identification of relevant trends/patterns/relationships",
+                "thorough and appropriate identification of the uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "basic processing of data",
+                "identification of obvious trends/patterns/relationships",
+                "basic identification of uncertainty and/or limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "incorrect or irrelevant processing of data",
+                "identification of incorrect or irrelevant trends/patterns/relationships",
+                "incorrect or insufficient identification of uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting and Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified conclusion/s linked to the research question",
+                "justified discussion of the reliability and validity of the experimental process",
+                "suggested improvements and extensions to the experiment that are logically derived from the\nanalysis of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable conclusion/s relevant to the research question",
+                "reasonable description of the reliability and/or validity of the experimental process",
+                "suggested improvements and/or extensions to the experiment that are related to the analysis\nof evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant conclusion/s",
+                "cursory or simplistic statements about the reliability and validity of the experimental process",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Finding",
+            "objectives": "1, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2, 3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting and Evaluating",
+            "objectives": "4, 5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Chemistry",
+      "technique": "Research investigation (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        },
+        {
+          "name": "Interpreting",
+          "marks": 5
+        },
+        {
+          "name": "Evaluating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming and Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale identifying clear development of the research question from the claim",
+                "a specific and relevant research question",
+                "selection of sufficient and relevant sources",
+                "appropriate use of genre conventions",
+                "acknowledgment of sources of information through appropriate use of referencing\nconventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale that links the research question and the claim",
+                "a relevant research question",
+                "selection of relevant sources",
+                "use of basic genre conventions",
+                "use of basic referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the investigation",
+                "an inappropriate research question",
+                "selection of insufficient or irrelevant sources",
+                "inadequate use of genre conventions",
+                "inadequate acknowledgment of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "the identification of sufficient and relevant evidence",
+                "thorough identification of relevant trends/patterns/relationships in evidence",
+                "thorough and appropriate identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "the identification of relevant evidence",
+                "identification of obvious trends/patterns/relationships in evidence",
+                "basic identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "the identification of insufficient and irrelevant evidence",
+                "identification of incorrect or irrelevant trends/patterns/relationships in evidence",
+                "incorrect or insufficient identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified scientific argument/s",
+                "justified conclusion linked to the research question",
+                "fluent and concise use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable scientific argument/s",
+                "reasonable conclusion relevant to the research question",
+                "competent use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant argument/s",
+                "inappropriate or irrelevant conclusion",
+                "incorrect use of language/representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified discussion of the quality of evidence",
+                "extrapolation of credible findings of the research to the claim",
+                "suggested improvements and extensions to the investigation that are considered and\nrelevant to the claim"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable description of the quality of evidence",
+                "application of relevant findings of the research to the claim",
+                "suggested improvements and/or extensions to the investigation that are relevant to the claim"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "cursory or simplistic statements about the quality of evidence",
+                "application of insufficient or inappropriate findings of the research to the claim",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming and Finding",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting",
+            "objectives": "1, 4",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    }
+  ]
+}

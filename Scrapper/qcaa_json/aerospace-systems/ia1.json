@@ -1,0 +1,149 @@
+{
+  "assessment": "IA1",
+  "subject": "Aerospace Systems",
+  "technique": "Aerospace solution (25%)........................................................... 35",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Symbolising and Communicating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "adept symbolisation and discerning explanation of ideas, a solution and relationships in\nrelation to aerospace management, safety, and airline and/or airport operations with\n- visual frameworks and flow charts\n- causal and feedback loops\n- diagrams and sketches and/or pictures",
+            "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective symbolisation and considered explanation of ideas, a solution and relationships in\nrelation to aerospace management, safety, and airline and/or airport operations with\n- visual frameworks and/or flow charts\n- causal and/or feedback loops\n- diagrams and/or sketches and/or pictures",
+            "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "competent symbolisation and appropriate explanation of some ideas, a solution and\nrelationships in relation to aerospace management, safety, and airline and/or airport\noperations with\n- visual frameworks and/or flow charts\n- causal and/or feedback loops\n- diagrams and/or sketches and/or pictures",
+            "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent symbolisation or superficial explanation of aspects of ideas, a solution, or\nrelationships in relation to aerospace management, safety, and airline and/or airport\noperations",
+            "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Determining and Generating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "astute determination of essential success criteria for the operational systems problem",
+            "proficient generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+            "provide valid data to critically determine the feasibility of a solution"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "reasoned determination of effective success criteria for the operational systems problem",
+            "effective generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+            "provide valid data to effectively determine the feasibility of a proposal"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "logical determination of appropriate success criteria for the operational systems problem",
+            "adequate generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+            "provide relevant data to determine the feasibility of a proposal"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable determination of some success criteria for the operational systems problem",
+            "partial generation of a solution, including\n- aerospace management\n- safety\n- airline and/or airport operations",
+            "provide elements of data to partially determine the feasibility of a proposal"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about some success criteria for the operational systems problem",
+            "generation of elements of a solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "coherent and logical synthesis of relevant aerospace systems, technology and research\ninformation, and ideas to propose a possible solution, including\n- aerospace management\n- safety\n- airline and/or airport operations solution",
+            "critical evaluation of ideas and a solution using success criteria",
+            "discerning refinement of a solution to make astute recommendations justified by data and\nresearch evidence"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "logical synthesis of relevant aerospace systems, technology and research information, and\nideas to propose a possible solution, including\n- aerospace management and/or safety\n- airline and/or airport operations solution",
+            "reasoned evaluation of ideas and a solution using success criteria",
+            "effective refinement of a solution to make considered recommendations justified by data\nand research evidence"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "simple synthesis of aerospace systems, technology, and research information and ideas to\npropose a possible solution, including\n- aerospace management and/or safety\n- airline and/or airport operations solution",
+            "feasible evaluation of ideas and a solution using success criteria",
+            "adequate refinement of ideas and a solution to make fundamental recommendations\njustified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "rudimentary synthesis of partial aerospace systems, technology, or research information\nand/or ideas to propose a possible solution, including\n- aerospace management or safety or airline and/or airport operations solution",
+            "superficial evaluation of ideas or a solution using some success criteria to make elementary\nrecommendations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "unclear combinations of information or ideas",
+            "identification of a change about an idea or the solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {}
+}

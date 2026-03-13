@@ -1,0 +1,31 @@
+{
+  "subject": "Early Childhood Studies",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "and Unit 2",
+      "subject": "Early Childhood Studies",
+      "description": "Schools make A–E judgments on individual assessment instruments implemented in Unit 1 and"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "using reporting standards",
+      "subject": "Early Childhood Studies",
+      "description": "Schools report results to the QCAA for students who complete Unit 1 and/or Unit 2. Results are\nreported as satisfactory (S) or unsatisfactory (U). Where appropriate, schools may also report\na not rated (NR).\nUnits 3 and 4\nSchools make A–E judgments on each of the four assessment instruments implemented in\nUnits 3 and 4 using instrument-specific standards (ISS).\nSchools report instrument results to the QCAA for students enrolled in Units 3 and 4 for each\nof the four assessments implemented. Where appropriate, schools may also report a\nnot rated (NR).\nSchools are also responsible for determining and reporting an A–E final subject result to the\nQCAA. The subject result is an on-balance judgment about how the pattern of evidence across\nthe four assessments in Units 3 and 4 best matches the characteristics of the reporting standards\nat one of five levels (A–E).\nEarly Childhood Studies 2024 v1.2 Course overview\nApplied senior syllabus | January 2026 Reporting\n\nUnit options\nUnit option A: Play and creativity\nIn this unit, students explore the fundamentals of early childhood and the practices of early\nchildhood learning through the context of play and creativity. Play is an active, child-initiated\nprocess that supports children’s learning. Play as learning requires facilitation and interaction by\nadults in the play space. Creativity involves children using their imagination to invent, create and\nfind new ways to do things. Play and creativity provide opportunities for exploration and…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Early Childhood Studies",
+      "technique": "",
+      "unit": "",
+      "conditions": {
+        "unit": "option C: Children’s development"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

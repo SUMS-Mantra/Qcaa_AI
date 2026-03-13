@@ -1,0 +1,91 @@
+{
+  "assessment": "IA1",
+  "subject": "Psychology",
+  "technique": "Data test (10%)............................................................................. 38",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Data test",
+      "bands": [
+        {
+          "marks": "10",
+          "descriptors": [
+            "> 90%"
+          ]
+        },
+        {
+          "marks": "9",
+          "descriptors": [
+            "> 80%"
+          ]
+        },
+        {
+          "marks": "8",
+          "descriptors": [
+            "> 70%"
+          ]
+        },
+        {
+          "marks": "7",
+          "descriptors": [
+            "> 60%"
+          ]
+        },
+        {
+          "marks": "6",
+          "descriptors": [
+            "> 50%"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "> 40%"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "> 30%"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "> 20%"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "> 10%"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "> 1%"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "≤ 1%"
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Data test",
+        "objectives": "2, 3, 4",
+        "marks": 10
+      }
+    ],
+    "total_marks": 10
+  }
+}

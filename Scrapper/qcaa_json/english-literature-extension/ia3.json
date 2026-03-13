@@ -1,0 +1,234 @@
+{
+  "assessment": "IA3",
+  "subject": "English & Literature Extension",
+  "technique": "Academic research paper (35%) ............................................... 31",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Understanding and analysis of literary texts",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "discerning understanding of at least one selected complex literary text to develop\ndiscriminating close reading/s",
+            "discerning understanding of ways of reading the selected complex literary text/s to develop\ndiscriminating interpretations",
+            "discerning analysis of the genre, structure and/or textual features of the selected complex\nliterary text/s to support discriminating interpretations"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective understanding of at least one selected complex literary text to develop informed\nclose reading/s",
+            "effective understanding of ways of reading the selected complex literary text/s to develop\ninformed interpretations",
+            "effective analysis of the genre, structure and/or textual features of the selected complex\nliterary text/s to support informed interpretations"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "adequate understanding of at least one selected complex literary text and ways of reading\nthe text/s to develop valid close reading/s",
+            "adequate understanding of ways of reading the selected complex literary text/s to develop\nvalid interpretations",
+            "adequate analysis of the genre, structure and/or textual features of the selected complex\nliterary text/s to support valid interpretations"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial understanding of at least one selected complex literary text and ways of reading\nthe text/s to develop reading/s",
+            "superficial understanding of ways of reading the selected complex literary text/s to develop\ninterpretations",
+            "superficial analysis of the genre, structure and/or textual features of the selected complex\nliterary text/s to support interpretations"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "uneven understanding of at least one selected complex literary text, resulting in fragmented\ninterpretations",
+            "uneven understanding of ways of reading the selected complex literary text/s, resulting in\nfragmented interpretations",
+            "uneven analysis of the genre, structure and/or textual features of the selected complex\nliterary text/s to support interpretations"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Understanding and application of theories",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "discerning understanding of relevant aspects of at least two selected theories in order to\nexplore a focus question and to develop and explore close reading/s of the selected\ncomplex literary text/s",
+            "discerning understanding of relationships among and within aspects of the selected\ntheories in order to develop and explore a focus question and the associated close\nreading/s of the selected complex literary text/s",
+            "discerning application of appropriate aspects of at least two theories to a selected complex\nliterary text/s to produce a close reading, or readings, of that text, or texts, and to explore a\nfocus question"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective understanding of relevant aspects of at least two selected theories in order to\nexplore a focus question and to develop and explore close reading/s of the selected\ncomplex literary text/s",
+            "effective understanding of relationships among and within aspects of the selected theories\nin order to develop and explore a focus question and the associated close reading/s of the\nselected complex literary text/s",
+            "effective application of appropriate aspects of at least two theories to a selected complex\nliterary text/s, to produce a close reading, or readings, of that text, or texts, and to explore a\nfocus question"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "adequate understanding of relevant aspects of at least two selected theories in order to\nexplore a focus question and to develop and explore close reading/s of the selected\ncomplex literary text/s",
+            "adequate understanding of relationships among and within aspects of the selected theories\nin order to develop and explore a focus question and the associated close reading/s of the\nselected complex literary text/s",
+            "adequate application of appropriate aspects of at least two theories to a selected complex\nliterary text/s to produce a close reading, or readings, of that text, or texts, and to explore a\nfocus question"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial understanding of aspects of at least two selected theories in order to address a\nfocus question and to explain reading/s of the selected complex literary text/s in a simplistic\nmanner",
+            "superficial understanding of relationships among and within aspects of the selected\ntheories in order to address a focus question and to explain reading/s of the selected\ncomplex literary text/s in a simplistic manner",
+            "superficial application of aspects of at least two theories to selected complex literary text/s\nto explain reading/s and to address a focus question in a simplistic manner"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "uneven understanding of aspects of at least two selected theories in order to partially\naddress a focus question and partially explain reading/s of the selected complex literary\ntext/s",
+            "uneven understanding of relationships among and within aspects of the selected theories",
+            "uneven application of aspects of at least two theories to selected complex literary text/s to\npartially explain reading/s and to partially address a focus question"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluation and synthesis",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "discerning evaluation of the strengths and limitations of those aspects of the selected\ntheories that were used to produce close reading/s of complex literary text/s and to explore\na focus question",
+            "discerning evaluation of the close reading/s of the selected complex literary text/s, making\nexplicit the aspects of the theories that underpin these",
+            "discerning synthesis of analysis of the selected complex literary text/s, the applied theories\nand resultant interpretation/s with supporting evidence"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective evaluation of the strengths and limitations of those aspects of the selected\ntheories that were used to produce close reading/s of complex literary text/s and to explore\na focus question",
+            "effective evaluation of the close reading/s of the selected complex literary text/s, making\nexplicit the aspects of the theories that underpin these",
+            "effective synthesis of analysis of the selected complex literary text/s, the applied theories\nand resultant interpretation/s with supporting evidence"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "adequate evaluation of the strengths and limitations of those aspects of the selected\ntheories that were used to produce close reading/s of complex literary text/s and to explore\na focus question",
+            "adequate evaluation of the close reading/s of the selected complex literary text/s, making\nexplicit the aspects of the theories that underpin these",
+            "adequate synthesis of analysis of the selected complex literary text/s, the applied theories\nand resultant interpretation/s with supporting evidence"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial evaluation of the strengths and limitations of those aspects of the selected\ntheories that were used to explain reading/s of complex literary text/s and to address a\nfocus question",
+            "superficial evaluation of the reading/s of the selected complex literary text/s, explaining\nthose aspects of the theories that underpin these",
+            "superficial synthesis of analysis of the selected complex literary text/s, the applied theories\nand resultant interpretation/s with some supporting evidence"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "uneven evaluation of the strengths and limitations of those aspects of the selected theories\nthat were used to explain reading/s of complex literary text/s and to address a focus\nquestion",
+            "uneven evaluation of the reading/s of the selected complex literary text/s, explaining some\naspects of the theories that underpin these",
+            "uneven synthesis of analysis of the selected complex literary text/s, the applied theories\nand resultant interpretation/s"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Controlling textual features and conventions",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "discerning use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "effective use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "suitable use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "suitable use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "uneven use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "uneven use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "partial use of patterns and conventions of academic genres and communication",
+            "use of textual features that distract from meaning"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Understanding and analysis of literary texts",
+        "objectives": "1, 5",
+        "marks": 10
+      },
+      {
+        "criterion": "Understanding and application of theories",
+        "objectives": "2, 3, 4",
+        "marks": 10
+      },
+      {
+        "criterion": "Evaluation and synthesis",
+        "objectives": "8, 9, 10",
+        "marks": 10
+      },
+      {
+        "criterion": "Controlling textual features and conventions",
+        "objectives": "6, 7",
+        "marks": 5
+      }
+    ],
+    "total_marks": 35
+  }
+}

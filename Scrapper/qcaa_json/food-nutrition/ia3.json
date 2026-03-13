@@ -1,0 +1,165 @@
+{
+  "assessment": "IA3",
+  "subject": "Food & Nutrition",
+  "technique": "Food & Nutrition solution (25%) ................................................. 42",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Explaining and Communicating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "discerning explanation of food science ideas and a problem related to a nutrition consumer\nmarket",
+            "discerning decision-making about and fluent use of\n- written and visual (if appropriate) features to communicate a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective explanation of food science ideas and a problem related to a nutrition consumer\nmarket",
+            "effective decision-making about and fluent use of\n- written and visual (if appropriate) features to communicate a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate explanation of food science ideas and a problem related to a nutrition\nconsumer market",
+            "appropriate decision-making about and use of\n- written and visual (if appropriate) features to communicate a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial explanation of food science ideas and a problem related to a nutrition consumer\nmarket",
+            "inconsistent decision-making about and use of\n- written and visual (if appropriate) features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Determining and Generating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "astute determination of success criteria that include the relevant impacts and implications\nof, and the quality and functionality indicators for, a selected problem that affects a nutrition\nconsumer market",
+            "proficient generation\n- of a nutrition consumer market solution\n- to provide valid sensory profiling data to determine the feasibility of the solution"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "logical determination of success criteria that include the relevant impacts and implications\nof, and the quality and functionality indicators for, a selected problem that affects a nutrition\nconsumer market",
+            "effective generation\n- of a nutrition consumer market solution\n- to provide valid sensory profiling data to determine the feasibility of the solution"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "reasonable determination of some success criteria that include impacts and implications of,\nand the quality or functionality indicators for, a selected problem that affects a nutrition\nconsumer market",
+            "adequate generation\n- of a nutrition consumer market solution\n- to provide relevant sensory profiling data to determine the feasibility of the solution"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "vague determination of some success criteria for a selected problem that affects a nutrition\nconsumer market",
+            "partial generation\n- of a nutrition consumer market solution\n- to provide some sensory profiling data to determine the feasibility of the solution"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about success criteria for the nutrition consumer market",
+            "generation of parts of a solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "coherent and logical synthesis of \n- chemical, functional and nutritional information\n- primary and secondary data for a solution",
+            "critical evaluation of ideas and a solution against success criteria",
+            "discerning refinement of a solution\n- against success criteria\n- to make astute recommendations for enhancements, justified by data"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "logical synthesis of\n- chemical, functional and nutritional information\n- primary and secondary data for a solution",
+            "reasoned evaluation of ideas and a solution against success criteria",
+            "effective refinement of a solution\n- against success criteria\n- to make effective recommendations for enhancements, justified by data"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "simple synthesis of\n- chemical, functional or nutritional information\n- primary or secondary data for a solution",
+            "feasible evaluation of ideas and a solution against success criteria",
+            "adequate refinement of a solution\n- against success criteria\n- to make fundamental recommendations for enhancements, justified by data"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "rudimentary synthesis of information or data for a solution",
+            "superficial evaluation of ideas or a solution against some criteria",
+            "superficial refinement of ideas or a solution\n- against success criteria\n- to make elementary recommendations for enhancements"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "unclear combination of information or ideas about a nutrition consumer problem",
+            "identification of a change to an idea or solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Explaining and Communicating",
+        "objectives": "2, 8",
+        "marks": 7
+      },
+      {
+        "criterion": "Determining and Generating",
+        "objectives": "4, 6",
+        "marks": 9
+      },
+      {
+        "criterion": "Synthesising and Evaluating",
+        "objectives": "5, 7",
+        "marks": 9
+      }
+    ],
+    "total_marks": 25
+  }
+}

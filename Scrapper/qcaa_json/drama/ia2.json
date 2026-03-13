@@ -1,0 +1,150 @@
+{
+  "assessment": "IA2",
+  "subject": "Drama",
+  "technique": "Dramatic concept (20%).............................................................. 37",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Applying literacy skills",
+      "bands": [
+        {
+          "marks": "4",
+          "descriptors": [
+            "application of literacy skills through well-articulated ideas and controlled structure,\nenhanced and informed by relevant drama terminology and language conventions"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "application of literacy skills, using relevant drama terminology to communicate ideas clearly\nand logically"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of literacy skills to communicate ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "use of drama terminology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Devising original dramatic concept",
+      "bands": [
+        {
+          "marks": "8",
+          "descriptors": [
+            "manipulation creates an original dramatic concept that synthesises dramatic languages to\nreveal layers of meaning within the dramatic action"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "manipulation shows considered selection of elements of drama, stagecraft and conventions\nto create an original dramatic concept in the identified form with relevant stylistic\ncharacteristics"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "manipulation of elements of drama, stagecraft and conventions to create an original\ndramatic concept that communicates a social comment"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "demonstration of the use of elements of drama, stagecraft and conventions to create\ndramatic action"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "demonstration of the use of elements of drama to create dramatic action"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Statement of intent",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "analysis shows how the integration of dramatic languages is used to create dramatic action\nand meaning",
+            "evaluation of dramatic languages clarifies connections between purpose, context and\ndramatic meaning with discriminating justification referencing the digital record"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "analysis shows deconstruction of dramatic languages used to create dramatic action and\nmeaning",
+            "evaluation of dramatic languages provides valid justification of choices connected to\npurpose and context"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "analysis of elements of drama and dramatic conventions used to create dramatic action\nand meaning",
+            "evaluation of dramatic languages used to communicate a social comment"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "identification and explanation of elements of drama and stagecraft used to create dramatic\naction"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "description of the dramatic languages used in the professional performance drawn upon as\ninspiration for original dramatic concept"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Applying literacy skills",
+        "objectives": "2",
+        "marks": 4
+      },
+      {
+        "criterion": "Devising original dramatic concept",
+        "objectives": "4",
+        "marks": 8
+      },
+      {
+        "criterion": "Statement of intent",
+        "objectives": "5, 6",
+        "marks": 8
+      }
+    ],
+    "total_marks": 20
+  }
+}

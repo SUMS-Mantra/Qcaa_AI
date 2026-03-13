@@ -1,0 +1,210 @@
+{
+  "assessment": "IA2",
+  "subject": "Physical Education",
+  "technique": "Investigation — report (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Explaining",
+      "marks": 5
+    },
+    {
+      "name": "Analysing",
+      "marks": 5
+    },
+    {
+      "name": "Evaluating",
+      "marks": 5
+    },
+    {
+      "name": "Communicating",
+      "marks": 3
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Explaining",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "accurate recognition and discerning explanation of concepts and principles relevant to a\nclass, school or community physical activity context including\n- the ethical dilemma\n- ethics and values\n- integrity and fair play"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "recognition and appropriate explanation of aspects of concepts or principles relevant to a\nclass, school or community physical activity context including\n- the ethical dilemma\n- ethics and/or values\n- integrity and/or fair play"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "recognition and/or explanation of an aspect of a concept or principle relevant to a class,\nschool or community physical activity context relating to\n- the ethical dilemma or\n- ethics or values or\n- integrity or fair play"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "insightful analysis of primary data and secondary data, using the ethical decision-making\nframework, to ascertain the most significant relationships between the ethical dilemma and\n- the influence of relevant stakeholders on the ethics and values demonstrated in the class,\nschool or community physical activity context\n- the tensions that exist in relation to integrity and fair play\n- strategies that have been used in response to similar ethical dilemmas",
+            "discerning synthesis of stakeholder influence, tensions and strategies to devise an ethics\nstrategy in response to the ethical dilemma"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate analysis of primary data and secondary data, using the ethical decision-making\nframework, to ascertain relationships between the ethical dilemma and\n- the influence of stakeholders on the ethics and values demonstrated in the class, school\nor community physical activity context\n- the tensions that exist in relation to integrity and fair play\n- strategies that have been used in response to similar ethical dilemmas",
+            "appropriate synthesis of stakeholder influence, tensions or strategies to devise an ethics\nstrategy in response to the ethical dilemma"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial analysis and synthesis of primary data or secondary data, relevant to ethics, to\nascertain a relationship between the ethical dilemma, integrity, fair play or the influence of\nstakeholders in the physical activity context"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Justifying",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "discerning justification of the development of the ethics strategy in response to the ethical\ndilemma, using evidence from primary data and secondary data"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "considered justification of the development of the ethics strategy in response to the ethical\ndilemma, using evidence from primary data and secondary data"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "feasible justification of the development of the ethics strategy in response to the ethical\ndilemma, using evidence from primary data and/or secondary data"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial justification of the development of an aspect within the ethics strategy"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "critical evaluation of the effectiveness of the ethics strategy to optimise integrity and\npositive engagement in the physical activity context by appraising the potential outcome\nand limitations of the course of action"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "considered evaluation of the effectiveness of the ethics strategy to optimise integrity and\npositive engagement in the physical activity context by appraising the potential outcome\nand limitations of the course of action"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "feasible evaluation of the effectiveness of aspects of the ethics strategy to optimise\nengagement in the physical activity context by appraising the potential outcome and/or\nlimitations of the course of action"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial evaluation of the effectiveness of an aspect of the ethics strategy"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate decision-making about and accurate use of\n- visual and written modes to achieve a particular purpose\n- language suitable for a technical audience\n- referencing and report genre conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "variable or inaccurate decision-making about and use of\n- visual or written modes or\n- language suitable for a technical audience or\n- referencing or report genre conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Explaining",
+        "objectives": "1",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "4",
+        "marks": 5
+      },
+      {
+        "criterion": "Justifying",
+        "objectives": "6",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "5",
+        "marks": 6
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "7",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

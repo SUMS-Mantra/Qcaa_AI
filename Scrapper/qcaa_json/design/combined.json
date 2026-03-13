@@ -1,0 +1,544 @@
+{
+  "subject": "Design",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Stakeholder-centred design",
+      "subject": "Design",
+      "description": "In Unit 1, students learn about and experience designing in the context of stakeholder-centred\ndesign. Fundamental to this context is the principle that design is a purposeful documented\nprocess undertaken by design professionals in response to identified needs and wants of a range\nof stakeholders. Students are introduced to the breadth of design professions, the design process\nand how designs of the past inform contemporary design practice.\nStudents engage with explore and develop phases of the design process. In the explore phase\nthey will understand the influence of stakeholders and how the elements and principles of design\nhave been used to create the design styles of past designers and applied in contemporary ways\nto suit stakeholders. Students will define problems, describe design problems and criteria. They\nwill gain an experience of the nature and complexity of design problems, how designers work and\nthe importance of users as stakeholders in the design process.\nIn the develop phase students will learn to devise ideas by applying the divergent thinking,\nsketching and low-fidelity prototyping skills used by designers. Convergent thinking will be used\nto evaluate and refine ideas. Students will make decisions to propose design concepts to a\nstakeholder audience.\nUnit objectives\n1. Describe the features that define design problems and design criteria.\n2. Represent ideas and design concepts using schematic sketching, ideation sketching, and\nlow-fidelity prototyping in the…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Commercial design influences",
+      "subject": "Design",
+      "description": "In Unit 2, students will learn about and experience designing in the context of commercial design.\nFundamental to commercial design is the principle that design is a commercial endeavour that\nrequires designers to respond to the needs and wants of clients.\nStudents investigate the commercial nature of design when designing for a client. They examine\nhow designers influence and are influenced by economics, society and culture.\nStudents use a collaborative design approach to develop design proposals for clients in\nconsideration of economic, social and cultural factors. Students experience how designers work\ncollaboratively in teams and the advantages of multiple perspectives on design problems.\nStudents will learn to communicate design proposals to a virtual or live audience in the form of a\npitch. The unit provides additional opportunities for students to develop sketching and low-fidelity\nprototyping skills as they select the most appropriate techniques to represent their ideas and\ndesign concepts.\nUnit objectives\n1. Describe the features that define commercial design problems and design criteria.\n2. Represent ideas, design concepts and economic, social and cultural influences using\nschematic sketching, ideation sketching and low-fidelity prototyping in the design process.\n3. Analyse needs and wants using primary and secondary data about clients, existing designs\nand economic, social and cultural influences in the explore phase.\n4. Devise ideas using divergent thinking in res…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Human-centred design",
+      "subject": "Design",
+      "description": "In Unit 3, students learn about and experience designing in the context of human-centred design\n(HCD). Fundamental to HCD is the principle that a designer considers human needs and wants\nas a higher priority than other influences throughout the design process. The success of a design\ndepends on effectively considering the attitudes, expectations, motivations and experiences of\nhumans. Designers use observations, interviews and experiences to acquire data about people\nand seek to avoid making assumptions about their needs and wants.\nStudents will use designing with empathy as an approach to define problems by understanding\nand experiencing the needs and wants of a stakeholder. Students interact with a stakeholder\nthroughout the process. Ideas are evaluated throughout the process using feedback from their\nstakeholder to determine suitability.\nUnit objectives\n1. Describe the features that define HCD problems and design criteria.\n2. Represent ideas, design concepts and HCD information using schematic sketching, ideation\nsketching and low-fidelity prototyping in the design process.\n3. Analyse needs and wants using primary data about stakeholders, secondary data about\nexisting designs and designing with empathy knowledge in the explore phase.\n4. Devise ideas using divergent thinking in response to HCD problems in the develop phase.\n5. Evaluate ideas against design criteria to make refinements in the develop phase.\n6. Propose HCD concepts in response to design problems.\n7. Make deci…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Sustainable design influences ................................................................................ 26",
+      "subject": "Design",
+      "description": "Assessment __________________________________________ 30\nInternal assessment 1: Design challenge (20%) .............................................................. 30\nInternal assessment 2: Project (30%) ................................................................................ 34\nInternal assessment 3: Project (25%) ................................................................................ 39\nExternal assessment: Examination — extended response (25%) ................................ 44\nGlossary _____________________________________________ 46\nReferences ___________________________________________ 46\nVersion history________________________________________ 47\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is avail…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Design",
+      "technique": "Examination — extended response (25%) ................................ 44",
+      "unit": "1 and Unit 2",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Design",
+      "technique": "Design challenge (20%) .............................................................. 30",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Devising",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "range of credible ideas perceptively devised using designing with empathy in response to\nthe HCD problem that demonstrate flexibility in ways of responding, originality and detailed\nattributes"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "range of credible ideas purposefully devised using designing with empathy in response to\nthe HCD problem that demonstrate originality and detailed attributes"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "range of credible ideas appropriately devised using designing with empathy in response to\na HCD problem"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "ideas superficially devised or described in response to aspects of the HCD problem"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating and Proposing",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "critical evaluation of the strengths, limitations and implications of ideas against design\ncriteria",
+                "discerning refinement of ideas based on the criteria and stakeholder information",
+                "coherent, logical and innovative HCD concept proposed, by combining attributes of multiple\nideas and stakeholder information, in response to the design problem"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "feasible evaluation of the strengths and limitations of ideas against design criteria",
+                "effective refinements of ideas in response to the criteria",
+                "logical and credible HCD concept proposed, by combining ideas and stakeholder\ninformation, in response to the design problem"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "superficial evaluation of the strengths and limitations of ideas against some design criteria",
+                "make changes to ideas related to the criteria",
+                "simple HCD concept proposed, by selecting ideas and stakeholder information, in response\nto the design problem"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "statements about ideas related to some design criteria",
+                "partial HCD concept proposed based on an idea"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Representing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "sophisticated representation of ideas and a design concept using fluent sequences of\nideation and/or schematic sketching to progress understanding in the develop phase"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "appropriate representation of ideas and a design concept using ideation and/or schematic\nsketching in the develop phase to progress understanding of ideas"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "cursory representation of ideas and a design concept using unclear ideation and/or\nschematic sketching in the develop phase"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Devising",
+            "objectives": "4",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluating and Proposing",
+            "objectives": "5, 6",
+            "marks": 8
+          },
+          {
+            "criterion": "Representing",
+            "objectives": "2",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Design",
+      "technique": "Project (30%) ................................................................................ 34",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Exploring",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "insightful analysis of needs and wants\n- using relevant primary data about the stakeholder, secondary data about existing designs\nand designing with empathy knowledge\n- to identify the significant aesthetic, cultural, economic, social and technical features and\nconstraints of design problems and the relationships between them",
+                "discerning description of the\n- features and constraints that define a HCD problem\n- essential design criteria that integrate the stakeholder’s specific requirements associated\nwith the features and constraints of the problem and the principles of good design"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "considered analysis of needs and wants\n- using relevant primary data about the stakeholder, secondary data about existing designs\nand designing with empathy knowledge\n- to identify valid features and constraints of design problems and the relationships\nbetween them",
+                "effective description of the\n- features that define a HCD problem\n- design criteria based on the stakeholder’s requirements and principles of good design"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "appropriate analysis of needs and wants\n- using primary data about the stakeholder, secondary data about existing designs and\ndesigning with empathy information\n- to identify some features, constraints of design problems and the relationships between\nthem",
+                "adequate description of\n- the features that define a HCD problem\n- some design criteria based on the stakeholder’s requirements and principles of good\ndesign"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "superficial analysis of needs and wants using stakeholder information to identify partial\nfeatures",
+                "superficial description of a HCD problem and some design criteria"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "statements about needs and/or wants",
+                "description of aspects of a HCD problem"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Devising",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "range of credible ideas perceptively devised using designing with empathy in response to\nthe HCD problem that demonstrate flexibility in ways of responding, originality and detailed\nattributes"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "range of credible ideas appropriately devised using designing with empathy in response to\nthe HCD problem that demonstrate detailed attributes"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "ideas superficially devised or described in response to aspects of the HCD problem"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating and Proposing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "critical evaluation of the strengths, limitations and implications of ideas against design\ncriteria",
+                "discerning refinements of ideas based on the criteria and stakeholder feedback",
+                "coherent, logical and innovative HCD concept proposed, by combining attributes of multiple\nideas and stakeholder information, in response to the design problem"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "feasible evaluation of the strengths and limitations of ideas against design criteria",
+                "effective refinements to ideas in response to the criteria",
+                "logical and credible HCD concept proposed, by combining ideas and stakeholder\ninformation, in response to the design problem"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "superficial evaluation of the strengths and limitations of ideas against some design criteria",
+                "make changes to ideas related to the criteria",
+                "simple HCD concept proposed, by selecting ideas and stakeholder information, in response\nto the design problem"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about ideas",
+                "partial HCD concept proposed based on an idea"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Representing and Communicating",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "sophisticated representation of ideas, a design concept and HCD information using fluent\nsequences of ideation sketching, schematic sketching and low-fidelity prototyping to\nprogress understanding in the design process",
+                "discerning decision-making about, and fluent use of\n- spoken features, design-specific vocabulary and visual elements and principles to\npresent a design proposal for a live or virtual stakeholder audience\n- written conventions, features and design-specific language to present a design brief for\nthe stakeholder"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "considered representation of ideas, a design concept and HCD information using proficient\nideation sketching, schematic sketching and low-fidelity prototyping to progress\nunderstanding in the design process",
+                "effective decision-making about, and proficient use of\n- spoken features, design-specific vocabulary and visual elements and principles to\npresent a design proposal for a live or virtual stakeholder audience\n- written conventions, features and design-specific language to present a design brief for\nthe stakeholder"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "appropriate representation of ideas, a design concept and HCD information using ideation\nsketching, schematic sketching and low-fidelity prototyping in the design process",
+                "appropriate decision-making about, and use of\n- spoken features and visual elements and principles to present a design proposal\n- written features to present a design brief"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "cursory representation of ideas and information using unclear sketching in the design\nprocess",
+                "variable decision-making, and inconsistent use of\n- spoken features or visual elements\n- written conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Exploring",
+            "objectives": "3, 1",
+            "marks": 10
+          },
+          {
+            "criterion": "Devising",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating and Proposing",
+            "objectives": "5, 6",
+            "marks": 7
+          },
+          {
+            "criterion": "Representing and Communicating",
+            "objectives": "2, 7",
+            "marks": 8
+          }
+        ],
+        "total_marks": 30
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Design",
+      "technique": "Project (25%) ................................................................................ 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Exploring",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "insightful analysis of redesign opportunities\n- using relevant data about existing designed solutions and economic, social and\necological sustainability information\n- to identify the significant aesthetic, cultural, economic, social and technical features and\nconstraints of redesign problems and the relationships between them",
+                "discerning description of the\n- features and constraints that define a sustainable redesign problem\n- essential design criteria that integrate the specific requirements of the opportunity\nassociated with the features and constraints of the problem and the principles of good\ndesign"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "appropriate analysis of sustainable redesign opportunities\n- using data about existing designed solutions and economic, social and ecological\nsustainability information\n- to identify features and constraints of redesign problems and the relationships between\nthem",
+                "adequate description of\n- the features that define a sustainable redesign problem\n- design criteria based on the requirements of the opportunity and the principles of good\ndesign"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "superficial analysis of sustainable redesign opportunities to identify partial features of\nredesign problems",
+                "superficial description of a sustainable redesign problem and some design criteria"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about opportunities",
+                "description of aspects of a redesign problem"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Devising",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "range of credible ideas perceptively devised using circular design in response to the\nsustainable redesign problem that demonstrate flexibility in ways of responding, originality\nand detailed attributes"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "range of credible ideas appropriately devised using circular design in response to the\nsustainable redesign problem that demonstrate detailed attributes"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "ideas superficially devised or described in response to aspects of the sustainable redesign\nproblem"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating and Proposing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "critical evaluation of the strengths, limitations and implications of ideas against design\ncriteria",
+                "discerning refinement of ideas based on the criteria and stakeholder feedback",
+                "coherent, logical and innovative sustainable design concept proposed, by combining\nattributes of multiple ideas and sustainability information, in response to the design problem"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "feasible evaluation of the strengths and limitations of ideas against design criteria",
+                "make changes to ideas related to the criteria",
+                "credible sustainable design concept proposed, by combining ideas and sustainability\ninformation, in response to the design problem"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statements about ideas",
+                "partial sustainable concept proposed based on an idea"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Representing and Communicating",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "sophisticated representation of ideas, a sustainable design concept and sustainability\ninformation using fluent sequences of schematic sketching, ideation sketching and\nlow-fidelity prototyping to progress understanding in the design process",
+                "discerning decision-making about, and fluent use of\n- illustrations and/or low-fidelity prototypes with written features to present a visual display\nthat promotes the sustainable design concept for relevant stakeholders\n- written conventions, features and design-specific language to present a design brief for\nrelevant stakeholders"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "considered representation of ideas, a sustainable design concept and sustainability\ninformation using proficient schematic sketching and ideation sketching and low-fidelity\nprototyping to progress understanding in the design process",
+                "effective decision-making about, and proficient use of\n- illustrations and/or low-fidelity prototypes with written features to present a visual display\nthat promotes the sustainable design concept for stakeholders\n- written conventions, features and design-specific language to present a design brief for\nstakeholders"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "appropriate representation of ideas, a sustainable design concept and sustainability\ninformation using schematic sketching and ideation sketching and low-fidelity prototyping in\nthe design process",
+                "appropriate decision-making about and use of\n- illustrations and/or low-fidelity prototypes with written features to present a visual display\nthat promotes the sustainable design concept\n- written conventions and features to present a design brief"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "cursory representation of ideas and information using unclear sketching in the design\nprocess",
+                "variable decision-making about, and inconsistent use of\n- illustrations and/or low-fidelity prototypes to show a design concept\n- written conventions used in a design brief"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Exploring",
+            "objectives": "3, 1",
+            "marks": 7
+          },
+          {
+            "criterion": "Devising",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating and Proposing",
+            "objectives": "5, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Representing and Communicating",
+            "objectives": "2, 7",
+            "marks": 8
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

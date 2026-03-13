@@ -1,0 +1,204 @@
+{
+  "assessment": "IA2",
+  "subject": "Chinese",
+  "technique": "Examination — extended response (25%) .............................. 23",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Creating an extended response in Chinese — Responding and creating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "addresses the three different focuses related to the subject matter in Chinese"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "addresses two of the different focuses related to the subject matter in Chinese"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "addresses one of the different focuses related to the subject matter in Chinese"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating an extended response in Chinese — Responding (language elements)",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "constructs meaning by applying comprehensive and complex knowledge of language\nelements with minor errors in the use of\n- wide range of simplified characters\n- wide range of grammar\n- consistent register"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "constructs meaning by applying comprehensive knowledge of language elements with\nminor errors in the use of\n- wide range of simplified characters\n- wide range of grammar\n- register"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "constructs meaning by applying knowledge of language elements with minor errors in the\nuse of\n- range of simplified characters\n- range of grammar\n- register"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "constructs meaning by applying some knowledge of language elements with some errors in\nuse of\n- simplified characters\n- grammar\n- register"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "repetitive use of Chinese language elements and vocabulary"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of Chinese"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating an extended response in Chinese — Responding (communication)",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "communicates with discerning selection, sequencing and synthesis of information to justify\nconclusions, ideas and perspectives appropriate to the task and text type"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "communicates with effective selection, sequencing and synthesis of information to justify\nconclusions, ideas and perspectives appropriate to the task and text type"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "communicates with selection, sequencing and synthesis of information to justify\nconclusions, ideas and perspectives appropriate to the task and text type"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "communicates with some selection and sequencing of information with some justification of\nconclusions/ideas/perspectives appropriate to the task"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "a written response with some selection and sequencing of information/ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "disjointed use of Chinese"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Exchanging information and ideas in Chinese — Language elements",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "constructs meaning in response to stimulus by applying comprehensive knowledge of\nlanguage elements in a conversation with minor errors in the use of\n- wide range of vocabulary\n- wide range of grammar\n- pronunciation and intonation\n- consistent register"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "constructs meaning in response to stimulus by applying knowledge of language elements in\na conversation with minor errors in the use of\n- range of vocabulary\n- range of grammar\n- pronunciation and intonation\n- register"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "constructs meaning in response to stimulus by applying some knowledge of language\nelements with some errors in a conversation in the use of\n- vocabulary\n- grammar\n- pronunciation and intonation\n- register"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "uses some Chinese language in a conversation, including repetitive use of\n- vocabulary\n- grammar"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of Chinese in a conversation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Creating an extended response in Chinese — Responding and\ncreating",
+        "objectives": "1, 4, 5, 6",
+        "marks": 3
+      },
+      {
+        "criterion": "Creating an extended response in Chinese — Responding\n(language elements) in Chinese",
+        "objectives": "1, 4, 5, 6",
+        "marks": 6
+      },
+      {
+        "criterion": "Creating an extended response in Chinese — Responding\n(communication)",
+        "objectives": "1, 4, 5, 6",
+        "marks": 6
+      },
+      {
+        "criterion": "Exchanging information and ideas in Chinese — Language\nelements",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Exchanging information and ideas in Chinese —\nCommunication",
+        "objectives": "1, 4, 5, 6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 25
+  }
+}

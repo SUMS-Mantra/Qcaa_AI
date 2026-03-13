@@ -1,0 +1,238 @@
+{
+  "assessment": "IA1",
+  "subject": "Accounting",
+  "technique": "Project — cash management",
+  "unit": "",
+  "conditions": {
+    "topic": "1. Financial data and information for the real-life accounting context is presented as a goal-"
+  },
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 6
+    },
+    {
+      "name": "Evaluating",
+      "marks": 4
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Synthesising — Item 1",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "effective application of accounting principles and processes to complete a Bank\nreconciliation statement",
+            "effective application of accounting principles and processes to reconstruct relevant ledger\naccounts",
+            "effective application of accounting principles and processes to generate a fully classified\nStatement of Cash Flows"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of accounting principles and processes to complete a Bank reconciliation\nstatement",
+            "application of accounting principles and processes to reconstruct relevant ledger accounts",
+            "application of accounting principles and processes to generate a Statement of Cash Flows"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent application of accounting principles and processes to complete a Bank\nreconciliation statement",
+            "inconsistent application of accounting principles and processes to reconstruct relevant\nledger accounts",
+            "inappropriate or partial application of accounting principles and processes to generate a\nStatement of Cash Flows"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising — Item 2",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "identification of significant and relevant financial data and information to effectively\ncomplete a constant cash budget (as the original budget)",
+            "effective application of accounting principles and processes to achieve a goal through the\ngeneration of alternative cash budgets",
+            "preferred budget proposed that thoroughly solves the problem"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "identification of relevant financial data and information to complete a constant cash budget\n(as the original budget)",
+            "appropriate application of accounting principles and processes to achieve a goal through\nthe generation of alternative cash budgets",
+            "budget proposed that effectively solves the problem"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "identification of fundamental financial data and information to complete a constant cash\nbudget (as the original budget)",
+            "fundamental application of accounting principles and processes to achieve aspects of a\ngoal through the generation of alternative cash budgets",
+            "budget proposed that solves elements of the problem"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of narrow or inappropriate financial data and information to complete a\nconstant cash budget (as the original budget)",
+            "rudimentary application of accounting principles or processes through the generation of\nalternative cash budgets",
+            "budget proposed that is inappropriate or provides only a partial solution to the problem"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "examines financial data and information through the identification of significant and relevant\nrelationships",
+            "thorough interpretation of trends in the financial data and information",
+            "thorough and logical explanation of issues relating to cash management"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "examines financial data and information through the identification of relationships",
+            "interpretation of trends in the financial data and information",
+            "explanation of issues relating to cash management"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "examines financial data or information through the identification of superficial relationships",
+            "superficial interpretation of financial data or information",
+            "narrow or partial statements of issues"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "perceptive judgments for proposed alternatives or changes relating to cash management",
+            "thoroughly justified decisions for cash management relevant to the accounting context",
+            "convincing recommendations to solve the goal-oriented problem for cash management\npertinent to the accounting context"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "judgments for proposed alternatives or changes relating to cash management",
+            "decisions for cash management relevant to the accounting context",
+            "recommendations to solve the goal-oriented problem for cash management relevant to the\naccounting context"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "rudimentary or partial statements for a proposed alternative or change",
+            "inconsistent or partial decisions",
+            "inconsistent or partial recommendations"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "succinct, with analysis, interpretation and evaluation that logically supports the preferred\nsolution to the goal-oriented problem",
+            "features of the report genre are consistently demonstrated",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "conveys analysis, interpretation and evaluation related to the goal",
+            "features of the report genre are demonstrated",
+            "some errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "conveys analysis, interpretation and evaluation related to aspects of the goal",
+            "features of the report genre are inconsistently demonstrated",
+            "frequent errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Synthesising — Item 1",
+        "objectives": "2",
+        "marks": 4
+      },
+      {
+        "criterion": "Synthesising — Item 2",
+        "objectives": "2",
+        "marks": 8
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 4
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "5",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

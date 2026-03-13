@@ -1,0 +1,202 @@
+{
+  "assessment": "IA2",
+  "subject": "Geography",
+  "technique": "Field report (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Communicating",
+      "marks": 5
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Explaining and Comprehending",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "detailed explanation of biophysical and anthropogenic processes and interactions that\nresult in land cover change for the fieldwork location",
+            "recognition of comprehensive spatial patterns of land cover change for the fieldwork\nlocation",
+            "recognition of significant relationships and implications for people and places"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "adequate explanation of biophysical and anthropogenic processes and interactions that\nresult in land cover change for the fieldwork location",
+            "recognition of simple spatial patterns of land cover change for the fieldwork location",
+            "recognition of rudimentary relationships and implications for people and places"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "unclear explanation of biophysical and anthropogenic processes and interactions that result\nin land cover change for the fieldwork location",
+            "vague recognition of spatial patterns of land cover change for the fieldwork location",
+            "recognition of irrelevant relationships and implications for people and places"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing and Applying",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "astute interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+            "discerning use of fieldwork data and information",
+            "sophisticated generalisations about the impacts of the geographical challenge at the\nfieldwork location"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+            "considered use of fieldwork data and information",
+            "reasoned generalisations about the impacts of the geographical challenge at the fieldwork\nlocation"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "simple interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+            "appropriate use of fieldwork data and information",
+            "fundamental generalisations about the impacts of the geographical challenge at the\nfieldwork location"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial interpretations and inferences that identify how patterns, trends and\nrelationships represent a geographical challenge arising from land cover change at the\nfieldwork location",
+            "narrow use of fieldwork data and information",
+            "cursory generalisations about the impacts of the geographical challenge at the fieldwork\nlocation"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "vague interpretations and inferences about how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+            "fragmented use of fieldwork data and information",
+            "narrow generalisations about the impacts of the geographical challenge at the fieldwork\nlocation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Proposing action",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "insightful proposal/s in response to the generalisations",
+            "justified action/s to create or improve the sustainability at the fieldwork location",
+            "uses credible evidence to support the proposal"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "simple proposal/s in response to the generalisations",
+            "informed action/s to create or improve the sustainability at the fieldwork location",
+            "uses sufficient evidence to support the action"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "irrelevant proposal in response to the generalisations",
+            "action proposed is vague",
+            "uses minimal evidence to inform action"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "proficient transformation and representation of geographical data and information",
+            "creates sophisticated cartographic forms",
+            "creates sophisticated graphic forms",
+            "accomplished use of geographical terminology",
+            "adept use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "adequate transformation and representation of geographical data and information",
+            "creates simple cartographic forms",
+            "creates simple graphic forms",
+            "considered use of geographical terminology",
+            "purposeful use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "minimal transformation and representation of geographical data and information",
+            "creates inappropriate cartographic forms",
+            "creates inappropriate graphic forms",
+            "inconsistent use of geographical terminology",
+            "fragmented use of the conventions of written communication"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Explaining and Comprehending",
+        "objectives": "1, 2",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing and Applying",
+        "objectives": "3, 4",
+        "marks": 10
+      },
+      {
+        "criterion": "Proposing action",
+        "objectives": "5",
+        "marks": 5
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 25
+  }
+}

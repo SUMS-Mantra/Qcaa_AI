@@ -1,0 +1,222 @@
+{
+  "assessment": "IA1",
+  "subject": "English & Literature Extension",
+  "technique": "Reading and defence (20%)....................................................... 18",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Understanding and analysis of literary texts",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning understanding of the selected complex literary text to develop a discriminating\ninterpretation in the reading",
+            "discerning analysis, in the reading, of the genre, structure and/or textual features of the\nselected complex literary text in order to support a discriminating interpretation"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective understanding of the selected complex literary text to develop an informed\ninterpretation in the reading",
+            "effective analysis, in the reading, of the genre, structure and/or textual features of the\nselected complex literary text in order to support an informed interpretation"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "adequate understanding of the selected complex literary text to develop a valid\ninterpretation in the reading",
+            "adequate analysis, in the reading, of the genre, structure and/or textual features of the\nselected complex literary text in order to support a valid interpretation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial understanding of the selected complex literary text to develop a rudimentary\ninterpretation in the reading",
+            "superficial analysis, in the reading, of how the genre, structure and/or textual features of the\nselected complex literary text support an interpretation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven understanding of the selected complex literary text, resulting in a fragmented\ninterpretation in the reading",
+            "uneven analysis, in the reading, of how the genre, structure and/or textual features of the\nselected complex literary text support an interpretation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Understanding and application of theories",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "discerning understanding of relevant aspects of the reader-centred or author-centred\ntheoretical approach in order to generate a reading of the selected complex literary text and\nthen systematically explore this theorised reading in the defence",
+            "discerning understanding of the relationships within relevant aspects of the reader-centred\nor author-centred theoretical approach in order to develop a systematic exploration of the\nreading of the selected complex literary text",
+            "discerning application of appropriate aspects of the reader-centred or author-centred\ntheoretical approach in order to generate an interpretation of the complex literary text in the\nreading and to develop a theorised examination of this reading in the defence"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "effective understanding of relevant aspects of the reader-centred or author-centred\ntheoretical approach in order to generate a reading of the selected complex literary text and\nthen systematically explore this theorised reading in the defence",
+            "effective understanding of the relationships within relevant aspects of the reader-centred or\nauthor-centred theoretical approach in order to develop a systematic exploration of the\nreading of the selected complex literary text",
+            "effective application of appropriate aspects of the reader-centred or author-centred\ntheoretical approach in order to generate an interpretation of the complex literary text in the\nreading and to develop a theorised examination of this reading in the defence"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "adequate understanding of relevant aspects of the reader-centred or author-centred\ntheoretical approach in order to generate a reading of the selected complex literary text and\nthen explore this theorised reading in the defence",
+            "adequate understanding of the relationships within relevant aspects of the reader-centred\nor author-centred theoretical approach in order to explore the reading of the selected\ncomplex literary text",
+            "adequate application of appropriate aspects of the reader-centred or author-centred\ntheoretical approach in order to generate an interpretation of the complex literary text in the\nreading and to develop a theorised examination of this reading in the defence"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial understanding of aspects of the reader-centred or author-centred theoretical\napproach in order to generate a reading of the selected complex literary text and then\nexplain this reading in a simplistic manner in the defence",
+            "superficial understanding of the relationships within aspects of the reader-centred or\nauthor-centred theoretical approach in order to develop a simplistic explanation of the\nreading of the selected complex literary text",
+            "superficial application of aspects of the reader-centred or author-centred theoretical\napproach in order to develop an interpretation of the complex literary text in the reading and\nthen explain this reading in a simplistic manner in the defence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven understanding of aspects of the reader-centred or author-centred theoretical\napproach, resulting in a disjointed reading of the selected complex literary text and a partial\nexplanation of this reading in the defence",
+            "uneven understanding of the relationships within aspects of the reader-centred or author-\ncentred theoretical approach",
+            "uneven application of aspects of the reader-centred or author-centred theoretical approach,\nresulting in a disjointed interpretation of the selected complex literary text and a partial\nexplanation of this reading in the defence"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluation and synthesis",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning evaluation, in the defence, of those aspects of the reader-centred or author-\ncentred theoretical approach that were used to explore the reading of the complex literary\ntext",
+            "discerning evaluation, in the defence, of the reading of the selected complex literary text,\nmaking explicit the aspects of the theoretical approach that underpin it",
+            "discerning synthesis of analysis of the selected complex literary text, the applied theoretical\napproach and resultant interpretation with supporting evidence"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective evaluation, in the defence, of those aspects of the reader-centred or author-\ncentred theoretical approach that were used to explore the reading of the complex literary\ntext",
+            "effective evaluation, in the defence, of the reading of the selected complex literary text,\nmaking explicit the aspects of the theoretical approach that underpin it",
+            "effective synthesis of analysis of the selected complex literary text, the applied theoretical\napproach and resultant interpretation with supporting evidence"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "adequate evaluation, in the defence, of those aspects of the reader-centred or author-\ncentred theoretical approach that were used to explore the reading of the complex literary\ntext",
+            "adequate evaluation, in the defence, of the reading of the selected complex literary text,\nmaking explicit the aspects of the theoretical approach that underpin it",
+            "adequate synthesis of analysis of the selected complex literary text, the applied theoretical\napproach and resultant interpretation with supporting evidence"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "superficial evaluation, in the defence, of those aspects of the reader-centred or author-\ncentred theoretical approach that were used to explore the reading of the complex literary\ntext",
+            "superficial evaluation, in the defence, of the reading of the selected complex literary text,\nexplaining the aspects of the theoretical approach that underpin it",
+            "superficial synthesis of analysis of the selected complex literary text, the applied theoretical\napproach and resultant interpretation with some supporting evidence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven evaluation, in the defence, of those aspects of the reader-centred or author-centred\ntheoretical approach that were used to explore the reading of the complex literary text",
+            "uneven evaluation, in the defence, of the reading of the selected complex literary text,\nidentifying some aspects of the theoretical approach that underpin it",
+            "uneven synthesis of analysis of the selected complex literary text, the applied theoretical\napproach and resultant interpretation with some supporting evidence"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Controlling textual features and conventions",
+      "bands": [
+        {
+          "marks": "4",
+          "descriptors": [
+            "discerning use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "discerning use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "effective use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "effective use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "suitable use of appropriate patterns and conventions of academic genres and\ncommunication, including correct terminology, citation and referencing conventions",
+            "suitable use of textual features to create a theorised, extended analytical response for an\nacademic audience"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "uneven use of patterns and conventions of academic genres and communication, including\ncorrect terminology",
+            "uneven use of textual features to create a response for an audience"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Understanding and analysis of literary texts",
+        "objectives": "1, 5",
+        "marks": 5
+      },
+      {
+        "criterion": "Understanding and application of theories",
+        "objectives": "2, 3, 4",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluation and synthesis",
+        "objectives": "8, 9, 10",
+        "marks": 5
+      },
+      {
+        "criterion": "Controlling textual features and conventions",
+        "objectives": "6, 7",
+        "marks": 4
+      }
+    ],
+    "total_marks": 20
+  }
+}

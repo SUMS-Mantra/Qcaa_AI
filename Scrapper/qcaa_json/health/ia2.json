@@ -1,0 +1,152 @@
+{
+  "assessment": "IA2",
+  "subject": "Health",
+  "technique": "Examination — extended response (25%) .............................. 54",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Recognising and Comprehending",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "accurate recognition and discerning description of contextual information from primary\nsources and secondary sources about the chosen health-related topic/issue that includes\n- barriers, enablers and resources\n- data trends\n- determinants",
+            "succinct comprehension and perceptive use of\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model level/s of influence\n- diffusion process variables\n- RE-AIM"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "recognition and description of some contextual information that includes\n- barriers, enablers and resources\n- data statements\n- determinants",
+            "comprehension and use of the\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model\n- diffusion of innovations model\n- RE-AIM"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "variable recognition and superficial description of some information about the chosen topic",
+            "superficial comprehension and use of aspects of the Health inquiry model"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing, Interpreting and Critiquing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "analysis of contextual information from primary sources and secondary sources related to\nthe chosen health-related topic/issue to draw insightful conclusions about\n- barriers and enablers\n- relationships between existing personal, social or community resources",
+            "accurate interpretation of contextual information to draw insightful conclusions using data\ntrends",
+            "insightful critique of information using the social ecological model to distinguish\ndeterminants that influence health in the alternate community context"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "analysis of relevant contextual information from sources to draw considered conclusions\nabout\n- barriers or enablers\n- personal, social or community resources",
+            "interpretation of contextual information to draw considered conclusions using data trend/s",
+            "considered critique of information using the social ecological model to distinguish\ndeterminants that influence health in the alternate community context"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "analysis of contextual information from sources to draw conclusions about\n- barriers or enablers\n- personal, social or community resources",
+            "interpretation of contextual information to draw conclusions using data statement/s",
+            "critique of contextual information to distinguish factors that influence health"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial description of aspects of information from provided sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating and Reflecting",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "critical evaluation of the selected innovation’s action strategy methodology and resources\nusing two relevant steps of RE-AIM",
+            "insightful reflection on the selected innovation’s impact/uptake using diffusion process\nvariables",
+            "discerning justification of a recommendation for action that mediates, advocates or enables\ninnovation uptake in an alternate community context using the diffusion of innovations\nmodel"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "considered evaluation of the selected innovation’s action strategy methodology and\nresources using two relevant steps of RE-AIM",
+            "purposeful reflection on the selected innovation’s impact/uptake using the diffusion of\ninnovations model",
+            "effective justification of a recommendation for future action in an alternate context"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "feasible evaluation of the selected innovation’s action strategy methodology and resources\nusing RE-AIM",
+            "feasible reflection on the selected innovation’s impact/uptake using the diffusion of\ninnovations model",
+            "feasible justification of a recommendation for future action"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "superficial evaluation of aspects of the selected innovation’s action strategy",
+            "superficial reflection on aspects of the selected innovation’s impact/uptake",
+            "superficial or partial recommendation for future action"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organising and Communicating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "effective organisation of information to achieve a particular purpose",
+            "discerning decision-making and accurate use of\n- written features to achieve a particular purpose\n- language for a community context\n- referencing and essay genre conventions"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "organisation of information",
+            "decision-making and use of\n- written features\n- language for a community context\n- referencing and essay genre conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {}
+}

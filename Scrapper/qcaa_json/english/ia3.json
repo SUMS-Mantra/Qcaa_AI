@@ -1,0 +1,183 @@
+{
+  "assessment": "IA3",
+  "subject": "English",
+  "technique": "Examination — extended response (25%) .............................. 43",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Knowledge application",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "subtle and complex creation of perspectives and representations of concepts, identities,\ntimes and/or places in an imaginative text",
+            "discerning manipulation of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin texts and invite audiences to take up positions",
+            "discerning use of aesthetic features and/or stylistic devices to prompt emotional and critical\naudience responses"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective creation of perspectives and representations of concepts, identities, times and/or\nplaces in an imaginative text",
+            "effective manipulation of the ways cultural assumptions, attitudes, values and/or beliefs\nunderpin texts and invite audiences to take up positions",
+            "effective use of aesthetic features and/or stylistic devices to prompt emotional and critical\naudience responses"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "appropriate creation of perspectives and representations of concepts, identities, times\nand/or places in an imaginative text",
+            "appropriate use of the ways cultural assumptions, attitudes, values and/or beliefs underpin\ntexts and invite audiences to take up positions",
+            "appropriate use of aesthetic features and/or stylistic devices to prompt audience responses"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "superficial creation of perspectives and representations of concepts, identities, times and/or\nplaces in an imaginative text",
+            "superficial use of the ways cultural assumptions, attitudes, values and/or beliefs underpin\ntexts and invite audiences to take up positions",
+            "use of aspects of aesthetic features and/or stylistic devices that vary in suitability"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "creation of fragmented perspectives and representations of concepts, identities, times\nand/or places in an imaginative text",
+            "fragmented use of some ways ideas underpin texts",
+            "fragmented use of language features"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organisation and development",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "discerning use of the patterns and conventions of an imaginative text and the role of the\nwriter to achieve particular purposes and relationships with audiences",
+            "discerning selection and synthesis of subject matter to support perspectives",
+            "discerning organisation and sequencing of subject matter to achieve particular purposes,\nincluding discerning use of cohesive devices to emphasise ideas and connect parts of an\nimaginative text"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective use of the patterns and conventions of an imaginative text and the role of the\nwriter to achieve particular purposes and relationships with audiences",
+            "effective selection and synthesis of subject matter to support perspectives",
+            "effective organisation and sequencing of subject matter to achieve particular purposes,\nincluding effective use of cohesive devices to emphasise ideas and connect parts of an\nimaginative text"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "suitable use of the patterns and conventions of an imaginative text and the role of the writer\nto achieve particular purposes and relationships with audiences",
+            "suitable selection and adequate synthesis of subject matter to support perspectives",
+            "suitable organisation and sequencing of subject matter to achieve particular purposes,\nincluding suitable use of cohesive devices to emphasise ideas and connect parts of an\nimaginative text"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "inconsistent use of the patterns and conventions of an imaginative text, and of the role of\nthe writer",
+            "narrow selection of subject matter to support perspectives",
+            "disjointed organisation and sequencing of subject matter, including some use of cohesive\ndevices to connect parts of an imaginative text"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "fragmented use of patterns and conventions of an imaginative text",
+            "fragmented selection of subject matter",
+            "some connections between parts of a text"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Textual features",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "discerning language choices for particular purposes",
+            "discerning combination of a range of grammatically accurate/appropriate language\nstructures, including clauses and sentences, to achieve particular purposes",
+            "discerning use of written features, including conventional spelling and punctuation, to\nachieve particular purposes"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective language choices for particular purposes",
+            "effective use of a range of grammatically accurate/appropriate language structures,\nincluding clauses and sentences, to achieve particular purposes",
+            "effective use of written features, including conventional spelling and punctuation, to achieve\nparticular purposes"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "suitable language choices for particular purposes",
+            "suitable use of a range of mostly grammatically accurate/appropriate language structures,\nincluding clauses and sentences, to achieve particular purposes",
+            "suitable use of written features, including conventional spelling and punctuation, to achieve\nparticular purposes"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "inconsistent language choices",
+            "inconsistent use of grammar and language structures",
+            "use of written features, including spelling and punctuation, that vary in suitability"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate language choices",
+            "fragmented use of grammar and language structures",
+            "variable and inappropriate use of written features, including spelling and punctuation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Knowledge application",
+        "objectives": "3, 4, 5",
+        "marks": 9
+      },
+      {
+        "criterion": "Organisation and development",
+        "objectives": "1, 2, 6, 7, 8",
+        "marks": 8
+      },
+      {
+        "criterion": "Textual features",
+        "objectives": "9, 10, 11",
+        "marks": 8
+      }
+    ],
+    "total_marks": 25
+  }
+}

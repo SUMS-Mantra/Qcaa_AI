@@ -1,0 +1,176 @@
+{
+  "assessment": "IA3",
+  "subject": "Health",
+  "technique": "Investigation (25%) ...................................................................... 59",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Recognising and Comprehending",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "accurate recognition and discerning description of information from primary sources and\nsecondary sources related to respectful relationships in the post-schooling transition that\nincludes\n- barriers, enablers and resources\n- data trends\n- determinants",
+            "succinct comprehension and perceptive use of\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- life course perspective\n- diffusion process variables\n- RE-AIM"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "recognition and description of some contextual information from primary sources and\nsecondary sources related to respectful relationships in the post-schooling transition\nthat includes\n- barriers, enablers and resources\n- data statements\n- determinants",
+            "comprehension and use of the\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- life course perspective\n- diffusion of innovations model\n- RE-AIM"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "variable recognition and superficial description of some information about respectful\nrelationships or the post-schooling transition",
+            "superficial comprehension and use of aspects of the Health inquiry model"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing, Interpreting and Critiquing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "analysis of contextual information from primary sources and secondary sources to draw\ninsightful conclusions about\n- barriers and enablers\n- relationships between existing personal, social or community resources",
+            "accurate interpretation of relevant contextual information to draw insightful conclusions\nusing data trends",
+            "insightful critique of information using life course perspective to distinguish determinants\nthat influence health in the school or community context"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "analysis and interpretation of contextual information from primary sources and secondary\nsources to draw considered conclusions about\n- barriers and enablers\n- existing personal, social or community resources",
+            "interpretation of contextual information to draw considered conclusions using data trend/s",
+            "considered critique of relevant contextual information to distinguish determinants that\ninfluence health in the post-schooling transition"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "analysis and interpretation of contextual information to draw conclusions about\n- barriers or enablers\n- existing personal, social or community resources",
+            "interpretation of contextual information to draw conclusions using data statement/s",
+            "critique of information to distinguish factors that influence health in the post-schooling\ntransition"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial description of aspects of information from sources about respectful relationships\nor the post-schooling transition"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Investigating, Synthesising, Evaluating and Reflecting",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "investigation and insightful synthesis of information from primary sources and secondary\nsources related to the development of respectful relationships in the post-schooling\ntransition that includes\n- critical evaluation of two implemented innovations using two RE-AIM steps\n- insightful reflection on the impact/uptake of each innovation using two diffusion process\nvariables",
+            "recommendation and insightful justification of an innovation for their Year 12 cohort that\ndevelops respectful relationships in the post-schooling transition",
+            "develop a diffusion action strategy for their school setting that\n- includes methodology and resources based on a diffusion process variable\n- addresses a need, barrier or enabler for their Year 12 cohort"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "investigation and considered synthesis of information from sources related to the\ndevelopment of respectful relationships that includes\n- considered evaluation of two implemented innovations using two RE-AIM steps\n- considered reflection on the impact/uptake of each innovation using two diffusion process\nvariables",
+            "recommendation and justification of an innovation for their Year 12 cohort",
+            "develop a diffusion action strategy that\n- includes methodology and resources\n- addresses a need, barrier or enabler for their Year 12 cohort"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "investigation and synthesis of information from sources that includes\n- evaluation of an implemented innovation using RE-AIM\n- reflection on innovation impact/uptake using the diffusion of innovations model",
+            "recommendation of an innovation for their Year 12 cohort",
+            "develop an action strategy that includes methodology or resources"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "partial investigation of information from sources about respectful relationships",
+            "superficial explanation of information related to an innovation",
+            "superficial or partial recommendation or action strategy"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organising and Communicating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "effective organisation of information to achieve a particular purpose",
+            "discerning decision-making and accurate use of\n- written features to achieve a particular purpose\n- language for a community context\n- referencing and the selected genre’s conventions"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "appropriate organisation of information",
+            "appropriate decision-making and use of\n- written features\n- language for a community context\n- referencing and the selected genre’s conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Recognising and Comprehending",
+        "objectives": "1, 2",
+        "marks": 6
+      },
+      {
+        "criterion": "Analysing, Interpreting and Critiquing",
+        "objectives": "3, 4",
+        "marks": 7
+      },
+      {
+        "criterion": "Investigating, Synthesising, Evaluating and Reflecting",
+        "objectives": "5, 6",
+        "marks": 8
+      },
+      {
+        "criterion": "Organising and Communicating",
+        "objectives": "7, 8",
+        "marks": 4
+      }
+    ],
+    "total_marks": 25
+  }
+}

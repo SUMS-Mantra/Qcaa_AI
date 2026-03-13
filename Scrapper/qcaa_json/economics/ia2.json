@@ -1,0 +1,192 @@
+{
+  "assessment": "IA2",
+  "subject": "Economics",
+  "technique": "Investigation (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 8
+    },
+    {
+      "name": "Evaluating",
+      "marks": 7
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "comprehensive identification of the essential features of globalisation, barriers to trade,\nand/or trade agreements",
+            "perceptive application of a significant range of economic concepts, principles and models",
+            "precise use of economic terminology"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "adequate identification of features of globalisation, barriers to trade, and/or trade\nagreements",
+            "adequate application of a range of economic concepts, principles and/or models",
+            "adequate use of economic terminology"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "partial identification of features of globalisation, barriers to trade, and/or trade agreements",
+            "partial application of economic concepts, principles and/or models",
+            "limited use of economic terminology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "discerning meaning drawn from patterns or trends relevant to the economic issue identified",
+            "discerning explanation of relevant economic relationships that includes complexity",
+            "perceptive selection and use of a wide variety of current, accurate and relevant data and\ninformation to support the analysis"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective meaning drawn from patterns or trends relevant to the economic issue identified",
+            "effective explanation of relevant economic relationships with some complexity",
+            "effective selection and use of a variety of current, accurate and relevant data and\ninformation to support the analysis"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "adequate meaning drawn from patterns or trends relevant to the economic issue identified",
+            "adequate explanation of relevant economic relationships",
+            "use of relevant data and information to support the analysis"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of pattern/s or trend/s about an economic issue",
+            "identification of a cause or effect relationship",
+            "limited use of data or information"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "perceptive use of relevant economic criteria to make a decision about an economic\noutcome",
+            "discerning synthesis of economic ideas and perspectives derived from the analysis to\nsupport the decision",
+            "critical economic reasoning using reliable evidence to justify the decision"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective use of relevant economic criteria to make a decision about an economic outcome",
+            "effective synthesis of economic ideas or perspectives derived from the analysis to support\nthe decision",
+            "feasible economic reasoning using evidence to justify the decision"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable decision made about an economic outcome",
+            "synthesis of economic ideas or perspectives that link to the decision",
+            "economic reasons that explain the decision"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statement/s about an economic outcome",
+            "description/s of an economic idea or perspective",
+            "reason/s based on opinion"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating a response",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "discerning and concise expression, sequencing and development of ideas, including visual\nrepresentations, to enhance economic meaning",
+            "a formatted report used, with perceptive choices of vocabulary and minimal errors in\ngrammar, punctuation and spelling",
+            "consistent and accurate documentation of sources in a reference list and citations"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "sequencing and development of ideas to convey economic meaning",
+            "a basic formatted report used and some errors in grammar, punctuation and spelling",
+            "identification of some bibliographic information"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "1",
+        "marks": 6
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "2",
+        "marks": 8
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "3",
+        "marks": 7
+      },
+      {
+        "criterion": "Creating a response",
+        "objectives": "4",
+        "marks": 4
+      }
+    ],
+    "total_marks": 25
+  }
+}

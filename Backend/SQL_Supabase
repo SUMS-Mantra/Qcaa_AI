@@ -1,0 +1,457 @@
+-- =============================================================
+-- QCAA AI Grader — Complete Supabase Migration (clean install)
+-- Paste into Supabase SQL Editor → Run
+-- Drops and recreates everything cleanly.
+-- =============================================================
+
+-- 0. Extensions
+create extension if not exists "uuid-ossp";
+
+-- =============================================================
+-- 1. DROP EXISTING (reverse dependency order)
+-- =============================================================
+drop trigger if exists on_auth_user_created on auth.users;
+drop function if exists public.handle_new_user();
+drop function if exists public.get_my_role() cascade;
+drop function if exists public.match_qcaa_vectors(vector(384), float, int, text);
+
+drop table if exists qcaa_vectors    cascade;
+drop table if exists qcaa_curriculum cascade;
+drop table if exists audit_logs      cascade;
+drop table if exists ai_results      cascade;
+drop table if exists assignments     cascade;
+drop table if exists rubrics         cascade;
+drop table if exists assessments     cascade;
+drop table if exists subjects        cascade;
+drop table if exists profiles        cascade;
+
+-- =============================================================
+-- 2. TABLES
+-- =============================================================
+
+create table profiles (
+  id         uuid primary key references auth.users(id) on delete cascade,
+  email      text unique not null,
+  full_name  text,
+  role       text not null default 'student'
+               check (role in ('student', 'teacher', 'admin')),
+  created_at timestamptz default now()
+);
+
+create table subjects (
+  id   serial primary key,
+  name text unique not null
+);
+
+create table assessments (
+  id         serial primary key,
+  subject_id int  not null references subjects(id) on delete cascade,
+  name       text not null,
+  unique (subject_id, name)
+);
+
+create table rubrics (
+  id            serial primary key,
+  assessment_id int    not null references assessments(id) on delete cascade,
+  criterion     text   not null,
+  max_score     int    not null default 5,
+  levels        jsonb  not null
+);
+
+create table assignments (
+  id                uuid primary key default uuid_generate_v4(),
+  user_id           uuid not null references profiles(id) on delete cascade,
+  assessment_id     int  not null references assessments(id),
+  file_path         text not null,
+  original_filename text not null,
+  status            text not null default 'pending'
+                      check (status in ('pending','processing','completed','failed')),
+  created_at        timestamptz default now()
+);
+
+create table ai_results (
+  id               uuid primary key default uuid_generate_v4(),
+  assignment_id    uuid  not null references assignments(id) on delete cascade,
+  rubric_scores    jsonb not null default '[]',
+  overall_score    int,
+  max_overall_score int,
+  feedback         text,
+  raw_ai_input     text,
+  raw_ai_output    text,
+  model_version    text,
+  processed_at     timestamptz default now()
+);
+
+create table audit_logs (
+  id            bigserial primary key,
+  actor_id      uuid references profiles(id),
+  action        text not null,
+  resource_type text,
+  resource_id   text,
+  metadata      jsonb default '{}',
+  created_at    timestamptz default now()
+);
+
+-- =============================================================
+-- 3. INDEXES
+-- =============================================================
+create index idx_assignments_user      on assignments(user_id);
+create index idx_assignments_status    on assignments(status);
+create index idx_ai_results_assignment on ai_results(assignment_id);
+create index idx_audit_logs_actor      on audit_logs(actor_id);
+create index idx_audit_logs_created    on audit_logs(created_at);
+
+-- =============================================================
+-- 4. HELPER FUNCTION
+-- =============================================================
+create or replace function public.get_my_role()
+returns text
+language sql stable security definer
+set search_path = public
+as $$
+  select role from profiles where id = auth.uid();
+$$;
+
+-- =============================================================
+-- 5. RLS — PROFILES
+-- =============================================================
+alter table profiles enable row level security;
+
+create policy "Users read own profile"
+  on profiles for select using (auth.uid() = id);
+
+create policy "Admins read all profiles"
+  on profiles for select using (get_my_role() = 'admin');
+
+create policy "Teachers read all profiles"
+  on profiles for select using (get_my_role() = 'teacher');
+
+create policy "Insert own profile on signup"
+  on profiles for insert with check (auth.uid() = id);
+
+create policy "Users update own profile"
+  on profiles for update
+  using (auth.uid() = id) with check (auth.uid() = id);
+
+create policy "Admins update any profile"
+  on profiles for update using (get_my_role() = 'admin');
+
+create policy "Admins delete profiles"
+  on profiles for delete using (get_my_role() = 'admin');
+
+-- =============================================================
+-- 6. RLS — SUBJECTS
+-- =============================================================
+alter table subjects enable row level security;
+
+create policy "Anyone reads subjects"
+  on subjects for select using (true);
+
+create policy "Admins insert subjects"
+  on subjects for insert with check (get_my_role() = 'admin');
+
+create policy "Admins update subjects"
+  on subjects for update using (get_my_role() = 'admin');
+
+create policy "Admins delete subjects"
+  on subjects for delete using (get_my_role() = 'admin');
+
+-- =============================================================
+-- 7. RLS — ASSESSMENTS
+-- =============================================================
+alter table assessments enable row level security;
+
+create policy "Anyone reads assessments"
+  on assessments for select using (true);
+
+create policy "Admins insert assessments"
+  on assessments for insert with check (get_my_role() = 'admin');
+
+create policy "Admins update assessments"
+  on assessments for update using (get_my_role() = 'admin');
+
+create policy "Admins delete assessments"
+  on assessments for delete using (get_my_role() = 'admin');
+
+-- =============================================================
+-- 8. RLS — RUBRICS
+-- =============================================================
+alter table rubrics enable row level security;
+
+create policy "Anyone reads rubrics"
+  on rubrics for select using (true);
+
+create policy "Admins insert rubrics"
+  on rubrics for insert with check (get_my_role() = 'admin');
+
+create policy "Admins update rubrics"
+  on rubrics for update using (get_my_role() = 'admin');
+
+create policy "Admins delete rubrics"
+  on rubrics for delete using (get_my_role() = 'admin');
+
+-- =============================================================
+-- 9. RLS — ASSIGNMENTS
+-- =============================================================
+alter table assignments enable row level security;
+
+create policy "Users see own assignments"
+  on assignments for select using (user_id = auth.uid());
+
+create policy "Admins see all assignments"
+  on assignments for select using (get_my_role() = 'admin');
+
+create policy "Teachers see all assignments"
+  on assignments for select using (get_my_role() = 'teacher');
+
+create policy "Users create own assignments"
+  on assignments for insert with check (user_id = auth.uid());
+
+create policy "Users update own assignments"
+  on assignments for update using (user_id = auth.uid());
+
+create policy "Admins update assignments"
+  on assignments for update using (get_my_role() = 'admin');
+
+create policy "Users delete own assignments"
+  on assignments for delete using (user_id = auth.uid());
+
+create policy "Admins delete assignments"
+  on assignments for delete using (get_my_role() = 'admin');
+
+-- =============================================================
+-- 10. RLS — AI_RESULTS
+-- =============================================================
+alter table ai_results enable row level security;
+
+create policy "Users see own results"
+  on ai_results for select using (
+    exists (select 1 from assignments a
+            where a.id = ai_results.assignment_id
+              and a.user_id = auth.uid())
+  );
+
+create policy "Admins see all results"
+  on ai_results for select using (get_my_role() = 'admin');
+
+create policy "Teachers see all results"
+  on ai_results for select using (get_my_role() = 'teacher');
+
+create policy "Owner inserts results"
+  on ai_results for insert with check (
+    exists (select 1 from assignments a
+            where a.id = ai_results.assignment_id
+              and a.user_id = auth.uid())
+  );
+
+create policy "Owner updates results"
+  on ai_results for update using (
+    exists (select 1 from assignments a
+            where a.id = ai_results.assignment_id
+              and a.user_id = auth.uid())
+  );
+
+create policy "Admins delete results"
+  on ai_results for delete using (get_my_role() = 'admin');
+
+-- =============================================================
+-- 11. RLS — AUDIT_LOGS  (immutable — no update/delete)
+-- =============================================================
+alter table audit_logs enable row level security;
+
+create policy "Admins read audit logs"
+  on audit_logs for select using (get_my_role() = 'admin');
+
+create policy "Authenticated insert audit logs"
+  on audit_logs for insert with check (auth.uid() is not null);
+
+-- =============================================================
+-- 12. STORAGE BUCKET + POLICIES
+-- =============================================================
+insert into storage.buckets (id, name, public)
+values ('assignments', 'assignments', false)
+on conflict (id) do nothing;
+
+-- clear any leftover policies
+drop policy if exists "Users upload own files"  on storage.objects;
+drop policy if exists "Users read own files"    on storage.objects;
+drop policy if exists "Admins read all files"   on storage.objects;
+drop policy if exists "Teachers read all files" on storage.objects;
+drop policy if exists "Users delete own files"  on storage.objects;
+drop policy if exists "Admins delete files"     on storage.objects;
+
+create policy "Users upload own files"
+  on storage.objects for insert with check (
+    bucket_id = 'assignments'
+    and (storage.foldername(name))[1] = auth.uid()::text
+  );
+
+create policy "Users read own files"
+  on storage.objects for select using (
+    bucket_id = 'assignments'
+    and (storage.foldername(name))[1] = auth.uid()::text
+  );
+
+create policy "Admins read all files"
+  on storage.objects for select using (
+    bucket_id = 'assignments' and get_my_role() = 'admin'
+  );
+
+create policy "Teachers read all files"
+  on storage.objects for select using (
+    bucket_id = 'assignments' and get_my_role() = 'teacher'
+  );
+
+create policy "Users delete own files"
+  on storage.objects for delete using (
+    bucket_id = 'assignments'
+    and (storage.foldername(name))[1] = auth.uid()::text
+  );
+
+create policy "Admins delete files"
+  on storage.objects for delete using (
+    bucket_id = 'assignments' and get_my_role() = 'admin'
+  );
+
+-- =============================================================
+-- 13. AUTO-CREATE PROFILE ON SIGNUP
+-- =============================================================
+create or replace function public.handle_new_user()
+returns trigger as $$
+begin
+  insert into public.profiles (id, email, full_name)
+  values (
+    new.id,
+    new.email,
+    coalesce(new.raw_user_meta_data->>'full_name', '')
+  );
+  return new;
+end;
+$$ language plpgsql security definer;
+
+create trigger on_auth_user_created
+  after insert on auth.users
+  for each row execute function public.handle_new_user();
+
+-- =============================================================
+-- 14. SEED DATA
+-- =============================================================
+insert into subjects (name) values
+  ('English'), ('Mathematics'), ('Biology'), ('Chemistry'),
+  ('Physics'), ('History'), ('Geography'), ('Legal Studies'),
+  ('Business'), ('Digital Solutions');
+
+insert into assessments (subject_id, name)
+select s.id, a.name
+from subjects s
+cross join (values
+  ('Internal Assessment 1 (IA1)'),
+  ('Internal Assessment 2 (IA2)'),
+  ('Internal Assessment 3 (IA3)'),
+  ('External Assessment (EA)')
+) as a(name);
+
+-- =============================================================
+-- 15. QCAA CURRICULUM DATA TABLE (populated by scraper)
+-- =============================================================
+create table if not exists qcaa_curriculum (
+  id uuid primary key default uuid_generate_v4(),
+  subject text not null,
+  section_type text not null check (section_type in ('unit', 'assessment')),
+  section_key text not null,
+  content jsonb not null default '{}',
+  created_at timestamptz default now(),
+  unique (subject, section_type, section_key)
+);
+
+create index idx_qcaa_curriculum_subject on qcaa_curriculum(subject);
+
+alter table qcaa_curriculum enable row level security;
+
+create policy "Anyone reads curriculum"
+  on qcaa_curriculum for select using (true);
+
+create policy "Admins insert curriculum"
+  on qcaa_curriculum for insert with check (get_my_role() = 'admin');
+
+create policy "Admins update curriculum"
+  on qcaa_curriculum for update using (get_my_role() = 'admin');
+
+create policy "Admins delete curriculum"
+  on qcaa_curriculum for delete using (get_my_role() = 'admin');
+
+
+-- =============================================================
+-- 16. PGVECTOR EXTENSION + QCAA VECTOR EMBEDDINGS TABLE
+-- =============================================================
+create extension if not exists vector with schema extensions;
+
+create table if not exists qcaa_vectors (
+  id uuid primary key default uuid_generate_v4(),
+  subject text not null,
+  section text not null,
+  content text not null,
+  embedding vector(384),
+  metadata jsonb not null default '{}',
+  created_at timestamptz default now()
+);
+
+create index idx_qcaa_vectors_subject on qcaa_vectors(subject);
+create index idx_qcaa_vectors_embedding on qcaa_vectors
+  using hnsw (embedding vector_cosine_ops);
+
+alter table qcaa_vectors enable row level security;
+
+create policy "Anyone reads vectors"
+  on qcaa_vectors for select using (true);
+
+create policy "Service role inserts vectors"
+  on qcaa_vectors for insert
+  to service_role
+  with check (true);
+
+create policy "Service role updates vectors"
+  on qcaa_vectors for update
+  to service_role
+  using (true);
+
+create policy "Service role deletes vectors"
+  on qcaa_vectors for delete
+  to service_role
+  using (true);
+
+-- =============================================================
+-- 17. VECTOR SIMILARITY SEARCH FUNCTION
+-- =============================================================
+create or replace function match_qcaa_vectors(
+  query_embedding vector(384),
+  match_threshold float default 0.75,
+  match_count int default 5,
+  filter_subject text default null
+)
+returns table (
+  id uuid,
+  subject text,
+  section text,
+  content text,
+  metadata jsonb,
+  similarity float
+)
+language plpgsql
+as $$
+begin
+  return query
+    select
+      v.id,
+      v.subject,
+      v.section,
+      v.content,
+      v.metadata,
+      1 - (v.embedding <=> query_embedding) as similarity
+    from qcaa_vectors v
+    where 1 - (v.embedding <=> query_embedding) > match_threshold
+      and (filter_subject is null or v.subject = filter_subject)
+    order by v.embedding <=> query_embedding
+    limit match_count;
+end;
+$$;

@@ -1,0 +1,198 @@
+{
+  "assessment": "IA1",
+  "subject": "Digital Solutions",
+  "technique": "Technical proposal (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 7
+    },
+    {
+      "name": "Synthesising",
+      "marks": 6
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "discerning recognition and description of\n- user-interface components\n- existing solutions\nadept symbolisation of\n- user interfaces\ndiscerning explanation of\n- interrelationships between proposed data structures and user experiences\n- useability considerations"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "adequate recognition and description of\n- user-interface components\n- existing solutions\ncompetent symbolisation of\n- user interfaces\nadequate explanation of\n- interrelationships between proposed data structures and user experiences\n- useability considerations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "makes statements about features of\n- user-interface components\n- existing solutions\nincomplete symbolisation of\n- user interfaces\nsuperficial explanation of\n- interrelationships\n- useability"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "• insightful analysis of the problem and contextual information to identify features and\nrelationships of\n- data\n- programming\n- user interface\n• astute determination of\n- programming requirements\n- user-experience requirements\n- success criteria"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• adequate analysis of the problem and contextual information to identify features and\nrelationships of\n- data\n- programming\n- user interface\n• reasonable determination of\n- programming requirements\n- user-experience requirements\n- success criteria"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• superficial analysis of the problem or information to identify some features or\nrelationships of\n- data\n- programming\n- user interface\n• vague determination of\n- programming or user-experience requirements\n- success criteria"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• unclear analysis of the problem or information to identify features or relationships of\ncomponents"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• logical synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- algorithms\n- data"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• adequate synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- algorithms\n- data"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "• simple synthesis of information or ideas to develop the possible solutions for\n- user interfaces\n- algorithms\n- data"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Generating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• effective generation of a non-coded low-fidelity prototype digital solution that demonstrates\nthe proposed relationship between\n- data\n- user interfaces"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• adequate generation of a non-coded low-fidelity prototype digital solution that demonstrates\nthe proposed relationship between\n- data\n- user interfaces"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• generation of elements of the non-coded low-fidelity prototype digital solution that\ndemonstrates the proposed relationship between some\n- data\n- user interfaces"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "2",
+          "descriptors": [
+            "• effective decision-making about, and fluent use of\n- visual, spoken and/or written features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• simple decision-making about, and inconsistent use of\n- visual, spoken and/or written features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "1, 2",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3, 4",
+        "marks": 7
+      },
+      {
+        "criterion": "Synthesising",
+        "objectives": "5",
+        "marks": 6
+      },
+      {
+        "criterion": "Generating",
+        "objectives": "6",
+        "marks": 5
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "8",
+        "marks": 2
+      }
+    ],
+    "total_marks": 25
+  }
+}

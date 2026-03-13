@@ -1,0 +1,113 @@
+{
+  "assessment": "IA1",
+  "subject": "Drama",
+  "technique": "Performance (20%) ...................................................................... 34",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Demonstrating skills of acting",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "demonstration of skills of acting\n- creates energy and focus through commitment to role, reacting to cues, rhythms of\nperformance and ensemble (as appropriate)\n- is convincing, refined and sustained"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "demonstration of skills of acting is\n- controlled and intentional\n- suited to identified form/style"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "demonstration of skills of acting using\n- expressive skills\n- performance skills"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of expressive skills to communicate scripted dialogue through\n- vocal qualities\n- movement qualities"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating meaning in performance",
+      "bands": [
+        {
+          "marks": "11-12",
+          "descriptors": [
+            "interpretation exploits dramatic languages to reveal layers of meaning",
+            "manipulation synthesises elements of drama, stagecraft and conventions to create\nengaging dramatic action and realise form and style of the stimulus text"
+          ]
+        },
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "interpretation intentionally integrates dramatic languages to communicate meaning",
+            "manipulation of elements of drama, stagecraft and conventions to communicate stylistic\ncharacteristics and create coherent dramatic action and meaning"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "interpretation shows valid interrelationships between purpose, context and text",
+            "manipulation of elements of drama, stagecraft and conventions to create dramatic action\nand meaning that communicates social comment"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "interpretation of purpose and context within the chosen text",
+            "manipulation of elements of drama, stagecraft and conventions to create dramatic action\nand meaning"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "interpretation shows an understanding of situation, role and relationship in chosen text",
+            "use of elements of drama and stagecraft to create action"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "text is recited",
+            "use of isolated elements of drama"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Demonstrating skills of acting",
+        "objectives": "1",
+        "marks": 8
+      },
+      {
+        "criterion": "Communicating meaning in performance",
+        "objectives": "3, 4",
+        "marks": 12
+      }
+    ],
+    "total_marks": 20
+  }
+}

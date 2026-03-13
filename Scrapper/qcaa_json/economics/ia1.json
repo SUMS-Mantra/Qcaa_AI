@@ -1,0 +1,174 @@
+{
+  "assessment": "IA1",
+  "subject": "Economics",
+  "technique": "Examination — combination",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 8
+    },
+    {
+      "name": "Evaluating",
+      "marks": 7
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "accurate and detailed identification of a comprehensive range of the essential features of\nexchange rates, international trade patterns and theories, and the balance of payments",
+            "perceptive application of relevant economic concepts, principles and models",
+            "precise use of economic terminology"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective identification of a significant range of the essential features of exchange rates,\ninternational trade patterns and theories, and the balance of payments",
+            "effective application of relevant economic concepts, principles and models",
+            "effective use of economic terminology"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "adequate identification of the features of international trade",
+            "adequate application of relevant economic concepts, principles and models",
+            "adequate use of economic terminology"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "partial identification of the features of international trade",
+            "partial application of economic concepts, principles and/or models",
+            "narrow use of economic terminology"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of aspects of international trade",
+            "identification of aspects of economic concepts, principles or models",
+            "inconsistent or unclear use of terminology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "discerning meaning drawn from patterns or trends relevant to the economic issue identified",
+            "discerning explanation of relevant economic relationships",
+            "perceptive use of a wide variety of relevant data and information to support the analysis"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective meaning drawn from patterns or trends relevant to the economic issue identified",
+            "effective explanation of relevant economic relationships",
+            "effective use of a variety of relevant data and information to support the analysis"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "adequate meaning drawn from patterns or trends about the economic issue identified",
+            "adequate explanation of relevant economic relationships",
+            "use of relevant data and information to support the analysis"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of pattern/s or trend/s about an economic issue",
+            "identification of a cause or effect relationship",
+            "limited use of data or information"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "perceptive use of a relevant economic criterion to make a decision about an economic\noutcome",
+            "discerning synthesis of economic ideas and perspectives derived from the analysis to\nsupport the decision",
+            "critical economic reasoning using reliable evidence from unseen sources to justify the\ndecision"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective use of a relevant economic criterion to make a decision about an economic\noutcome",
+            "effective synthesis of economic ideas or perspectives derived from the analysis to support\nthe decision",
+            "feasible economic reasoning using evidence from unseen sources to justify the decision"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "superficial decision made about an economic outcome",
+            "description of economic ideas or perspectives that link to the decision",
+            "economic reason/s that explain the decision"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "opinions or statements about economic ideas or unclear decision"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "1",
+        "marks": 10
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "2",
+        "marks": 8
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "3",
+        "marks": 7
+      }
+    ],
+    "total_marks": 25
+  }
+}

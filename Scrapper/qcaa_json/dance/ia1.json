@@ -1,0 +1,136 @@
+{
+  "assessment": "IA1",
+  "subject": "Dance",
+  "technique": "Performance (20%) ...................................................................... 42",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Understanding style-specific movements",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "demonstration of the whole dance, displaying accurate physical recall of movement\nvocabulary, phrases, sections and formations"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "demonstration of an understanding of style-specific movements"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "recall of isolated phrases of movement from the dance"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Applying technical skills",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "application shows synthesis of technical skills that\n- displays sustained control of complex movements in style-specific technique\n- presents a cohesive performance without interruption"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "application of technical skills shows\n- accuracy of movement through space\n- extension of movement through space"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "application of technical skills is\n- relevant to the contemporary dance style\n- evident through timing and spatial awareness"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "application of technical skills\n- through coordination of simple movements\n- in isolated movement phrases"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Realising meaning through expressive skills",
+      "bands": [
+        {
+          "marks": "9",
+          "descriptors": [
+            "realisation shows a synthesis of expressive skills that communicate subtleties of meaning"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "realisation of meaning through\n- sustained use of focus, projection, facial and body expression\n- relationships between dancers, audience, space and/or objects"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "realisation of meaning through variations in\n- movement qualities\n- musicality (rhythm accents, phrasing)"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "realisation of meaning for the stated purpose through expressive skills that\n- communicate a social, political or cultural viewpoint\n- use focus, projection, facial and/or body expression"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of focus, projection, facial and/or body expression in isolated phrases of movement",
+            "demonstration of variations in energy"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Understanding style-specific movements",
+        "objectives": "1",
+        "marks": 3
+      },
+      {
+        "criterion": "Applying technical skills",
+        "objectives": "5",
+        "marks": 8
+      },
+      {
+        "criterion": "Realising meaning through expressive skills",
+        "objectives": "6",
+        "marks": 9
+      }
+    ],
+    "total_marks": 20
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "subject": "literacy",
+  "units": [],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Literacy",
+      "technique": "",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

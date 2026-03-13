@@ -1,0 +1,168 @@
+{
+  "assessment": "IA1",
+  "subject": "Health",
+  "technique": "Action research (25%) ................................................................. 49",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Recognising and Comprehending",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "accurate recognition and discerning description of contextual information from primary\nsources and secondary sources about the chosen health-related topic/issue that includes\n- barriers, enablers and resources\n- data trends\n- determinants",
+            "succinct comprehension and perceptive use of\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model level/s of influence\n- diffusion process variables"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "recognition and description of some contextual information from primary sources and\nsecondary sources about the chosen health-related topic/issue that includes\n- barriers, enablers and resources\n- data statements\n- determinants",
+            "comprehension and use of:\n- salutogenic approach, Ottawa Charter strategy/ies or overarching resource/s\n- social ecological model\n- diffusion of innovations model"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "variable recognition and superficial description of some information about the chosen topic",
+            "superficial comprehension and use of aspects of the Health inquiry model"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing, Interpreting and Critiquing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "analysis of contextual information from primary sources and secondary sources related to\nthe chosen health-related topic/issue to draw insightful conclusions about\n- barriers and enablers\n- relationships between existing personal, social or community resources",
+            "accurate interpretation of contextual information to draw insightful conclusions using data\ntrends",
+            "insightful critique of information using the social ecological model to distinguish\ndeterminants that influence health in the local or regional community context"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "analysis of contextual information from primary sources and secondary sources related to\nthe chosen health-related topic/issue to draw considered conclusions about\n- barriers and enablers\n- existing personal, social or community resources",
+            "interpretation of contextual information to draw considered conclusions using data trend/s",
+            "considered critique of contextual information to distinguish determinants that influence\nhealth in the local or regional community context"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "analysis of contextual information related to the chosen health-related topic/issue using\nprimary sources and/or secondary sources to draw conclusions about\n- barriers or enablers\n- existing personal, social or community resources",
+            "interpretation of contextual information to draw conclusions using data statement/s",
+            "critique of information to distinguish factors that influence health"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial description of aspects of information from sources about the chosen issue"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Investigating and Synthesising",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "investigation and insightful synthesis of information to develop a sophisticated diffusion\naction strategy for a contextual issue that includes:\n- a target group\n- the methodology and resources required to address the needs, barriers or enablers for\nthe target group by strengthening and/or maintaining innovation uptake\n- two diffusion process variables\n- post-implementation data-collection tools informed by RE-AIM"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "investigation and considered synthesis of information to develop a feasible diffusion action\nstrategy for a contextual issue that includes:\n- a target group\n- the methodology and resources required to address the needs, barriers or enablers for\nthe target group\n- two diffusion process variables\n- post-implementation data-collection tools informed by RE-AIM"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "investigation and synthesis of information to develop a diffusion action strategy for a\ncontextual issue that includes:\n- a target group\n- the methodology and resources for the target group\n- a diffusion process variable, diffusion stage or diffusion concept\n- post-implementation data-collection tools"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "investigation of information to develop an action strategy that includes superficial and/or\npartial aspects of:\n- a target group\n- the methodology and/or resources\n- data collection"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organising and Communicating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "effective organisation of information to achieve a particular purpose",
+            "discerning decision-making and accurate use of\n- written features to achieve a particular purpose\n- language for a community context\n- referencing and report genre conventions"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "organisation of information",
+            "decision-making and use of\n- written features\n- language for a community context\n- referencing and report genre conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Recognising and Comprehending",
+        "objectives": "1, 2",
+        "marks": 6
+      },
+      {
+        "criterion": "Analysing, Interpreting and Critiquing",
+        "objectives": "3, 4",
+        "marks": 7
+      },
+      {
+        "criterion": "Investigating and Synthesising",
+        "objectives": "5",
+        "marks": 8
+      },
+      {
+        "criterion": "Organising and Communicating",
+        "objectives": "7, 8",
+        "marks": 4
+      }
+    ],
+    "total_marks": 25
+  }
+}

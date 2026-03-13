@@ -1,0 +1,168 @@
+{
+  "assessment": "IA3",
+  "subject": "Aerospace Systems",
+  "technique": "Aerospace solution (25%)........................................................... 46",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Symbolising and Communicating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "adept symbolisation and discerning explanation of ideas, a solution and relationships in\nrelation to aircraft performance systems and human factors with visual frameworks, causal\nand feedback loops, flow charts, diagrams, sketches and/or pictures",
+            "discerning decision-making about, and proficient use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective symbolisation and considered explanation of ideas, a solution and relationships in\nrelation to aircraft performance systems and human factors with visual frameworks, causal\nand feedback loops, flow charts, diagrams, sketches and/or pictures",
+            "effective decision-making about, and fluent use of\n- written and visual features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "competent symbolisation and appropriate explanation of some ideas, a solution and\nrelationships in relation to aircraft performance systems and human factors with visual\nframeworks, causal and feedback loops, flow charts, diagrams, sketches and/or pictures",
+            "appropriate decision-making about, and use of\n- written and visual features to communicate about a solution\n- suitable language\n- grammatically accurate language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent symbolisation or superficial explanation of aspects of ideas, a solution or\nrelationships in relation to aircraft performance systems and human factors",
+            "inconsistent decision-making about, and inconsistent use of\n- written and visual features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Determining and Generating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "astute determination of essential success criteria for the aircraft performance systems\nand/or human factors problem",
+            "proficient generation of a solution, including\n- aircraft performance systems and/or human factors",
+            "provide valid data to critically determine the feasibility of a solution"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "reasoned determination of effective success criteria for the aircraft performance systems\nand/or human factors problem",
+            "effective generation of a solution, including\n- aircraft performance systems and/or human factors",
+            "provide valid data to effectively determine the feasibility of a proposal"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "logical determination of appropriate success criteria for the aircraft performance systems\nand/or human factors problem",
+            "adequate generation of a solution, including\n- aircraft performance systems and/or human factors",
+            "to provide relevant data to determine the feasibility of a proposal"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable determination of some success criteria for the aircraft performance systems\nand/or human factors problem",
+            "partial generation of a solution, including\n- aircraft performance systems and/or human factors",
+            "elements of data to partially determine the feasibility of a proposal"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statements about some success criteria for the aircraft performance systems and/or human\nfactors problem",
+            "generation of elements of an aircraft performance systems and/or human factors solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "coherent and logical synthesis of relevant aerospace systems, technology, and research\ninformation and ideas to propose a possible solution, including\n- aircraft performance systems and/or human factors",
+            "critical evaluation of ideas and a solution using success criteria",
+            "discerning refinement of ideas and a solution using success criteria to make astute\nrecommendations justified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "logical synthesis of relevant aerospace systems, technology, and research information and\nideas to propose a possible solution, including\n- aircraft performance systems and/or human factors",
+            "reasoned evaluation of ideas and a solution using success criteria",
+            "effective refinement of ideas and a solution using success criteria to make considered\nrecommendations justified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "simple synthesis of aerospace systems, technology, and research information and ideas to\npropose a solution, including\n- aircraft performance systems and/or human factors",
+            "feasible evaluation of ideas and a solution using success criteria",
+            "adequate refinement of ideas and a solution using some success criteria to make\nfundamental recommendations justified by data and research evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "rudimentary synthesis of partial aerospace systems, technology, or research information\nand/or ideas to propose an aircraft performance systems and/or human factors solution",
+            "superficial evaluation of ideas or a solution using some success criteria to make elementary\nrecommendations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "unclear combinations of information or ideas",
+            "identification of a change about an idea or the solution"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Symbolising and Communicating",
+        "objectives": "2, 8",
+        "marks": 7
+      },
+      {
+        "criterion": "Determining and Generating",
+        "objectives": "4, 6",
+        "marks": 9
+      },
+      {
+        "criterion": "Synthesising and Evaluating",
+        "objectives": "5, 7",
+        "marks": 9
+      }
+    ],
+    "total_marks": 25
+  }
+}

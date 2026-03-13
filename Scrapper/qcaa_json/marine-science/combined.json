@@ -1,0 +1,514 @@
+{
+  "subject": "Marine Science",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": ", students develop their understanding of oceanography. In Unit 2, they engage with the",
+      "subject": "Marine Science",
+      "description": "concept of marine biology. In Unit 3, students study coral reef ecology, changes to the reef and\nthe connectivity between marine systems. This knowledge is linked in Unit 4 with ocean issues\nand resource management where students apply knowledge from Unit 3 to consider the future of\nour oceans and techniques for managing fisheries. Students will learn valuable skills required for\nthe scientific investigation of questions. In addition, they will become citizens who are better\ninformed about the world around them and who have the critical skills to evaluate and make\nevidence-based decisions about current scientific issues.\nMarine Science 2025 v1.3 Course overview\n\nMarine Science aims to develop students’:\n sense of wonder and curiosity about the complexity of marine life and a respect for all living\nthings and the environment\n appreciation of global stewardship, which involves an understanding of the value systems\nassociated with the marine environment and its importance in maintaining biological support\nsystems\n interpretation of scientific evidence to make judgments and decisions about the effective\nmanagement of the marine environment\n investigative skills that can be used to evaluate environmental issues and their potential to\naffect the fragility of marine environments\n understanding of how marine systems interact and are interrelated; the flow of matter and\nenergy through and between these systems, and the processes by which they persist and\nchange\n understanding of…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Marine biology",
+      "subject": "Marine Science",
+      "description": "In Unit 2, students explore the ways marine science is used to describe and explain how marine\norganisms are influenced by the abiotic and biotic factors of ecosystems. An understanding of\nsustainability is essential to appreciate the processes that shape the future of biodiversity in\nmarine environments. Students conduct investigations into the diversity of marine organisms and\nthe biotic and abiotic factors influencing marine organisms. They examine the population data in\norder to analyse the factors affecting the distribution of marine organisms.\nContexts that could be investigated in this unit cover a variety of temporal and spatial scales.\nExamples of temporal changes could include seasonal variation, diurnal movement and life-cycle\nchanges. Spatial scales could include micro to meso level, such as single species through to\ncommunity. This understanding could be developed through case studies related to the local\nenvironment (i.e. the selected marine ecosystem, habitat or bioregion). Through investigating\nthese contexts, students may explore the ethical considerations that apply to activities in or\nadjacent to marine environments or the application of the precautionary principle of marine\nenvironmental planning.\nParticipation in a range of experiments and investigations allows students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of the\nrelationship between organisms and the abiotic and biotic factors of marine eco…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Marine systems — connections and change",
+      "subject": "Marine Science",
+      "description": "In Unit 3, students explore the ways marine science is used to describe and explain how marine\necosystems are formed and change due to a variety of natural and anthropogenic influences.\nQueensland’s Great Barrier Reef and its associated marine protected areas are used as a focus\nfor this exploration. An understanding of coral reef ecology and the connectivity between marine\necosystems allows students to appreciate the processes of reef development and change.\nStudents conduct experiments and investigations into the factors affecting coral reef ecology.\nThey examine trends, patterns and relationships between abiotic and biotic factors in order to\nanalyse change.\nContexts that could be investigated in this unit cover a variety of temporal and spatial scales.\nExamples of temporal changes could include distribution of organisms over a tidal cycle and\nseasonal abiotic fluctuations over large spatial scales. Spatial scales could include zonation and\nmicro to meso level marine biota distribution. This understanding could be developed through the\nuse of case studies related to a reef ecosystem. Through investigation of these contexts, students\nmay explore the ethical considerations that apply to sustainable use and management of coral\nreefs generally and the Great Barrier Reef in particular.\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of the\nrelatio…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Ocean issues and resource management ............................................................ 33",
+      "subject": "Marine Science",
+      "description": "Assessment __________________________________________ 38\nInternal assessment 1: Data test (10%)............................................................................. 38\nInternal assessment 2: Student experiment (20%) .......................................................... 41\nInternal assessment 3: Research investigation (20%) .................................................... 45\nExternal assessment: Examination — combination response (50%) ........................... 49\nGlossary _____________________________________________ 51\nReferences ___________________________________________ 51\nVersion history________________________________________ 52\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.ql…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Marine Science",
+      "technique": "Examination — combination response (50%) ........................... 49",
+      "unit": "1, students develop their understanding of oceanography. In Unit 2, they engage with the",
+      "conditions": {
+        "topic": "1: An ocean planet (13 hours)"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Marine Science",
+      "technique": "Data test (10%)............................................................................. 38",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Data test",
+          "bands": [
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 90%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 70%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 50%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 30%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 10%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 1%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "≤ 1%"
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Data test",
+            "objectives": "2, 3, 4",
+            "marks": 10
+          }
+        ],
+        "total_marks": 10
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Marine Science",
+      "technique": "Student experiment (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale for the experiment",
+                "justified modifications to the methodology",
+                "a specific and relevant research question",
+                "a methodology that enables the collection of sufficient and relevant data",
+                "appropriate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale for the experiment",
+                "feasible modifications to the methodology",
+                "a relevant research question",
+                "a methodology that enables the collection of relevant data",
+                "use of basic genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the experiment",
+                "inappropriate modifications to the methodology",
+                "an inappropriate research question",
+                "a methodology that causes the collection of insufficient and irrelevant data",
+                "inadequate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered management of risks/ethical issues/environmental issues",
+                "collection of sufficient and relevant raw data",
+                "fluent and concise use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "management of risks/ethical issues/environmental issues",
+                "collection of relevant raw data",
+                "competent use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate management of risks/ethical issues/environmental issues",
+                "collection of insufficient and irrelevant raw data",
+                "simplistic use of language and representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "correct and relevant processing of data",
+                "thorough identification of relevant trends/patterns/relationships",
+                "thorough and appropriate identification of the uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "basic processing of data",
+                "identification of obvious trends/patterns/relationships",
+                "basic identification of uncertainty and/or limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "incorrect or irrelevant processing of data",
+                "identification of incorrect or irrelevant trends/patterns/relationships",
+                "incorrect or insufficient identification of uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting and Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified conclusion/s linked to the research question",
+                "justified discussion of the reliability and validity of the experimental process",
+                "suggested improvements and extensions to the experiment that are logically derived from the\nanalysis of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable conclusion/s relevant to the research question",
+                "reasonable description of the reliability and/or validity of the experimental process",
+                "suggested improvements and/or extensions to the experiment that are related to the analysis\nof evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant conclusion/s",
+                "cursory or simplistic statements about the reliability and validity of the experimental process",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Finding",
+            "objectives": "1, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2, 3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting and Evaluating",
+            "objectives": "4, 5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Marine Science",
+      "technique": "Research investigation (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        },
+        {
+          "name": "Interpreting",
+          "marks": 5
+        },
+        {
+          "name": "Evaluating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming and Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale identifying clear development of the research question from the claim",
+                "a specific and relevant research question",
+                "selection of sufficient and relevant sources",
+                "appropriate use of genre conventions",
+                "acknowledgment of sources of information through appropriate use of referencing\nconventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale that links the research question and the claim",
+                "a relevant research question",
+                "selection of relevant sources",
+                "use of basic genre conventions",
+                "use of basic referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the investigation",
+                "an inappropriate research question",
+                "selection of insufficient or irrelevant sources",
+                "inadequate use of genre conventions",
+                "inadequate acknowledgment of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "the identification of sufficient and relevant evidence",
+                "thorough identification of relevant trends/patterns/relationships in evidence",
+                "thorough and appropriate identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "the identification of relevant evidence",
+                "identification of obvious trends/patterns/relationships in evidence",
+                "basic identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "the identification of insufficient and irrelevant evidence",
+                "identification of incorrect or irrelevant trends/patterns/relationships in evidence",
+                "incorrect or insufficient identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified scientific argument/s",
+                "justified conclusion linked to the research question",
+                "fluent and concise use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable scientific argument/s",
+                "reasonable conclusion relevant to the research question",
+                "competent use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant argument/s",
+                "inappropriate or irrelevant conclusion",
+                "incorrect use of language/representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified discussion of the quality of evidence",
+                "extrapolation of credible findings of the research to the claim",
+                "suggested improvements and extensions to the investigation that are considered and\nrelevant to the claim"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable description of the quality of evidence",
+                "application of relevant findings of the research to the claim",
+                "suggested improvements and/or extensions to the investigation that are relevant to the claim"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "cursory or simplistic statements about the quality of evidence",
+                "application of insufficient or inappropriate findings of the research to the claim",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming and Finding",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting",
+            "objectives": "1, 4",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    }
+  ]
+}

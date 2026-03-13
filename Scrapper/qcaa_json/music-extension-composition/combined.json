@@ -1,0 +1,628 @@
+{
+  "subject": "Music Extension (Composition)",
+  "units": [
+    {
+      "unit": "Unit 3",
+      "title": "Explore",
+      "subject": "Music Extension (Composition)",
+      "description": "In Unit 3, students enter into an apprenticeship and work towards realising their potential as\ncomposers, musicologists or performers. As an apprentice, students will work alongside an\nexpert, artisan and/or resource to explore their specialisation.\nThrough a gradual release of responsibility model, students develop into musicians who are\nworking towards independence. With explicit guidance from teachers, students explore three\nmodels of apprenticeship: oral traditions, cognitive apprenticeship and interactive learning. They\nconsider what constitutes good practice through research, mentor guidance, critique and\nfundamental skills of the specialisation. Students also develop skills in goal setting and reflective\npractice when developing their skills and understanding in the specialisation.\nUnit objectives\n1. Analyse music elements and concepts, and compositional devices.\n2. Apply literacy skills to communicate ideas.\n3. Evaluate music elements and concepts, and compositional devices.\n4. Apply compositional devices in composition.\n5. Manipulate music elements and concepts in composition.\n6. Resolve music ideas in composition.\nKey ideas\n Initiate best practice\n Consolidate best practice\nMusic Extension — Composition 2026 v1.3 Units\nGeneral (Extension) senior syllabus | January 2026 Unit 3: Explore\n\nSubject matter\nKey idea 1: Initiate best practice\nCommon area of study\nStudents:\n initiate best practice by developing techniques and strategies to achieve the most efficient and\ne…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Emerge ....................................................................................................................... 23",
+      "subject": "Music Extension (Composition)",
+      "description": "Assessment __________________________________________ 25\nInternal assessment 1: Composition 1 (20%) ................................................................... 25\nInternal assessment 2: Composition 2 (20%) ................................................................... 29\nInternal assessment 3: Composition project (35%) ......................................................... 33\nExternal assessment: Examination — extended response (25%) ................................ 38\nGlossary _____________________________________________ 39\nReferences ___________________________________________ 39\nVersion history________________________________________ 39\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Music Extension (Composition)",
+      "technique": "Examination — extended response (25%) ................................ 38",
+      "unit": "3 and 4",
+      "conditions": {
+        "duration": "the relative lengths of  beat and pulse"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Music Extension (Composition)",
+      "technique": "Composition 1 (20%) ................................................................... 25",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Applying compositional devices",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "application of compositional devices is synthesised to create a polished work"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "application of compositional devices creates a unified and cohesive work"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of idiomatic compositional devices to develop the work"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of compositional devices in the creation of their work"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of a selection of compositional devices"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Manipulating music elements and concepts",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "manipulation of music elements and concepts shows\n- perceptive understanding of genre/style\n- sensitivity towards the genre/style through sustained synthesis of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- is integrated\n- incorporates genre/style-specific characteristics\n- makes the genre/style explicit"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- for the chosen genre/style\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "some selection of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Resolving music ideas",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "resolution of music ideas is perceptively synthesised and reveals subtleties of meaning"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "resolution of music ideas is sustained and consolidates meaning"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "resolution of music ideas is integral to communicate meaning"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "resolution of music ideas to communicate meaning"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "demonstration of music idea/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Statement of intent",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition is\ndetailed and specific",
+                "application of literacy skills through sequenced and connected ideas",
+                "evaluation shows insightful judgments about the use of music elements, concepts and\ncompositional devices to communicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition",
+                "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas in the composition",
+                "evaluation of the use of music elements and concepts, and compositional devices to\ncommunicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "explanation of the choices made in the composition",
+                "application of literacy skills that communicate ideas about the composition",
+                "statements made about the use of music elements and concepts, and compositional\ndevices in the composition"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Applying compositional devices",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Manipulating music elements and concepts",
+            "objectives": "5",
+            "marks": 7
+          },
+          {
+            "criterion": "Resolving music ideas",
+            "objectives": "6",
+            "marks": 5
+          },
+          {
+            "criterion": "Statement of intent",
+            "objectives": "1, 2, 3",
+            "marks": 3
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Music Extension (Composition)",
+      "technique": "Composition 2 (20%) ................................................................... 29",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Applying compositional devices",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "application of compositional devices is synthesised to create a polished work"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "application of compositional devices creates a unified and cohesive work"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "application of idiomatic compositional devices to develop the work"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of compositional devices in the creation of their work"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of a selection of compositional devices"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Manipulating music elements and concepts",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "manipulation of music elements and concepts shows\n- perceptive understanding of genre/style\n- sensitivity towards the genre/style through sustained synthesis of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- is integrated\n- incorporates genre/style-specific characteristics\n- makes the genre/style explicit"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- for the chosen genre/style\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "some selection of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Resolving music ideas",
+          "bands": [
+            {
+              "marks": "5",
+              "descriptors": [
+                "resolution of music ideas is perceptively synthesised and reveals subtleties of meaning"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "resolution of music ideas is sustained and consolidates meaning"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "resolution of music ideas is integral to communicate meaning"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "resolution of music ideas to communicate meaning"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "demonstration of music idea/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Statement of intent",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition is\ndetailed and specific",
+                "application of literacy skills through sequenced and connected ideas",
+                "evaluation shows insightful judgments about the use of music elements, concepts and\ncompositional devices to communicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition",
+                "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas in the composition",
+                "evaluation of the use of music elements and concepts, and compositional devices to\ncommunicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "explanation of the choices made in the composition",
+                "application of literacy skills that communicate ideas about the composition",
+                "statements made about the use of music elements and concepts, and compositional\ndevices in the composition"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Applying compositional devices",
+            "objectives": "4",
+            "marks": 5
+          },
+          {
+            "criterion": "Manipulating music elements and concepts",
+            "objectives": "5",
+            "marks": 7
+          },
+          {
+            "criterion": "Resolving music ideas",
+            "objectives": "6",
+            "marks": 5
+          },
+          {
+            "criterion": "Statement of intent",
+            "objectives": "1, 2, 3",
+            "marks": 3
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Music Extension (Composition)",
+      "technique": "Composition project (35%) ......................................................... 33",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Applying compositional devices",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "application of compositional devices\n- creates a unified and cohesive work\n- is synthesised to create a polished work"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "application of compositional devices\n- is idiomatic\n- to develop the work"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "application of compositional devices\n- in the creation of their work\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "application of a selection of compositional devices"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Manipulating music elements and concepts",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "manipulation of music elements and concepts shows\n- perceptive understanding of genre/style\n- sensitivity towards the genre/style through sustained synthesis of stylistic nuances"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- is integrated\n- makes the genre/style explicit"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- incorporates genre/style-specific characteristics\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "manipulation of music elements and concepts\n- for the chosen genre/style\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "some selection of music elements and concepts"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Resolving music ideas",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "resolution of music ideas is\n- sustained and consolidates meaning\n- perceptively synthesised and reveals subtleties of meaning"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "resolution of music ideas\n- is integral to communicate meaning\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "resolution of music ideas\n- to communicate meaning\n- throughout the composition"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "demonstration of music idea/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Statement of intent",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition is\ndetailed and specific",
+                "application of literacy skills through sequenced and connected ideas",
+                "evaluation shows insightful judgments about music elements, concepts and compositional\ndevices to communicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "analysis of music elements and concepts, and compositional devices in the composition",
+                "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas in the composition",
+                "evaluation of the use of music elements and concepts, and compositional devices to\ncommunicate the intent in the composition"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "explanation of the choices made in the composition",
+                "application of literacy skills that communicate ideas about the composition",
+                "statements made about the use of music elements and concepts, and compositional\ndevices in the composition"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Reflective statement",
+          "bands": [
+            {
+              "marks": "6",
+              "descriptors": [
+                "evaluation provides evidence of metacognition that informs independent best practice"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "application of literacy skills through sequenced and connected ideas, and referencing\nconventions",
+                "evaluation examines the logic of the two selected techniques and/or strategies"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "application of literacy skills using terminology relevant to genre/style and language\nconventions to communicate ideas",
+                "evaluation of two techniques and/or strategies of best practice"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "application of literacy skills to identify techniques or strategies of best practice"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Applying compositional devices",
+            "objectives": "4",
+            "marks": 8
+          },
+          {
+            "criterion": "Manipulating music elements and concepts",
+            "objectives": "5",
+            "marks": 10
+          },
+          {
+            "criterion": "Resolving music ideas",
+            "objectives": "6",
+            "marks": 8
+          },
+          {
+            "criterion": "Statement of intent",
+            "objectives": "1, 2, 3",
+            "marks": 3
+          },
+          {
+            "criterion": "Reflective statement",
+            "objectives": "2, 3",
+            "marks": 6
+          }
+        ],
+        "total_marks": 35
+      }
+    }
+  ]
+}

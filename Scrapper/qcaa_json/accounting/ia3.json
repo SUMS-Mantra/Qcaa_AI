@@ -1,0 +1,240 @@
+{
+  "assessment": "IA3",
+  "subject": "Accounting",
+  "technique": "Examination — combination",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Synthesising",
+      "marks": 7
+    },
+    {
+      "name": "Analysing",
+      "marks": 6
+    },
+    {
+      "name": "Evaluating",
+      "marks": 4
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "identification of significant characteristics in the response",
+            "thorough understanding of accounting concepts, principles and/or processes",
+            "perceptive use of accounting terminology"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "identification of appropriate characteristics in the response",
+            "adequate understanding of accounting concepts, principles and/or processes",
+            "adequate use of accounting terminology"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "identification of inappropriate characteristics in the response",
+            "vague or partial understanding of accounting concepts, principles and/or processes",
+            "inconsistent and/or narrow use of accounting terminology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "effective application of significant and relevant accounting principles and processes to\nidentify and correct the 5 conceptual errors relating to fully classified financial statement\nreporting for a sole trader business",
+            "effective application of accounting principles and processes to accurately generate the\nStatement of Profit or Loss and Statement of Financial Position",
+            "results from the financial statements effectively used to thoroughly solve the goal-oriented\nproblem"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "appropriate application of relevant accounting principles and processes to identify and\ncorrect 3–4 conceptual errors relating to fully classified financial statement reporting for a\nsole trader business",
+            "appropriate application of accounting principles and processes to generate the Statement\nof Profit or Loss and Statement of Financial Position",
+            "solution produced that effectively solves the goal-oriented problem"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "fundamental application of accounting principles and processes to identify and correct 1–2\nconceptual errors relating to fully classified financial statement reporting for a sole trader\nbusiness",
+            "application of fundamental accounting principles and processes to generate the Statement\nof Profit or Loss and Statement of Financial Position",
+            "solution produced that solves elements of the goal-oriented problem"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent application of accounting principles and processes to identify minimal\nconceptual errors",
+            "rudimentary application of accounting principles and processes to complete aspects of the\nStatement of Profit or Loss and Statement of Financial Position",
+            "inappropriate or partial solution produced"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "examines financial data and information through the identification of significant and relevant\nrelationships",
+            "thorough interpretation of trends in the financial data and information",
+            "thorough and logical explanation of issues for one area of performance"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "examines financial data and information through the identification of relationships",
+            "interpretation of trends in the financial data and information",
+            "explanation of issues for one area of performance"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "examines financial data or information through the identification of superficial relationships",
+            "superficial interpretation of financial data or information",
+            "narrow or partial statements about the issues"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "perceptive judgments for proposed changes to practices of financial management relating\nto one area of performance",
+            "thoroughly justified decisions for the area of performance relevant to the accounting context",
+            "convincing recommendations for the area of performance relevant to the accounting\ncontext"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "judgments for proposed changes to practices of financial management relating to one area\nof performance",
+            "decisions for the area of performance relevant to the accounting context",
+            "recommendations for the area of performance suitable for the accounting context"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "rudimentary or partial judgments for proposed changes to practices of financial\nmanagement relating to one area of performance",
+            "inconsistent or partial decisions for the accounting context",
+            "inconsistent or partial recommendations for the accounting context"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "succinct, with effective language choices to communicate analysis, interpretation and\nevaluation to the business owner",
+            "logical sequencing and organisation of ideas in a business report (extract)",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "appropriate language choices to communicate analysis, interpretation and evaluation to the\nbusiness owner",
+            "clear sequencing and organisation of ideas in a business report (extract)",
+            "some errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate language choices to communicate business data, information or advice",
+            "unclear or fragmented sequencing of ideas in a business report (extract)",
+            "frequent errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "1",
+        "marks": 5
+      },
+      {
+        "criterion": "Synthesising",
+        "objectives": "2",
+        "marks": 7
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 4
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "5",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

@@ -1,0 +1,595 @@
+{
+  "subject": "Digital Solutions",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Creating with code",
+      "subject": "Digital Solutions",
+      "description": "In Unit 1, students will explore the creative and technical aspects of developing interactive digital\nsolutions. They investigate algorithms, programming features and useability principles to\ngenerate small interactive solutions using programming tools and gain a practical understanding\nof programming features. This allows them the opportunity to explore existing and developing\ntrends involving digital technologies.\nUnit objectives\n1. Recognise and describe programming features and useability principles.\n2. Symbolise and explain information, ideas and interrelationships related to digital problems.\n3. Analyse problems and information related to a selected technology context.\n4. Determine user experience and programming requirements, and success criteria of a digital\nproblem.\n5. Synthesise information and ideas to develop possible prototype digital solutions.\n6. Generate user interface and programmed components of the prototype digital solution.\n7. Evaluate components and solutions against criteria to make refinements and justified\nrecommendations, and evaluate impacts.\n8. Make decisions about and use mode-appropriate features, language and conventions for\nparticular purposes and contexts.\nTechnology contexts\nSchools select a single technology context to examine problems in this unit. Schools may select\nmore than one programming language to cover the required operations to be performed.\nSelection and suitability of programming languages will vary depending on the school and\nte…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Application and data solutions",
+      "subject": "Digital Solutions",
+      "description": "In Unit 2, students are required to engage with and learn subject matter using the various phases\nof the problem-solving process. Students will optimise a given database and use programming\nskills acquired in Unit 1 to generate a solution that interacts with an existing database via\nstructured query language (SQL). Students will plan, develop and generate the interface and\ncode to enable the user to insert, update, retrieve and delete data using an existing database via\nSQL. Prior to inserting the data, the system will validate the data being entered to ensure its\nintegrity and reliability for use and storage. Retrieved data will be displayed to the user in an\nappropriate format, such as text or a symbolic visual form.\nStudents are required to understand the structure of a database, along with how primary and\nforeign keys and data types affect the performance of the database. Students will evaluate the\nsecurity, privacy and ethical effects of storing data in databases from individual, organisational\nand government perspectives.\nUnit objectives\n1. Recognise and describe programming features, data and useability principles, and data\nmanagement processes.\n2. Symbolise and explain information, ideas and data flow relationships within and between\nsystems related to digital problems.\n3. Analyse problems and information related to the selected technology context.\n4. Determine solution requirements and success criteria of a digital problem.\n5. Synthesise information and ideas to deve…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Digital innovation",
+      "subject": "Digital Solutions",
+      "description": "In Unit 3, students are required to engage with and learn subject matter using the various phases\nof the problem-solving process. Students analyse end-user needs, and use the knowledge and\nskills of problem-solving, computational, design and systems thinking. They determine data,\nprogramming and user experience requirements, using available resources to generate\ncomponents and prototyped digital solutions. Students do this through one of the technology\ncontexts: web applications, mobile applications, interactive media, or intelligent systems.\nUnit objectives\n1. Recognise and describe programming features, digital system, interface components, and\nuseability principles.\n2. Symbolise and explain programming information, ideas and interrelationships between data\nstructures and user experiences.\n3. Analyse problems and information related to the selected technology context.\n4. Determine solution requirements, and success criteria of a digital problem.\n5. Synthesise information and ideas to develop possible solutions for data, user interface and\nprogrammed components.\n6. Generate user interfaces and programmed components of the prototype digital solution.\n7. Evaluate components and a solution against criteria to make refinements and justified\nrecommendations, and evaluate impacts.\n8. Make decisions about and use mode-appropriate features, language and conventions for\nparticular purposes and contexts.\nDigital Solutions 2025 v1.3 Queensland syllabuses\n\nSubject matter\nTopic 1: Intera…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Digital impacts ................................................................................................ 29",
+      "subject": "Digital Solutions",
+      "description": "Assessment _____________________________________________ 34\nInternal assessment 1: Technical proposal (25%) ..................................................... 34\nInternal assessment 2: Digital solution (25%) ............................................................ 39\nInternal assessment 3: Digital solution (25%) ............................................................ 43\nExternal assessment: Examination — combination response (25%) ......................... 47\nGlossary ________________________________________________ 48\nReferences ______________________________________________ 48\nVersion history __________________________________________ 49\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Digital Solutions",
+      "technique": "Examination — combination response (25%) ......................... 47",
+      "unit": "1 and Unit 2",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Digital Solutions",
+      "technique": "Technical proposal (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 7
+        },
+        {
+          "name": "Synthesising",
+          "marks": 6
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "discerning recognition and description of\n- user-interface components\n- existing solutions\nadept symbolisation of\n- user interfaces\ndiscerning explanation of\n- interrelationships between proposed data structures and user experiences\n- useability considerations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate recognition and description of\n- user-interface components\n- existing solutions\ncompetent symbolisation of\n- user interfaces\nadequate explanation of\n- interrelationships between proposed data structures and user experiences\n- useability considerations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "makes statements about features of\n- user-interface components\n- existing solutions\nincomplete symbolisation of\n- user interfaces\nsuperficial explanation of\n- interrelationships\n- useability"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• insightful analysis of the problem and contextual information to identify features and\nrelationships of\n- data\n- programming\n- user interface\n• astute determination of\n- programming requirements\n- user-experience requirements\n- success criteria"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• adequate analysis of the problem and contextual information to identify features and\nrelationships of\n- data\n- programming\n- user interface\n• reasonable determination of\n- programming requirements\n- user-experience requirements\n- success criteria"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• superficial analysis of the problem or information to identify some features or\nrelationships of\n- data\n- programming\n- user interface\n• vague determination of\n- programming or user-experience requirements\n- success criteria"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• unclear analysis of the problem or information to identify features or relationships of\ncomponents"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "• logical synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- algorithms\n- data"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "• adequate synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- algorithms\n- data"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "• simple synthesis of information or ideas to develop the possible solutions for\n- user interfaces\n- algorithms\n- data"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Generating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• effective generation of a non-coded low-fidelity prototype digital solution that demonstrates\nthe proposed relationship between\n- data\n- user interfaces"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• adequate generation of a non-coded low-fidelity prototype digital solution that demonstrates\nthe proposed relationship between\n- data\n- user interfaces"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• generation of elements of the non-coded low-fidelity prototype digital solution that\ndemonstrates the proposed relationship between some\n- data\n- user interfaces"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "2",
+              "descriptors": [
+                "• effective decision-making about, and fluent use of\n- visual, spoken and/or written features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• simple decision-making about, and inconsistent use of\n- visual, spoken and/or written features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1, 2",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3, 4",
+            "marks": 7
+          },
+          {
+            "criterion": "Synthesising",
+            "objectives": "5",
+            "marks": 6
+          },
+          {
+            "criterion": "Generating",
+            "objectives": "6",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "8",
+            "marks": 2
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Digital Solutions",
+      "technique": "Digital solution (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Evaluating",
+          "marks": 7
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Determining and Synthesising",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• astute determination of success criteria\n• logical synthesis of relevant information and ideas to develop the possible solutions for\n- user interfaces\n- data and data repositories\n- programmed components"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• logical determination of success criteria\n• adequate synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- data and data repositories\n- programmed components"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• reasonable determination of success criteria\n• simple synthesis of information or ideas to develop the possible solutions for\n- user interfaces\n- data and data repositories\n- programmed components"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• identification of a requirement or some criteria\n• unclear combination of information or ideas to develop data, data repositories, user\ninterface or programmed components"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Generating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "• proficient generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• effective generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• adequate generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• basic generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• generation of elements of the prototype digital solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• critical evaluation of features and components against criteria including\n- user experience\n- programmed components\n• critical evaluation of impacts\n• effective refinements and recommendations justified by\n- user feedback\n- testing"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• feasible evaluation of features and components against criteria including\n- user experience\n- programmed components\n• feasible evaluation of impacts\n• adequate refinements and recommendations justified by\n- user feedback\n- testing"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• superficial evaluation of\n- user experience\n- programmed components\n- impacts"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• identification of a change to an idea or a solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "2",
+              "descriptors": [
+                "• effective decision-making about, and fluent use of\n- visual, written and spoken features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• simple decision-making about, and inconsistent use of\n- visual, written and spoken features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Determining and Synthesising",
+            "objectives": "4, 5",
+            "marks": 7
+          },
+          {
+            "criterion": "Generating",
+            "objectives": "6",
+            "marks": 9
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "7",
+            "marks": 7
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "8",
+            "marks": 2
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Digital Solutions",
+      "technique": "Digital solution (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Evaluating",
+          "marks": 7
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Determining and Synthesising",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• astute determination of success criteria\n• logical synthesis of relevant information and ideas to develop the possible solutions for\n- user interfaces\n- secure data and data repositories\n- programmed components"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• logical determination of success criteria\n• adequate synthesis of information and ideas to develop the possible solutions for\n- user interfaces\n- secure data and data repositories\n- programmed components"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• reasonable determination of success criteria\n• simple synthesis of information or ideas to develop the possible solutions for\n- user interfaces\n- secure data and data repositories\n- programmed components"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• identification of a requirement or some criteria\n• unclear combination of information or ideas to develop secure data, data repositories, user\ninterface or programmed components"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Generating",
+          "bands": [
+            {
+              "marks": "8-9",
+              "descriptors": [
+                "• sophisticated generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• effective generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• adequate generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• basic generation of a prototype digital solution combining\n- user-interface components\n- data components\n- programmed components"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• generation of elements of the prototype digital solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "• critical evaluation of features and components against criteria including\n- user experience\n- programmed components\n• critical evaluation of impacts\n• effective refinements and recommendations justified by\n- user feedback\n- testing"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "• feasible evaluation of features and components against criteria including\n- user experience\n- programmed components\n• feasible evaluation of impacts\n• adequate refinements and recommendations justified by\n- user feedback\n- testing"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "• superficial evaluation of\n- user experience\n- programmed components\n- impacts"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• identification of a change to an idea or a solution"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "2",
+              "descriptors": [
+                "• effective decision-making about, and fluent use of\n- visual, written and spoken features to communicate about a solution\n- language for a technical audience\n- grammatically accurate language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "• simple decision-making about, and inconsistent use of\n- visual, written and spoken features\n- suitable language\n- grammar and language structures\n- referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Determining and Synthesising",
+            "objectives": "4, 5",
+            "marks": 7
+          },
+          {
+            "criterion": "Generating",
+            "objectives": "6",
+            "marks": 9
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "7",
+            "marks": 7
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "8",
+            "marks": 2
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "assessment": "External",
+  "subject": "Mathematical Methods",
+  "technique": "Examination — combination response (50%) ........................... 43",
+  "unit": "1 and Unit 2",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "1",
+      "marks": 2
+    },
+    {
+      "name": "1 2",
+      "marks": 3
+    },
+    {
+      "name": "6",
+      "marks": 4
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

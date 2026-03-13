@@ -1,0 +1,197 @@
+{
+  "assessment": "IA1",
+  "subject": "Physical Education",
+  "technique": "Project — folio (25%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 5
+    },
+    {
+      "name": "Evaluating",
+      "marks": 5
+    },
+    {
+      "name": "Communicating",
+      "marks": 3
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "insightful analysis of relevant primary data and secondary data to ascertain the most\nsignificant relationships between the\n- demands of the specialised movement sequences for one movement strategy\n- task, learner and environmental constraints that limit or enable personal performance of\nthe specialised movement sequences for one movement strategy\n- application of the principles of decision-making based on the presented opportunities for\naction in the specialised movement sequences for one movement strategy",
+            "discerning synthesis of the relevant specialised movement sequences, constraints and\nprinciples of decision-making to devise a constraints-led learning activity/practice providing\nopportunity for the emergence of a personal tactical strategy"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate analysis of relevant primary data and/or secondary data to ascertain the most\nsignificant relationships between the\n- demands of the specialised movement sequences for one movement strategy\n- task, learner and environmental constraints that limit or enable personal performance of\nthe specialised movement sequences for one movement strategy\n- application of the principles of decision-making based on the presented opportunities for\naction in the specialised movement sequences for one movement strategy",
+            "appropriate synthesis of specialised movement sequences, constraints and principles of\ndecision-making to devise a constraints-led learning activity/practice providing opportunity\nfor the emergence of a personal tactical strategy"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "superficial analysis and synthesis of primary data or secondary data to identify a\nrelationship between the physical activity and a constraints-led learning activity/practice"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "critical evaluation of the\n- effectiveness of the constraints-led learning activity/practice in providing opportunity for\nthe emergence of the personal tactical strategy by appraising the outcomes and\nlimitations\n- applied constraints and the applied principles of decision-making"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "considered evaluation of the\n- effectiveness of the constraints-led learning activity/practice in providing opportunity for\nthe emergence of the personal tactical strategy by appraising the outcomes and\nlimitations\n- applied constraints and the applied principles of decision-making"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "feasible evaluation of the constraints-led learning activity/practice by appraising outcomes\nor limitations reflective of constraints or the principles of decision-making"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Justifying",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "discerning justification, using primary and secondary data, of the\n- development of the constraints-led learning activity/practice\n- modification and maintenance of the personal tactical strategy to optimise performance"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "considered justification, using primary and secondary data, of the\n- development of the constraints-led learning activity/practice\n- modification and maintenance of the personal tactical strategy to optimise performance"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "feasible justification, using primary or secondary data of the\n- development of the constraints-led learning activity/practice\n- modification or maintenance of the personal tactical strategy to optimise performance"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate decision-making about and accurate use of\n- at least two modes (visual, written, spoken) to achieve a particular purpose\n- language suitable for a technical audience\n- referencing and folio genre conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "variable or inaccurate decision-making about and use of\n- at least two modes (visual, written, spoken) to achieve a particular purpose or\n- language suitable for a technical audience or\n- referencing and folio genre conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Demonstrating and Applying",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective demonstration of specialised movement sequences and two movement strategies\n(from two different principles of play for physical activities from the ‘Invasion’ or ‘Net and\ncourt’ categories) in authentic performance environments",
+            "effective application of quality of movement and one other body and movement concept to\nthe performance of specialised movement sequences and two movement strategies (from\ntwo different principles of play for physical activities from the ‘Invasion’ or ‘Net and court’\ncategories) in authentic performance environments"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "competent demonstration of specialised movement sequences and two movement\nstrategies (from two different principles of play for physical activities from the ‘Invasion’ or\n‘Net and court’ categories) in authentic performance environments",
+            "competent application of quality of movement and one other body and movement concept\nto the performance of specialised movement sequences and two movement strategies\n(from two different principles of play for physical activities from the ‘Invasion’ or ‘Net and\ncourt’ categories) in authentic performance environments"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "variable or inaccurate demonstration of isolated movement sequences and a movement\nstrategy in authentic performance environments",
+            "variable or inaccurate application of a body and movement concept to movement\nsequences and a movement strategy in authentic performance environments"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Analysing",
+        "objectives": "4",
+        "marks": 5
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "5",
+        "marks": 5
+      },
+      {
+        "criterion": "Justifying",
+        "objectives": "6",
+        "marks": 6
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "7",
+        "marks": 3
+      },
+      {
+        "criterion": "Demonstrating and Applying",
+        "objectives": "2, 3",
+        "marks": 6
+      }
+    ],
+    "total_marks": 25
+  }
+}

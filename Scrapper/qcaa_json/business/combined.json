@@ -1,0 +1,799 @@
+{
+  "subject": "Business",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Business creation",
+      "subject": "Business",
+      "description": "In Unit 1, students explore fundamental business concepts and strategies relating to strategic\nplanning, business environments, leadership, management, entrepreneurship, human resources,\nfinance, marketing, operations and technology. Students investigate the creation of business\nideas and the business life cycle before focusing on the challenges of the seed stage. SWOT and\nPEST analytical tools are used to analyse strategic planning, stakeholders, competitors and the\nbusiness environment. Business and entrepreneurial ideas are evaluated using the business\ncriteria of competitiveness, effectiveness, efficiency and stakeholder satisfaction to determine\ntheir viability. Students use their knowledge of the fundamentals of business and the creation of\nbusiness ideas to analyse and evaluate two authentic business case studies.\nUnit objectives\n1. Describe business situations and environments relating to businesses in the various stages\nof the business life cycle.\n2. Explain business concepts and strategies relating to the fundamentals of business and the\ncreation of business ideas.\n3. Analyse and interpret business situations, environments and the key business functions\nrelating to the fundamentals of business and the creation of business ideas using analytical\ntools.\n4. Evaluate strategic planning and business ideas to make decisions and propose\nrecommendations.\n5. Create responses that communicate meaning to suit audience, context and purpose.\nBusiness 2025 v1.3 Units\n\nSubject mat…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Business growth",
+      "subject": "Business",
+      "description": "In Unit 2, students explore concepts and strategies used by businesses in the start-up and growth\nstages of the business life cycle. Students explore leadership and management across the key\nbusiness functions, including financial, human resources, marketing and operations in the growth\nstage. Analytical tools, including STEEPLE and break-even analyses, are used to analyse and\ninterpret the implications of establishing a business. Market entry is analysed and interpreted\nusing the analytical tools SWOT and USP. Strategies to establish a business and market entry\nare evaluated using the business criteria of competitiveness, effectiveness, efficiency and\nstakeholder satisfaction. Two authentic case studies will allow students to investigate a franchise\nand a business entering a new market.\nUnit objectives\n1. Describe business situations and environments relating to business start-up and market entry\nin the growth stage of the business life cycle.\n2. Explain business concepts and strategies relating to the establishment of a business and\nmarket entry.\n3. Analyse and interpret business situations, environments and the key business functions\nrelating to the establishment of a business and market entry using analytical tools.\n4. Evaluate start-up and growth strategies to make decisions and propose recommendations.\n5. Create responses that communicate meaning to suit audience, context and purpose.\nBusiness 2025 v1.3 Units\n\nSubject matter\nTopic 1: Establishment of a business\nIn this …"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Business diversification",
+      "subject": "Business",
+      "description": "In Unit 3, students explore concepts and strategies used by businesses in the maturity stage of\nthe business life cycle. Students investigate diversification strategies, with a specific focus on\nexpansion into global markets and emerging strategies providing a competitive advantage.\nAnalytical tools, including SWOT, STEEPLE and USP analyses and power interest grid, are used\nto analyse the challenges businesses experience when trying to differentiate and expand.\nBusiness diversification strategies are evaluated using the business criteria of competitiveness,\neffectiveness, efficiency and stakeholder satisfaction. Students propose recommendations for\nbusiness strategies across a range of management and functional areas. An authentic business\ncase study allows students to investigate an Australian business that has expanded into the\nAsian market.\nUnit objectives\n1. Describe business situations and environments relating to competitive markets and strategic\ndevelopment in the maturity stage of the business life cycle.\n2. Explain business concepts and strategies relating to competitive markets and strategic\ndevelopment.\n3. Analyse and interpret business situations, environments and the key business functions\nrelating to competitive markets and strategic development using analytical tools.\n4. Evaluate diversification strategies to make decisions and propose recommendations.\n5. Create responses that communicate meaning to suit audience, context and purpose.\nBusiness 2025 v1.3 Units\n\n…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Business evolution .................................................................................................... 27",
+      "subject": "Business",
+      "description": "Assessment __________________________________________ 31\nInternal assessment 1: Examination — combination response (25%) ......................... 31\nInternal assessment 2: Business report (25%) ................................................................. 36\nInternal assessment 3: Feasibility report (25%) ............................................................... 40\nExternal assessment: Examination — combination response (25%) ........................... 45\nGlossary _____________________________________________ 46\nReferences ___________________________________________ 46\nVersion history________________________________________ 46\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Business",
+      "technique": "Examination — combination response (25%) ........................... 45",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "topic": "1:"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Business",
+      "technique": "Examination — combination",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Describing",
+          "marks": 4
+        },
+        {
+          "name": "Explaining",
+          "marks": 4
+        },
+        {
+          "name": "Analysing",
+          "marks": 7
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Describing",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "recognition of significant business facts and characteristics relating to competitive markets",
+                "comprehensive description of a business situation relating to a business in the maturity\nstage of the business life cycle",
+                "comprehensive description of business environment/s that impact on human resources or\nfinancing"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "recognition of relevant business facts and characteristics relating to competitive markets",
+                "adequate description of a business situation relating to a business in the maturity stage of\nthe business life cycle",
+                "adequate description of business environment/s that impact on human resources or\nfinancing"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inaccurate recognition of a business fact or characteristic",
+                "inadequate description of a business situation",
+                "inadequate description of business environment/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Explaining",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "identification of significant business concepts and strategies in competitive markets",
+                "comprehensive explanation of business concepts and strategies in competitive markets",
+                "purposeful use of business terminology and examples"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "identification of relevant business concepts and strategies in competitive markets",
+                "adequate explanation of business concepts and strategies in competitive markets",
+                "appropriate use of business terminology and an example"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inaccurate identification of a business concept or strategy",
+                "inadequate explanation of a business concept or strategy",
+                "inappropriate use of business terminology or an example"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "discerning selection of significant data and information relating to competitive markets to\nanalyse a business situation using the analytical tool",
+                "thorough interpretation of relationship/s and trend/s from the analysis",
+                "thorough implications for the business situation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered selection of relevant data and information relating to competitive markets to\nanalyse a business situation using the analytical tool",
+                "effective interpretation of relationship/s and trend/s from the analysis",
+                "effective implications for the business situation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "appropriate selection of obvious data or information to analyse a business situation using\nthe analytical tool",
+                "appropriate interpretation of relationship/s or trend/s from the analysis",
+                "appropriate implications for the business situation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent selection or use of data or information",
+                "inappropriate interpretation",
+                "inappropriate conclusion"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "proficient use of business criteria to make perceptive judgments for a business or\ncompetitive strategy",
+                "thoroughly justified decision for the business situation",
+                "insightful recommendation/s for the business situation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective use of business criteria to make considered judgments for a business or\ncompetitive strategy",
+                "justified decision for the business situation",
+                "informed recommendation/s for the business situation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate use of a business criterion to make a routine judgment for a business or\ncompetitive strategy",
+                "adequate decision for the business situation",
+                "appropriate recommendation for the business situation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate judgment",
+                "inadequate decision",
+                "inappropriate recommendation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "concise and logical sequencing and development of ideas to enhance meaning",
+                "features of the business report (extract) genre and use of referencing conventions are\nconsistently demonstrated",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "clear sequencing and development of ideas to convey meaning",
+                "features of the business report (extract) genre and use of referencing conventions are\nappropriately demonstrated",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "partial sequencing or development of ideas",
+                "features of the business report (extract) genre and/or use of referencing conventions are\ninconsistently demonstrated",
+                "frequent errors in spelling, grammar and/or punctuation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Describing",
+            "objectives": "1",
+            "marks": 4
+          },
+          {
+            "criterion": "Explaining",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 7
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "5",
+            "marks": 3
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Business",
+      "technique": "Business report (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Describing",
+          "marks": 4
+        },
+        {
+          "name": "Explaining",
+          "marks": 4
+        },
+        {
+          "name": "Analysing",
+          "marks": 7
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Describing",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "recognition of significant business facts and characteristics relating to strategic\ndevelopment",
+                "comprehensive description of a business situation relating to a business in the maturity\nstage of the business life cycle",
+                "comprehensive description of business environment/s that impact on marketing or\noperations"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "recognition of relevant business facts and characteristics relating to strategic development",
+                "adequate description of a business situation relating to a business in the maturity stage of\nthe business life cycle",
+                "adequate description of business environment/s that impact on marketing or operations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inaccurate recognition of a business fact or characteristic",
+                "inadequate description of a business situation",
+                "inadequate description of business environment/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Explaining",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "identification of significant business concepts and strategies relating to marketing or\noperations for strategic development",
+                "comprehensive explanation of business concepts and strategies relating to marketing or\noperations for strategic development",
+                "purposeful use of business terminology and examples"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "identification of relevant business concepts and strategies relating to marketing or\noperations for strategic development",
+                "adequate explanation of business concepts and strategies relating to marketing or\noperations for strategic development",
+                "appropriate use of business terminology and an example"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inaccurate identification of a business concept or strategy",
+                "inadequate explanation of a business concept or strategy",
+                "inappropriate use of business terminology or an example"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "discerning selection of significant data and information relating to strategic development to\nanalyse a business situation using the analytical tool",
+                "thorough interpretation of relationship/s and trend/s from the analysis",
+                "thorough implications for the business situation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered selection of relevant data and information relating to strategic development to\nanalyse a business situation using the analytical tool",
+                "effective interpretation of relationship/s and trend/s from the analysis",
+                "effective implications for the business situation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "appropriate selection of obvious data or information to analyse a business situation using\nthe analytical tool",
+                "appropriate interpretation of relationship/s or trend/s from the analysis",
+                "appropriate implications for the business situation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent selection or use of data or information",
+                "inappropriate interpretation",
+                "inappropriate conclusion"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "proficient use of business criteria to make perceptive judgments for a marketing or\noperational strategy",
+                "thoroughly justified decision for the business situation",
+                "insightful recommendation/s for the business situation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective use of business criteria to make considered judgments for a marketing or\noperational strategy",
+                "justified decision for the business situation",
+                "informed recommendation/s for the business situation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate use of a business criterion to make a routine judgment for a marketing or\noperational strategy",
+                "adequate decision for the business situation",
+                "appropriate recommendation for the business situation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate judgment",
+                "inadequate decision",
+                "inappropriate recommendation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "concise and logical sequencing and development of ideas to enhance meaning",
+                "features of the business report genre and use of referencing conventions are consistently\ndemonstrated",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "clear sequencing and development of ideas to convey meaning",
+                "features of the business report genre and use of referencing conventions are appropriately\ndemonstrated",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "partial sequencing or development of ideas",
+                "features of the business report genre and/or use of referencing conventions are\ninconsistently demonstrated",
+                "frequent errors in spelling, grammar and/or punctuation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Describing",
+            "objectives": "1",
+            "marks": 4
+          },
+          {
+            "criterion": "Explaining",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 7
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "5",
+            "marks": 3
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Business",
+      "technique": "Feasibility report (25%)",
+      "unit": "4 Topic 1.",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Describing",
+          "marks": 4
+        },
+        {
+          "name": "Explaining",
+          "marks": 4
+        },
+        {
+          "name": "Analysing",
+          "marks": 7
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Describing",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "recognition of significant business facts and characteristics relating to repositioning a\nbusiness",
+                "comprehensive description of a business situation relating to a business in the post-\nmaturity stage of the business life cycle",
+                "comprehensive description of business environment/s that influence repositioning"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "recognition of relevant business facts and characteristics relating to repositioning a\nbusiness",
+                "adequate description of a business situation relating to a business in the post-maturity\nstage of the business life cycle",
+                "adequate description of business environment/s that influence repositioning"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inaccurate recognition of a business fact or characteristic",
+                "inadequate description of a business situation",
+                "inadequate description of business environment/s"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Explaining",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "identification of significant business concepts and strategies relating to repositioning a\nbusiness",
+                "comprehensive explanation of business concepts and strategies relating to repositioning a\nbusiness",
+                "purposeful use of business terminology and examples"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "identification of relevant business concepts and strategies relating to repositioning a\nbusiness",
+                "adequate explanation of business concepts and strategies relating to repositioning a\nbusiness",
+                "appropriate use of business terminology and an example"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inaccurate identification of a business concept or strategy",
+                "inadequate explanation of a business concept or strategy",
+                "inappropriate use of business terminology or an example"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "discerning selection of significant data and information for repositioning a business to\nanalyse a business situation using the analytical tool",
+                "thorough interpretation of relationship/s and trend/s from the analysis",
+                "thorough implications for the business situation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered selection of relevant data and information for repositioning a business to\nanalyse a business situation using the analytical tool",
+                "effective interpretation of relationship/s and trend/s from the analysis",
+                "effective implications for the business situation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "appropriate selection of obvious data or information to analyse a business situation using\nthe analytical tool",
+                "appropriate interpretation of relationship/s or trend/s from the analysis",
+                "appropriate implications for the business situation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent selection or use of data or information",
+                "inappropriate interpretation",
+                "inappropriate conclusion"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "proficient use of business criteria to make perceptive judgments for repositioning strategies",
+                "thoroughly justified decision for the business situation",
+                "insightful recommendation/s for the business situation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective use of business criteria to make considered judgments for repositioning strategies",
+                "justified decision for the business situation",
+                "informed recommendation/s for the business situation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate use of a business criterion to make a routine judgment for a repositioning\nstrategy",
+                "adequate decision for the business situation",
+                "appropriate recommendation for the business situation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate judgment",
+                "inadequate decision",
+                "inappropriate recommendation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "concise and logical sequencing and development of ideas to enhance meaning",
+                "features of the feasibility report genre and use of referencing conventions are consistently\ndemonstrated",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "clear sequencing and development of ideas to convey meaning",
+                "features of the feasibility report genre and use of referencing conventions are appropriately\ndemonstrated",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "partial sequencing or development of ideas",
+                "features of the feasibility report genre and/or use of referencing conventions are\ninconsistently demonstrated",
+                "frequent errors in spelling, grammar and/or punctuation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Describing",
+            "objectives": "1",
+            "marks": 4
+          },
+          {
+            "criterion": "Explaining",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 7
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "5",
+            "marks": 3
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "subject": "Essential English",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Language that works",
+      "subject": "Essential English",
+      "description": "In Unit 1, students explore how meaning is communicated in contemporary workplace texts\nand/or popular culture texts about the world of work. Students develop and use a range of\nstrategies and skills to comprehend and interpret these texts. They explore how the relationships\nbetween context, purpose and audience create meaning in work-related texts and/or popular\nculture texts about the world of work. Students identify, consider and explain language choices\nand the organisational features of texts, and their impact on meaning. Students respond to a\nvariety of work-related texts and/or popular culture texts about the world of work and create texts\nof their own for a variety of purposes and audiences.\nIn responding to texts, students focus on developing strategies and skills to comprehend texts\nused in a work context and/or popular culture texts about the world of work. They consider the\nvarious ways in which these texts communicate information, ideas and perspectives. They do this\nby developing and applying skills to identify main ideas, and interpret, question and infer when\nreading, viewing and listening to a range of texts.\nStudents may explore workplace texts and/or popular culture texts about the world of work to\ndiscover how these texts vary for different purposes, audiences and contexts. These work\ncontexts could include, but are not limited to:\n behaviour in the workplace\n work safety and responsibilities\n the changing nature of work in the 21st century — an explora…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Texts and human experiences",
+      "subject": "Essential English",
+      "description": "In Unit 2, students explore individual and/or collective experiences and perspectives of the world.\nStudents explore how different perspectives, ideas, attitudes, values and/or beliefs are\ncommunicated through the textual representations of a range of human experiences. They\nidentify audience and purpose, and consider how meaning is shaped in reflective/nonfiction texts\nto invite audiences to accept a particular point of view. Students respond to a variety of\nreflective/nonfiction texts by creating texts of their own for a variety of purposes and audiences.\nIn responding to texts, students identify the different perspectives, ideas, attitudes, values and/or\nbeliefs that have been communicated through the purposeful construction of identities, places,\nevents and/or concepts. Students apply their knowledge and understanding of how meaning is\ncommunicated in reflective/nonfiction texts when responding to a studied text or texts.\nIn responding to contemporary reflective/nonfiction texts, students consider a range of\ninterpretations as they develop their own interpretations. Students may read, listen to and view\nreflective and nonfiction texts from a range of contexts, which could include, but are not limited to:\n inspirational people and stories of overcoming adversity\n contemporary heroes or role models\n people from diverse cultures and places.\nStudents identify the patterns and conventions of reflective/nonfiction texts and consider how\nthese vary for different purposes, aud…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Language that influences",
+      "subject": "Essential English",
+      "description": "In Unit 3, students explore community, local and/or global issues and ideas presented in a range\nof texts that invite an audience to take up positions. Building on Units 1 and 2, students apply\ntheir understanding about how perspectives, ideas, attitudes and values are represented in texts\nto influence audiences. They explore how issues are represented in a range of texts and develop\ntheir own point of view about these issues. Students synthesise information to respond to and\ncreate a range of texts, considering their intended purpose, their representation of ideas and\nissues, and audience responses. In responding to texts, students have opportunities to discuss\nand listen to differing perspectives, compare, draw conclusions and influence audiences for a\nrange of purposes. Students also develop their skills in using appropriate vocabulary and\naccurate spelling, punctuation and grammar to enable effective communication.\nStudents respond to a variety of texts that invite audiences to take up positions, by constructing\ntexts of their own.\nThe unit is made up of two topics:\n Creating and shaping perspectives on community, local and global issues in texts\n Responding to texts that seek to influence audiences.\nUnit objectives\n1. Use patterns and conventions of genres to persuade audiences and explain perspectives on\ncommunity, local and/or global issues.\n2. Use appropriate roles and relationships with audiences.\n3. Construct and explain representations of identities, places, even…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Representations and popular culture texts ........................................................... 26",
+      "subject": "Essential English",
+      "description": "Assessment __________________________________________ 30\nInternal assessment 1: Spoken response ......................................................................... 30\nInternal assessment 2: Common internal assessment.................................................... 34\nInternal assessment 3: Multimodal response.................................................................... 36\nInternal assessment 4: Written response .......................................................................... 40\nGlossary _____________________________________________ 43\nReferences ___________________________________________ 43\nVersion history________________________________________ 43\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is a…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "IA1",
+      "subject": "Essential English",
+      "technique": "Spoken response ......................................................................... 30",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Essential English",
+      "technique": "Common internal assessment.................................................... 34",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Essential English",
+      "technique": "Multimodal response.................................................................... 36",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA4",
+      "subject": "Essential English",
+      "technique": "Written response .......................................................................... 40",
+      "unit": "1 and 2",
+      "conditions": {
+        "topic": "1: Creating and shaping perspectives on community, local and global"
+      },
+      "criteria": [
+        {
+          "name": "Glossary _____________________________________________",
+          "marks": 43
+        },
+        {
+          "name": "References ___________________________________________",
+          "marks": 43
+        },
+        {
+          "name": "Version History________________________________________",
+          "marks": 43
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

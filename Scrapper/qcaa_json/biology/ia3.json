@@ -1,0 +1,194 @@
+{
+  "assessment": "IA3",
+  "subject": "Biology",
+  "technique": "Research investigation (20%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 5
+    },
+    {
+      "name": "Interpreting",
+      "marks": 5
+    },
+    {
+      "name": "Evaluating",
+      "marks": 5
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Forming and Finding",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "a considered rationale identifying clear development of the research question from the claim",
+            "a specific and relevant research question",
+            "selection of sufficient and relevant sources",
+            "appropriate use of genre conventions",
+            "acknowledgment of sources of information through appropriate use of referencing\nconventions"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "a reasonable rationale that links the research question and the claim",
+            "a relevant research question",
+            "selection of relevant sources",
+            "use of basic genre conventions",
+            "use of basic referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "a vague or irrelevant rationale for the investigation",
+            "an inappropriate research question",
+            "selection of insufficient or irrelevant sources",
+            "inadequate use of genre conventions",
+            "inadequate acknowledgment of sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "the identification of sufficient and relevant evidence",
+            "thorough identification of relevant trends/patterns/relationships in evidence",
+            "thorough and appropriate identification of limitations of evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "the identification of relevant evidence",
+            "identification of obvious trends/patterns/relationships in evidence",
+            "basic identification of limitations of evidence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "the identification of insufficient and irrelevant evidence",
+            "identification of incorrect or irrelevant trends/patterns/relationships in evidence",
+            "incorrect or insufficient identification of limitations of evidence"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "justified scientific argument/s",
+            "justified conclusion linked to the research question",
+            "fluent and concise use of scientific language/representations"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable scientific argument/s",
+            "reasonable conclusion relevant to the research question",
+            "competent use of scientific language/representations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate or irrelevant argument/s",
+            "inappropriate or irrelevant conclusion",
+            "incorrect use of language/representations"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "justified discussion of the quality of evidence",
+            "extrapolation of credible findings of the research to the claim",
+            "suggested improvements and extensions to the investigation that are considered and\nrelevant to the claim"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable description of the quality of evidence",
+            "application of relevant findings of the research to the claim",
+            "suggested improvements and/or extensions to the investigation that are relevant to the claim"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "cursory or simplistic statements about the quality of evidence",
+            "application of insufficient or inappropriate findings of the research to the claim",
+            "ineffective or irrelevant suggestions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Forming and Finding",
+        "objectives": "1, 2, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 5
+      },
+      {
+        "criterion": "Interpreting",
+        "objectives": "1, 4",
+        "marks": 5
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "5",
+        "marks": 5
+      }
+    ],
+    "total_marks": 20
+  }
+}

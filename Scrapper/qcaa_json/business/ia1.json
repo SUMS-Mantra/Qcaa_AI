@@ -1,0 +1,252 @@
+{
+  "assessment": "IA1",
+  "subject": "Business",
+  "technique": "Examination — combination",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Describing",
+      "marks": 4
+    },
+    {
+      "name": "Explaining",
+      "marks": 4
+    },
+    {
+      "name": "Analysing",
+      "marks": 7
+    },
+    {
+      "name": "Evaluating",
+      "marks": 7
+    },
+    {
+      "name": "Communicating",
+      "marks": 0
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Describing",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "recognition of significant business facts and characteristics relating to competitive markets",
+            "comprehensive description of a business situation relating to a business in the maturity\nstage of the business life cycle",
+            "comprehensive description of business environment/s that impact on human resources or\nfinancing"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "recognition of relevant business facts and characteristics relating to competitive markets",
+            "adequate description of a business situation relating to a business in the maturity stage of\nthe business life cycle",
+            "adequate description of business environment/s that impact on human resources or\nfinancing"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inaccurate recognition of a business fact or characteristic",
+            "inadequate description of a business situation",
+            "inadequate description of business environment/s"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Explaining",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "identification of significant business concepts and strategies in competitive markets",
+            "comprehensive explanation of business concepts and strategies in competitive markets",
+            "purposeful use of business terminology and examples"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "identification of relevant business concepts and strategies in competitive markets",
+            "adequate explanation of business concepts and strategies in competitive markets",
+            "appropriate use of business terminology and an example"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inaccurate identification of a business concept or strategy",
+            "inadequate explanation of a business concept or strategy",
+            "inappropriate use of business terminology or an example"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "discerning selection of significant data and information relating to competitive markets to\nanalyse a business situation using the analytical tool",
+            "thorough interpretation of relationship/s and trend/s from the analysis",
+            "thorough implications for the business situation"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "considered selection of relevant data and information relating to competitive markets to\nanalyse a business situation using the analytical tool",
+            "effective interpretation of relationship/s and trend/s from the analysis",
+            "effective implications for the business situation"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "appropriate selection of obvious data or information to analyse a business situation using\nthe analytical tool",
+            "appropriate interpretation of relationship/s or trend/s from the analysis",
+            "appropriate implications for the business situation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inconsistent selection or use of data or information",
+            "inappropriate interpretation",
+            "inappropriate conclusion"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "proficient use of business criteria to make perceptive judgments for a business or\ncompetitive strategy",
+            "thoroughly justified decision for the business situation",
+            "insightful recommendation/s for the business situation"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective use of business criteria to make considered judgments for a business or\ncompetitive strategy",
+            "justified decision for the business situation",
+            "informed recommendation/s for the business situation"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "adequate use of a business criterion to make a routine judgment for a business or\ncompetitive strategy",
+            "adequate decision for the business situation",
+            "appropriate recommendation for the business situation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inadequate judgment",
+            "inadequate decision",
+            "inappropriate recommendation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "concise and logical sequencing and development of ideas to enhance meaning",
+            "features of the business report (extract) genre and use of referencing conventions are\nconsistently demonstrated",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "clear sequencing and development of ideas to convey meaning",
+            "features of the business report (extract) genre and use of referencing conventions are\nappropriately demonstrated",
+            "some errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "partial sequencing or development of ideas",
+            "features of the business report (extract) genre and/or use of referencing conventions are\ninconsistently demonstrated",
+            "frequent errors in spelling, grammar and/or punctuation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Describing",
+        "objectives": "1",
+        "marks": 4
+      },
+      {
+        "criterion": "Explaining",
+        "objectives": "2",
+        "marks": 4
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 7
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 7
+      },
+      {
+        "criterion": "Communicating",
+        "objectives": "5",
+        "marks": 3
+      }
+    ],
+    "total_marks": 25
+  }
+}

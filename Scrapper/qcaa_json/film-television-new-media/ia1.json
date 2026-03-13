@@ -1,0 +1,129 @@
+{
+  "assessment": "IA1",
+  "subject": "Film, Television & New Media",
+  "technique": "Case study investigation (15%) ............................................ 29",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Applying written literacy skills",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "• application of written literacy skills to communicate well-articulated ideas in a sustained,\nlogical sequencing of information, enhanced by accurate use of key terminology"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• application of written literacy skills using relevant terminology, referencing, and language\nconventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• use of terminology and language conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing features",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• analysis of features designed to\n- initiate participation\n- sustain audience engagement"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• analysis of features that\n- operate within contexts of production\n- provide opportunities for audience interaction"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• explanation of technologies, audiences and institutions relevant to the chosen case"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification and description of the features of the moving-image media case"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating audience participation",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "• evaluation of factors to reach judgments or conclusions about the chosen case,\n- including benefits and/or limitations for audience participation\n- justified through convincing evidence"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "• evaluation of factors\n- relating to audience participation in a moving-image media case\n- supported by evidence"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• evaluation of a factor relating to audience participation in a moving-image media case"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of audience for a moving-image media case"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Applying written literacy skills",
+        "objectives": "4",
+        "marks": 3
+      },
+      {
+        "criterion": "Analysing features",
+        "objectives": "5",
+        "marks": 6
+      },
+      {
+        "criterion": "Evaluating audience participation",
+        "objectives": "6",
+        "marks": 6
+      }
+    ],
+    "total_marks": 15
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "assessment": "External",
+  "subject": "Modern History",
+  "technique": "Examination — short response (25%) ........................................ 39",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Glossary _____________________________________________",
+      "marks": 40
+    },
+    {
+      "name": "References ___________________________________________",
+      "marks": 40
+    },
+    {
+      "name": "Version History________________________________________",
+      "marks": 43
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

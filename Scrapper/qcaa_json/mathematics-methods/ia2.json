@@ -1,0 +1,121 @@
+{
+  "assessment": "IA2",
+  "subject": "Mathematical Methods",
+  "technique": "Examination — short response (15%) ...................................... 35",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Foundational knowledge and problem-solving",
+      "bands": [
+        {
+          "marks": "15",
+          "descriptors": [
+            "> 93%"
+          ]
+        },
+        {
+          "marks": "14",
+          "descriptors": [
+            "> 87%"
+          ]
+        },
+        {
+          "marks": "13",
+          "descriptors": [
+            "> 80%"
+          ]
+        },
+        {
+          "marks": "12",
+          "descriptors": [
+            "> 73%"
+          ]
+        },
+        {
+          "marks": "11",
+          "descriptors": [
+            "> 67%"
+          ]
+        },
+        {
+          "marks": "10",
+          "descriptors": [
+            "> 60%"
+          ]
+        },
+        {
+          "marks": "9",
+          "descriptors": [
+            "> 53%"
+          ]
+        },
+        {
+          "marks": "8",
+          "descriptors": [
+            "> 47%"
+          ]
+        },
+        {
+          "marks": "7",
+          "descriptors": [
+            "> 40%"
+          ]
+        },
+        {
+          "marks": "6",
+          "descriptors": [
+            "> 33%"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "> 27%"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "> 20%"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "> 13%"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "> 7%"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "> 0%"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Foundational knowledge and problem-solving",
+        "objectives": "1, 2, 3, 4, 5, 6",
+        "marks": 15
+      }
+    ],
+    "total_marks": 15
+  }
+}

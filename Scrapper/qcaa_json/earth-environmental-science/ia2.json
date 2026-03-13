@@ -1,0 +1,186 @@
+{
+  "assessment": "IA2",
+  "subject": "Earth & Environmental Science",
+  "technique": "Student experiment (20%)",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 5
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Forming",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "a considered rationale for the experiment",
+            "justified modifications to the methodology",
+            "a specific and relevant research question",
+            "a methodology that enables the collection of sufficient and relevant data",
+            "appropriate use of genre and referencing conventions"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "a reasonable rationale for the experiment",
+            "feasible modifications to the methodology",
+            "a relevant research question",
+            "a methodology that enables the collection of relevant data",
+            "use of basic genre and referencing conventions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "a vague or irrelevant rationale for the experiment",
+            "inappropriate modifications to the methodology",
+            "an inappropriate research question",
+            "a methodology that causes the collection of insufficient and irrelevant data",
+            "inadequate use of genre and referencing conventions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Finding",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "considered management of risks/ethical issues/environmental issues",
+            "collection of sufficient and relevant raw data",
+            "fluent and concise use of scientific language and representations"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "management of risks/ethical issues/environmental issues",
+            "collection of relevant raw data",
+            "competent use of scientific language and representations"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inadequate management of risks/ethical issues/environmental issues",
+            "collection of insufficient and irrelevant raw data",
+            "simplistic use of language and representations"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "correct and relevant processing of data",
+            "thorough identification of relevant trends/patterns/relationships",
+            "thorough and appropriate identification of the uncertainty and limitations of evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "basic processing of data",
+            "identification of obvious trends/patterns/relationships",
+            "basic identification of uncertainty and/or limitations of evidence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "incorrect or irrelevant processing of data",
+            "identification of incorrect or irrelevant trends/patterns/relationships",
+            "incorrect or insufficient identification of uncertainty and limitations of evidence"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting and Evaluating",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "justified conclusion/s linked to the research question",
+            "justified discussion of the reliability and validity of the experimental process",
+            "suggested improvements and extensions to the experiment that are logically derived from the\nanalysis of evidence"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "reasonable conclusion/s relevant to the research question",
+            "reasonable description of the reliability and/or validity of the experimental process",
+            "suggested improvements and/or extensions to the experiment that are related to the analysis\nof evidence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate or irrelevant conclusion/s",
+            "cursory or simplistic statements about the reliability and validity of the experimental process",
+            "ineffective or irrelevant suggestions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Forming",
+        "objectives": "1, 2, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Finding",
+        "objectives": "1, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "2, 3",
+        "marks": 5
+      },
+      {
+        "criterion": "Interpreting and Evaluating",
+        "objectives": "4, 5",
+        "marks": 5
+      }
+    ],
+    "total_marks": 20
+  }
+}

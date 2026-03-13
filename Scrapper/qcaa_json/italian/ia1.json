@@ -1,0 +1,191 @@
+{
+  "assessment": "IA1",
+  "subject": "Italian",
+  "technique": "Examination — short response (20%) .................................. 18",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Analysing Italian texts in English — Question 1",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "• draws a valid and well-substantiated conclusion about one of\npurpose/audience/context/tone from the stimulus\n• justifies with two pieces of supporting evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• draws a valid conclusion about one of purpose/audience/context/tone from the stimulus\n• justifies with one piece of supporting evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of relevant evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing Italian texts in English — Question 2",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "• draws a valid and well-substantiated conclusion about one of\npurpose/audience/context/tone from the stimulus\n• justifies with two pieces of supporting evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• draws a valid conclusion about one of purpose/audience/context/tone from the stimulus\n• justifies with one piece of supporting evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of relevant evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing Italian texts in English — Question 3",
+      "bands": [
+        {
+          "marks": "4",
+          "descriptors": [
+            "• draws a valid and well-substantiated conclusion about lifestyles and leisure from the\nstimulus text/s\n• justifies with three pieces of supporting evidence from the stimulus text/s"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "• draws a valid conclusion about lifestyles and leisure from the stimulus text/s\n• justifies with two pieces of supporting evidence from the stimulus text/s"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "• draws a valid conclusion about lifestyles and leisure from the stimulus text/s\n• justifies with one piece of supporting evidence from the stimulus text/s"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of relevant evidence from the stimulus"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing Italian texts in Italian — Question 4",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• draws a valid and well-substantiated conclusion about one of\npurpose/audience/context/tone from the stimulus\n• justifies with two pieces of supporting evidence from the stimulus\n• conveys meaning in Italian with minor errors"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• draws a valid conclusion about one of purpose/audience/context/tone from the stimulus\n• justifies with one piece of supporting evidence from the stimulus\n• conveys meaning in Italian with some errors"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of relevant evidence from the stimulus in Italian"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing Italian texts in Italian — Question 5",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "• draws a valid and well-substantiated conclusion about one of\npurpose/audience/context/tone from the stimulus\n• justifies with two pieces of supporting evidence from the stimulus\n• conveys meaning in Italian with minor errors"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "• draws a valid conclusion about one of purpose/audience/context/tone from the stimulus\n• justifies with one piece of supporting evidence from the stimulus\n• conveys meaning in Italian with some errors"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "• identification of relevant evidence from the stimulus in Italian"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Analysing Italian texts in English — Question 1",
+        "objectives": "1, 2, 3",
+        "marks": 3
+      },
+      {
+        "criterion": "Analysing Italian texts in English — Question 2",
+        "objectives": "1, 2, 3",
+        "marks": 3
+      },
+      {
+        "criterion": "Analysing Italian texts in English — Question 3",
+        "objectives": "1, 2, 3",
+        "marks": 4
+      },
+      {
+        "criterion": "Analysing Italian texts in Italian — Question 4",
+        "objectives": "1, 2, 3, 4, 5, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Analysing Italian texts in Italian — Question 5",
+        "objectives": "1, 2, 3, 4, 5, 6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 20
+  }
+}

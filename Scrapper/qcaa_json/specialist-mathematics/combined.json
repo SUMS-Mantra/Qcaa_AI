@@ -1,0 +1,496 @@
+{
+  "subject": "Specialist Mathematics",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Combinatorics, proof, vectors and matrices",
+      "subject": "Specialist Mathematics",
+      "description": "In Unit 1, students will develop the mathematical understandings and skills to solve problems\nrelating to:\n Topic 1: Combinatorics\n Topic 2: Introduction to proof\n Topic 3: Vectors in the plane\n Topic 4: Algebra of vectors in two dimensions\n Topic 5: Matrices.\nCombinatorics provides techniques that are useful in many areas of mathematics, including\nprobability and algebra. Introduction to proof provides the opportunity to establish students’\nunderstanding of the nature of proof, and is of great benefit in the study of other topics in the\ncourse. Vectors in the plane and the Algebra of vectors in two dimensions provide new\nperspectives for working with two-dimensional space, and serve as an introduction to techniques\nthat will extend to three-dimensional space in Unit 3. Matrices introduces basic operations and\nmatrix algebra properties that involve matrices of up to dimension 2× 2.\nThese five topics considerably broaden students’ mathematical experience and enhance their\nawareness of the breadth and utility of the subject. They contain procedures and processes that\nwill be required for later topics. All these topics develop students’ ability to construct mathematical\narguments and enable students to increase their mathematical flexibility and versatility.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathemat…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "introduced complex numbers; Unit 3 extends the study of complex numbers to include",
+      "subject": "Specialist Mathematics",
+      "description": "complex arithmetic using polar form and roots of complex numbers. Mathematical induction and\ntrigonometric proofs continue the developmental concept of proof from Units 1 and 2.\nThese topics build on prior knowledge to enable a greater depth of analytical thinking and\nmetacognition.\nUnit objectives\n1. Recall mathematical knowledge.\n2. Use mathematical knowledge.\n3. Communicate mathematical knowledge.\n4. Evaluate the reasonableness of solutions.\n5. Justify procedures and decisions.\n6. Solve mathematical problems.\nSpecialist Mathematics 2025 v1.3 Units\n\nSubject matter\nTopic 1: Further complex numbers\nSub-topic: Complex arithmetic using polar form (3 hours)\n Prove complex number identities involving modulus and argument, e.g.\n𝑧 𝑧̅ = |𝑧|2, |𝑧 | |𝑧 |=|𝑧 𝑧 | and arg(𝑧 𝑧 )=arg(𝑧 )+arg(𝑧 ).\n1 2 1 2 1 2 1 2\n Use De Moivre’s theorem for integral powers.\n 𝑧𝑛= 𝑟𝑛 cis (𝑛𝜃)\nSub-topic: Roots of complex numbers (3 hours)\n Determine and examine the 𝑛th roots of unity and their location on the unit circle.\n Determine and examine the 𝑛th roots of complex numbers and their location in the complex\nplane.\nSub-topic: Factorisation of polynomials (5 hours)\n Apply the factor theorem and the remainder theorem for polynomials.\n Understand and use the complex conjugate root theorem for polynomials with real coefficients,\ne.g. factorise a cubic polynomial with real coefficients given one factor.\n Solve polynomial equations over ℂ to order 4 including those with real and imaginary\ncoefficients, e.…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Further complex numbers, proof, vectors and",
+      "subject": "Specialist Mathematics",
+      "description": "matrices\nIn Unit 3, students will develop the mathematical understandings and skills to solve problems\nrelating to:\n Topic 1: Further complex numbers\n Topic 2: Mathematical induction and trigonometric proofs\n Topic 3: Vectors in two and three dimensions\n Topic 4: Vector calculus\n Topic 5: Further matrices."
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Further calculus and statistical inference .............................................................. 30",
+      "subject": "Specialist Mathematics",
+      "description": "Assessment __________________________________________ 35\nInternal assessment 1: Problem-solving and modelling task (20%).............................. 35\nInternal assessment 2: Examination — short response (15%) ...................................... 39\nInternal assessment 3: Examination — short response (15%) ...................................... 43\nExternal assessment: Examination — combination response (50%) ........................... 47\nGlossary _____________________________________________ 50\nReferences ___________________________________________ 50\nVersion history________________________________________ 52\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-subjects and in …"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Specialist Mathematics",
+      "technique": "Examination — combination response (50%) ........................... 47",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "topic": "3) and in three dimensions."
+      },
+      "criteria": [
+        {
+          "name": "𝑎 1",
+          "marks": 2
+        },
+        {
+          "name": "2",
+          "marks": 2
+        },
+        {
+          "name": "4",
+          "marks": 4
+        },
+        {
+          "name": "𝑎",
+          "marks": 0
+        },
+        {
+          "name": "2 1 2",
+          "marks": 3
+        },
+        {
+          "name": "𝑎 𝑏\n1",
+          "marks": 1
+        },
+        {
+          "name": "𝑎 3 𝑏",
+          "marks": 3
+        },
+        {
+          "name": "1",
+          "marks": 1
+        },
+        {
+          "name": "3",
+          "marks": 3
+        },
+        {
+          "name": "𝜆",
+          "marks": 1
+        },
+        {
+          "name": "𝜔",
+          "marks": 1
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Specialist Mathematics",
+      "technique": "Problem-solving and modelling task (20%).............................. 35",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Formulate",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "justified statements of important assumptions",
+                "justified statements of important observations",
+                "justified mathematical translation of important aspects of the task"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "statement of a relevant assumption",
+                "statement of a relevant observation",
+                "mathematical translation of an aspect of the task"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Solve",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "accurate use of mathematical knowledge for important aspects of the task",
+                "efficient use of technology",
+                "a complete solution"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "use of mathematical knowledge for an important aspect of the task",
+                "use of technology",
+                "substantial progress towards a solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "simplistic use of mathematical knowledge relevant to the task",
+                "simplistic use of technology",
+                "progress towards a solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate use of mathematical knowledge or technology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluate",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "verified results",
+                "justified statements about the reasonableness of the solution by considering the\nassumptions",
+                "justified statements about the reasonableness of the solution by considering the\nobservations",
+                "justified statements of relevant strengths of the solution",
+                "justified statements of relevant limitations of the solution"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a verified result",
+                "statement about the reasonableness of the solution by considering an assumption or\nobservation",
+                "statement of a relevant strength or relevant limitation of the solution"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statement about the reasonableness of a result or the solution",
+                "statement of a strength or limitation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicate",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "correct use of appropriate mathematical language",
+                "logical organisation of the response, which can be read independently of the task sheet",
+                "justification of decisions using mathematical reasoning"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "use of some appropriate mathematical language",
+                "adequate organisation of the response",
+                "statement of a relevant decision"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Formulate",
+            "objectives": "1, 5",
+            "marks": 4
+          },
+          {
+            "criterion": "Solve",
+            "objectives": "1, 2, 6",
+            "marks": 7
+          },
+          {
+            "criterion": "Evaluate",
+            "objectives": "4, 5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicate",
+            "objectives": "3, 5",
+            "marks": 4
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Specialist Mathematics",
+      "technique": "Examination — short response (15%) ...................................... 39",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Foundational knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 87%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 73%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 67%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 47%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 27%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 13%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 7%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Foundational knowledge and problem-solving",
+            "objectives": "1, 2, 3, 4, 5, 6",
+            "marks": 15
+          }
+        ],
+        "total_marks": 15
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Specialist Mathematics",
+      "technique": "Examination — short response (15%) ...................................... 43",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Foundational knowledge and problem-solving",
+          "bands": [
+            {
+              "marks": "15",
+              "descriptors": [
+                "> 93%"
+              ]
+            },
+            {
+              "marks": "14",
+              "descriptors": [
+                "> 87%"
+              ]
+            },
+            {
+              "marks": "13",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "12",
+              "descriptors": [
+                "> 73%"
+              ]
+            },
+            {
+              "marks": "11",
+              "descriptors": [
+                "> 67%"
+              ]
+            },
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 53%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 47%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 33%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 27%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 13%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 7%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 0%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Foundational knowledge and problem-solving",
+            "objectives": "1, 2, 3, 4, 5, 6",
+            "marks": 15
+          }
+        ],
+        "total_marks": 15
+      }
+    }
+  ]
+}

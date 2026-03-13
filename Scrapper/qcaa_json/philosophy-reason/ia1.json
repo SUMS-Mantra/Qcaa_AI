@@ -1,0 +1,175 @@
+{
+  "assessment": "IA1",
+  "subject": "Philosophy & Reason",
+  "technique": "Examination — extended response (25%) .............................. 25",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Using and Explaining",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "astute understanding of meaning demonstrated through employing relevant terminology of\nmoral philosophy",
+            "sustained and accurate use of terminology of argumentation",
+            "comprehensive and accurate descriptions and explanations of concepts, methods,\nprinciples and theories relating to moral philosophy"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "substantial understanding of meaning demonstrated through employing relevant\nterminology of moral philosophy",
+            "sustained and accurate use of terminology of argumentation, with minor errors or omissions",
+            "comprehensive descriptions and explanations of concepts, methods, principles and\ntheories relating to moral philosophy that are accurate in most key aspects"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "basic understanding of meaning demonstrated through employing relevant terminology of\nmoral philosophy",
+            "some accurate use of terminology of argumentation",
+            "descriptions and explanations of concepts, methods, principles and theories relating to\nmoral philosophy are evident, but with inaccuracies or omissions"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "rudimentary understanding of meaning demonstrated through employing some terminology\nof moral philosophy",
+            "use of terminology of argumentation is limited",
+            "significant inaccuracies or omissions in descriptions and explanations of concepts,\nmethods, principles and theories relating to moral philosophy are evident throughout the\nresponse"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Interpreting and Analysing",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "perceptive interpretation of significant ideas and information relating to moral philosophy",
+            "precise and accurate deconstruction of relevant arguments relating to moral philosophy",
+            "insightful determination of relationships within or between ideas, arguments and/or theories\nrelevant to moral philosophy"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "informed interpretation of significant ideas and information relating to moral philosophy",
+            "accurate deconstruction of relevant arguments relating to moral philosophy",
+            "effective determination of relationships within or between ideas, arguments and/or theories\nrelevant to moral philosophy"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "interpretation of ideas and information relating to moral philosophy",
+            "deconstruction of relevant arguments relating to moral philosophy",
+            "identification of relationships within or between ideas, arguments and/or theories relevant to\nmoral philosophy"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "simplistic interpretation of ideas and information relating to moral philosophy",
+            "partial deconstruction of arguments relating to moral philosophy",
+            "minimal identification of relationships within or between ideas, arguments and/or theories\nrelevant to moral philosophy"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Organising, Synthesising and Evaluating",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "coherent and thorough synthesis of ideas and information relating to moral philosophy and\nthe ethical problem/dilemma in which all key aspects have been considered and resolved",
+            "insightful evaluation of claims, arguments, theories and views in moral philosophy using\ndiscerning criteria",
+            "constructs a sophisticated argument relating to moral philosophy"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "substantial synthesis of ideas and information relating to moral philosophy and the ethical\nproblem/dilemma in which most key aspects have been considered and resolved",
+            "considered evaluation of claims, arguments, theories and views in moral philosophy using\nappropriate criteria",
+            "constructs an effective argument relating to moral philosophy"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "partial synthesis of ideas and information relating to moral philosophy and the ethical\nproblem/dilemma in which some key aspects have been considered and resolved",
+            "evaluation of claims, arguments, theories and views in moral philosophy using criteria",
+            "constructs a feasible argument relating to moral philosophy"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "superficial synthesis of ideas and information relating to moral philosophy and the ethical\nproblem/dilemma",
+            "superficial evaluation of claims, arguments, theories and views relating to moral philosophy",
+            "provides a conclusion relating to moral philosophy with simplistic justification"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating and Communicating",
+      "bands": [
+        {
+          "marks": "3",
+          "descriptors": [
+            "conveys relevant ideas and arguments purposefully and fluently",
+            "consistently demonstrates features of the analytical essay genre",
+            "minimal errors in spelling, grammar and punctuation"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "conveys relevant ideas and arguments purposefully",
+            "generally demonstrates features of the analytical essay genre",
+            "some errors in spelling, grammar and/or punctuation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "conveys ideas and/or arguments",
+            "sporadically demonstrates features of the analytical essay genre",
+            "frequent errors in spelling, grammar and/or punctuation impede communication of ideas\nand arguments"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student work does not satisfy any of the descriptors above"
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {}
+}

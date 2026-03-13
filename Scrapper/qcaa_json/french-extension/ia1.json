@@ -1,0 +1,142 @@
+{
+  "assessment": "IA1",
+  "subject": "French Extension",
+  "technique": "Examination — combination response (20%) ......................... 20",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Analysing French texts",
+      "bands": [
+        {
+          "marks": "14-15",
+          "descriptors": [
+            "thorough comprehension of language elements, structures and/or textual conventions to\ndraw extensive detail from the stimulus texts and construct meaning in French related to\nthe chosen areas of study and questions posed",
+            "perceptive interpretation of how meaning, attitudes, perspectives and/or values underpin\ntexts related to the chosen areas of study and influence audiences",
+            "discerning analysis and evaluation of relevant information and ideas in French texts related\nto the chosen areas of study to draw well-constructed and valid conclusions with well-\nsubstantiated justification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "12-13",
+          "descriptors": [
+            "effective comprehension of language elements, structures and/or textual conventions to\ndraw extensive detail from the stimulus texts and construct meaning in French related to\nthe chosen areas of study and questions posed",
+            "effective interpretation of how meaning, attitudes, perspectives and/or values underpin\ntexts related to the chosen areas of study and influence audiences",
+            "effective analysis and evaluation of relevant information and ideas in French texts related\nto the chosen areas of study to draw well-constructed and valid conclusions with\njustification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "comprehension of language elements, structures and/or textual conventions to draw detail\nfrom the stimulus texts and construct meaning in simplified French related to the chosen\nareas of study and questions posed",
+            "considered interpretation of how meaning, attitudes, perspectives and/or values underpin\ntexts related to the chosen areas of study and influence audiences",
+            "analysis and evaluation of relevant information and ideas in French texts related to the\nchosen areas of study to draw considered conclusions with justification of points of view\nand arguments"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "comprehension of language elements, structures and/or textual conventions to identify\nobvious details in some of the stimulus texts and construct meaning related to the chosen\nareas of study and questions posed",
+            "identification of how meaning, attitudes, perspectives and/or values underpin texts related\nto the chosen areas of study and influence audiences",
+            "analysis or evaluation of information and ideas in French texts related to the chosen areas\nof study to draw conclusions with justification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "comprehension of language elements, structures and/or textual conventions to identify\nsome details in some of the stimulus texts related to the chosen areas of study and\nquestions posed",
+            "superficial identification of how meaning influences audiences",
+            "superficial analysis of some information and ideas in French texts to draw conclusions"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "comprehension of parts of the stimulus texts related to the chosen areas of study",
+            "partial identification of how meaning influences audiences",
+            "analysis of some information"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "fragmented identification of attitudes, perspectives and/or values in the stimulus texts",
+            "comprehension of some French"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "comprehension of some French"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating French texts",
+      "bands": [
+        {
+          "marks": "5",
+          "descriptors": [
+            "discerning application of language elements, structures and/or textual conventions to\ncreate meaning related to the chosen areas of study in an unrehearsed response",
+            "discerning integration of context, purpose, audience, tone and/or cultural conventions to\ncreate fluent texts"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "effective application of language elements, structures and/or textual conventions to create\nmeaning related to the chosen areas of study in an unrehearsed response",
+            "effective integration of context, purpose, audience, tone and/or cultural conventions to\ncreate generally fluent texts"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "considered application of language elements, structures and/or textual conventions to\ncreate meaning related to the chosen areas of study in an unrehearsed response",
+            "considered integration of context, purpose, audience, tone and/or cultural conventions to\ncreate texts with sufficient proficiency to convey meaning"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "application of language elements, structures or textual conventions to create fragmented\nmeaning related to the chosen areas of study",
+            "integration of context, purpose, audience or cultural conventions to create fragmented texts"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "application of some language elements to create a response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Analysing French texts",
+        "objectives": "1, 2, 3, 4, 5, 6",
+        "marks": 15
+      },
+      {
+        "criterion": "Creating French texts",
+        "objectives": "1, 5, 6",
+        "marks": 5
+      }
+    ],
+    "total_marks": 20
+  }
+}

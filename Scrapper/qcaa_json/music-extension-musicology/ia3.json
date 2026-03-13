@@ -1,0 +1,205 @@
+{
+  "assessment": "IA3",
+  "subject": "Music Extension (Musicology)",
+  "technique": "Musicology project (35%)............................................................ 26",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Analysing music",
+      "bands": [
+        {
+          "marks": "10",
+          "descriptors": [
+            "analysis of music elements and concepts and ideas about music is consistently accurate"
+          ]
+        },
+        {
+          "marks": "9",
+          "descriptors": [
+            "analysis of music identifies interconnections between music elements and concepts and\nideas about music"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "analysis of music elements and concepts and ideas about music\n- is detailed\n- shows specificity"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "analysis of pertinent music elements and concepts and ideas about music from sources"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "analysis of music elements and concepts and ideas about music from sources"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of music elements and features within sources"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Investigating music",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "investigation of ideas about music\n- determines the relationships between primary and secondary sources\n- supports the refinement of the chosen question, issue, design, challenge or hypothesis"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "investigation of ideas about music\n- from primary and secondary sources\n- supports the chosen question, issue, design, challenge or hypothesis"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "investigation of ideas about music\n- uses a range of sources\n- makes connection to the chosen question, issue, design, challenge or hypothesis"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "selection and description of sources"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of music source/s"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Synthesising information",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "synthesis of information is consolidated to enable new understandings or conclusions about\na music idea",
+            "consistent use of credible evidence to support the viewpoint"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "synthesis of information provides conclusions that are clear and logical",
+            "use of credible evidence to support the viewpoint"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "synthesis of information to justify viewpoint",
+            "use of relevant evidence to support the viewpoint"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "organisation of analytical information related to a hypothesis or a music viewpoint",
+            "use of evidence"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inclusion of analytical information"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Reflective statement",
+      "bands": [
+        {
+          "marks": "6",
+          "descriptors": [
+            "evaluation provides evidence of metacognition that informs independent best practice"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "application of literacy skills through sequenced and connected ideas, and referencing\nconventions",
+            "evaluation examines the logic of the two selected techniques and/or strategies"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "application of literacy skills using music terminology relevant to genre/style and language\nconventions to communicate ideas",
+            "evaluation of two techniques and/or strategies of best practice"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "application of literacy skills to identify techniques or strategies of best practice"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Analysing music",
+        "objectives": "1",
+        "marks": 10
+      },
+      {
+        "criterion": "Investigating music",
+        "objectives": "5",
+        "marks": 10
+      },
+      {
+        "criterion": "Synthesising information",
+        "objectives": "6",
+        "marks": 9
+      },
+      {
+        "criterion": "Reflective statement",
+        "objectives": "2, 3",
+        "marks": 6
+      }
+    ],
+    "total_marks": 35
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "subject": "career-education",
+  "units": [],
+  "assessments": [
+    {
+      "assessment": "IA1",
+      "subject": "Career Education",
+      "technique": "Presentation .................................................................................. 15",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Career Education",
+      "technique": "Investigation .................................................................................. 18",
+      "unit": "",
+      "conditions": {
+        "topic": "Topic 1: My current skills and attributes"
+      },
+      "criteria": [
+        {
+          "name": "Glossary _____________________________________________",
+          "marks": 21
+        },
+        {
+          "name": "References ___________________________________________",
+          "marks": 21
+        },
+        {
+          "name": "Version History________________________________________",
+          "marks": 21
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    }
+  ]
+}

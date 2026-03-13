@@ -1,0 +1,27 @@
+{
+  "assessment": "IA4",
+  "subject": "Essential Mathematics",
+  "technique": "Examination — short response .................................................. 35",
+  "unit": "from which schools develop their course of study.",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Glossary _____________________________________________",
+      "marks": 38
+    },
+    {
+      "name": "References ___________________________________________",
+      "marks": 38
+    },
+    {
+      "name": "Version History________________________________________",
+      "marks": 40
+    },
+    {
+      "name": "3",
+      "marks": 1
+    }
+  ],
+  "ismg": [],
+  "mark_allocation": {}
+}

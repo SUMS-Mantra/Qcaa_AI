@@ -1,0 +1,147 @@
+{
+  "assessment": "IA2",
+  "subject": "German Extension",
+  "technique": "Examination — extended response (25%) .............................. 24",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Analysing German texts",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "discerning analysis and evaluation of relevant information and ideas in German stimulus\ntexts related to the chosen areas of study",
+            "well-constructed and discerning conclusions",
+            "well-substantiated justification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective analysis and evaluation of relevant information and ideas in German stimulus texts\nrelated to the chosen areas of study",
+            "well-constructed and valid conclusions",
+            "effective justification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "considered analysis and evaluation of information and ideas in German stimulus texts\nrelated to the chosen areas of study",
+            "considered conclusions",
+            "considered justification of points of view and arguments"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "fragmented analysis and evaluation of information and ideas in German stimulus texts\nrelated to the chosen areas of study",
+            "some conclusions",
+            "fragmented justification of points of view"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "unrelated analysis of information and ideas in German stimulus texts",
+            "no justification of points of view"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Creating German texts",
+      "bands": [
+        {
+          "marks": "14-15",
+          "descriptors": [
+            "discerning application of language elements, structures and/or textual conventions to\ncreate meaning in proficient, complex German texts related to the chosen areas of study\nand question posed",
+            "discerning integration of context, purpose, audience, tone and/or cultural conventions to\ncreate fluent texts in German",
+            "discerning synthesis of relevant information to cohesively and coherently structure the\nresponse and develop ideas"
+          ]
+        },
+        {
+          "marks": "12-13",
+          "descriptors": [
+            "effective application of language elements, structures and/or textual conventions to create\nmeaning in mostly proficient and complex German texts related to the chosen areas of\nstudy and question posed",
+            "effective integration of context, purpose, audience, tone and/or cultural conventions to\ncreate generally fluent texts in German",
+            "effective synthesis of relevant information to cohesively and coherently structure the\nresponse and develop ideas"
+          ]
+        },
+        {
+          "marks": "10-11",
+          "descriptors": [
+            "considered application of language elements, structures and/or textual conventions to\ncreate meaning in mostly proficient or complex German texts related to the chosen areas of\nstudy and question posed",
+            "considered integration of context, purpose, audience, tone and/or cultural conventions to\ncreate generally fluent texts in German",
+            "considered synthesis of relevant information to structure the response and develop ideas"
+          ]
+        },
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "application of language elements, structures and/or textual conventions to create German\ntexts with sufficient proficiency to convey meaning related to the chosen areas of study and\nquestion posed",
+            "integration of context, purpose, audience, tone and/or cultural conventions to create texts in\nGerman",
+            "synthesis of some information to structure the response and/or develop ideas"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "application of some language elements, structures or textual conventions to create\nmeaning in German texts related to the chosen areas of study and question posed in which\nthe overall response can be understood",
+            "inconsistent integration of context, purpose, audience or cultural conventions to create texts\nin German",
+            "synthesis of some details to structure the response and/or develop ideas"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "application of some language elements, structures or textual conventions to create\nfragmented meaning in German texts related to the chosen areas of study",
+            "integration of some aspects of context, purpose, audience or cultural conventions to create\nfragmented texts in German",
+            "uneven synthesis of irrelevant details to structure the response and/or develop ideas"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "inaccurate application of language elements to create a response",
+            "isolated integration of context, purpose, audience or cultural conventions to create texts in\nGerman"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "incoherent response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Analysing German texts",
+        "objectives": "1, 2, 4, 5, 6",
+        "marks": 10
+      },
+      {
+        "criterion": "Creating German texts",
+        "objectives": "1, 2, 4, 5, 6",
+        "marks": 15
+      }
+    ],
+    "total_marks": 25
+  }
+}

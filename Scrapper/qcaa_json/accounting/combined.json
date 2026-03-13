@@ -1,0 +1,789 @@
+{
+  "subject": "Accounting",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Real-world accounting",
+      "subject": "Accounting",
+      "description": "In Unit 1, students consider real-world applications of accounting to develop an understanding of\nthe role, purpose and uses of accounting. Students are introduced to accounting concepts\nthrough the analysis of financial statements for companies. Double entry accounting principles\nare applied to record and process transactions for sole trader businesses. Computerised\naccounting processes are introduced using a computerised accounting package and/or\nspreadsheeting software to record and process transactions.\nUnit objectives\n1. Comprehend accounting concepts, principles and processes relating to accounting for\ntoday’s businesses.\n2. Synthesise accounting principles and processes relating to accounting for today’s\nbusinesses.\n3. Analyse and interpret financial data and information relating to accounting for today’s\nbusinesses.\n5. Create responses that communicate meaning to business owners and other stakeholders of\na sole trader business.\nAccounting 2025 v1.3 Units\n\nSubject matter\nTopic 1: Introduction to accounting\n Describe\n- accounting\n- where people invest their money\n- the following business entities: sole trader, partnership and company (private and public)\n- service vs. trading business activities\n- shareholder\n- elements of accounting, including assets, liabilities, owner’s/shareholders’ equity, revenue\nand expenses\n- the accounting equation\n- types of accounts for a sole trader business, including accounts receivable, accounts\npayable, inventories and Cost of Goods Sol…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Financial reporting",
+      "subject": "Accounting",
+      "description": "In Unit 2, students explore how accounting information is used to effectively manage the finances\nfor a sole trader business. Accrual accounting principles and processes are applied to prepare\nbalance day adjustments at the end of the financial period to determine profit or loss and net\nworth in the financial statements. Ratio analysis is used to inform potential investors and business\nowners about the business. The use of a computerised accounting package and spreadsheet\nsoftware provides students with an authentic application of processes. Students explore the\nimplementation of internal controls in the accounting process to secure inventories and effectively\nmanage credit accounts, and communicate their decisions and recommendations to internal\nusers.\nUnit objectives\n1. Comprehend accounting concepts, principles and processes relating to end-of-period\nreporting and analysis of a sole trader business.\n2. Synthesise accounting principles and processes relating to end-of-period reporting and\nanalysis of a sole trader business.\n3. Analyse and interpret financial data and information relating to end-of-period reporting and\nanalysis of a sole trader business.\n4. Evaluate practices of financial management relating to end-of-period reporting and analysis\nof a sole trader business to make decisions and propose recommendations.\n5. Create responses that communicate meaning to business owners and managers of a sole\ntrader business.\nAccounting 2025 v1.3 Units\n\nSubject matter\nTopic 1: En…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Managing resources",
+      "subject": "Accounting",
+      "description": "In Unit 3, students manage the resources of a sole trader business including cash, accounts\nreceivable, non-current assets and technology. Double entry and accrual accounting principles\nare applied to record non-current assets (purchase, depreciation and disposal) in the life of the\nbusiness. Cash budgets are produced using a spreadsheet (projecting the future) and financial\nstatements (reporting on past performance) are produced to report comprehensively on the\nfinancial management of a sole trader business. The use of spreadsheet software provides\nopportunity for the authentic application of spreadsheet features and spreadsheet functions in\naccounting contexts. Students explore how administrative and accounting controls can be used\neffectively to protect and maintain the resources of a business.\nUnit objectives\n1. Comprehend accounting concepts, principles and processes relating to managing cash and\nother resources for a sole trader business.\n2. Synthesise accounting principles and processes relating to managing cash and other\nresources for a sole trader business.\n3. Analyse and interpret financial data and information relating to managing cash and other\nresources for a sole trader business.\n4. Evaluate practices of financial management relating to managing cash and other resources\nfor a sole trader business to make decisions and propose recommendations.\n5. Create responses that communicate meaning to business owners of a sole trader business.\nAccounting 2025 v1.3 Units\n\nSu…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Accounting — the big picture .................................................................................. 23",
+      "subject": "Accounting",
+      "description": "Assessment __________________________________________ 29\nInternal assessment 1: Project — cash management (25%) ......................................... 29\nInternal assessment 2: Examination — combination response (25%) ......................... 33\nInternal assessment 3: Examination — combination response (25%) ......................... 39\nExternal assessment: Examination — combination response (25%) ........................... 44\nGlossary _____________________________________________ 45\nReferences ___________________________________________ 45\nVersion history________________________________________ 45\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-subjects and in the ‘Queens…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Accounting",
+      "technique": "Examination — combination response (25%) ........................... 44",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "topic": "1: Fully classified financial statement reporting and analysis for a sole"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Accounting",
+      "technique": "Project — cash management",
+      "unit": "",
+      "conditions": {
+        "topic": "1. Financial data and information for the real-life accounting context is presented as a goal-"
+      },
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 6
+        },
+        {
+          "name": "Evaluating",
+          "marks": 4
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Synthesising — Item 1",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective application of accounting principles and processes to complete a Bank\nreconciliation statement",
+                "effective application of accounting principles and processes to reconstruct relevant ledger\naccounts",
+                "effective application of accounting principles and processes to generate a fully classified\nStatement of Cash Flows"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of accounting principles and processes to complete a Bank reconciliation\nstatement",
+                "application of accounting principles and processes to reconstruct relevant ledger accounts",
+                "application of accounting principles and processes to generate a Statement of Cash Flows"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent application of accounting principles and processes to complete a Bank\nreconciliation statement",
+                "inconsistent application of accounting principles and processes to reconstruct relevant\nledger accounts",
+                "inappropriate or partial application of accounting principles and processes to generate a\nStatement of Cash Flows"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising — Item 2",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "identification of significant and relevant financial data and information to effectively\ncomplete a constant cash budget (as the original budget)",
+                "effective application of accounting principles and processes to achieve a goal through the\ngeneration of alternative cash budgets",
+                "preferred budget proposed that thoroughly solves the problem"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "identification of relevant financial data and information to complete a constant cash budget\n(as the original budget)",
+                "appropriate application of accounting principles and processes to achieve a goal through\nthe generation of alternative cash budgets",
+                "budget proposed that effectively solves the problem"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "identification of fundamental financial data and information to complete a constant cash\nbudget (as the original budget)",
+                "fundamental application of accounting principles and processes to achieve aspects of a\ngoal through the generation of alternative cash budgets",
+                "budget proposed that solves elements of the problem"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of narrow or inappropriate financial data and information to complete a\nconstant cash budget (as the original budget)",
+                "rudimentary application of accounting principles or processes through the generation of\nalternative cash budgets",
+                "budget proposed that is inappropriate or provides only a partial solution to the problem"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "examines financial data and information through the identification of significant and relevant\nrelationships",
+                "thorough interpretation of trends in the financial data and information",
+                "thorough and logical explanation of issues relating to cash management"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "examines financial data and information through the identification of relationships",
+                "interpretation of trends in the financial data and information",
+                "explanation of issues relating to cash management"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "examines financial data or information through the identification of superficial relationships",
+                "superficial interpretation of financial data or information",
+                "narrow or partial statements of issues"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "perceptive judgments for proposed alternatives or changes relating to cash management",
+                "thoroughly justified decisions for cash management relevant to the accounting context",
+                "convincing recommendations to solve the goal-oriented problem for cash management\npertinent to the accounting context"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "judgments for proposed alternatives or changes relating to cash management",
+                "decisions for cash management relevant to the accounting context",
+                "recommendations to solve the goal-oriented problem for cash management relevant to the\naccounting context"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "rudimentary or partial statements for a proposed alternative or change",
+                "inconsistent or partial decisions",
+                "inconsistent or partial recommendations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "succinct, with analysis, interpretation and evaluation that logically supports the preferred\nsolution to the goal-oriented problem",
+                "features of the report genre are consistently demonstrated",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "conveys analysis, interpretation and evaluation related to the goal",
+                "features of the report genre are demonstrated",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "conveys analysis, interpretation and evaluation related to aspects of the goal",
+                "features of the report genre are inconsistently demonstrated",
+                "frequent errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Synthesising — Item 1",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Synthesising — Item 2",
+            "objectives": "2",
+            "marks": 8
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 6
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 4
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "5",
+            "marks": 3
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Accounting",
+      "technique": "Examination — combination",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 6
+        },
+        {
+          "name": "Evaluating",
+          "marks": 4
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "identification of significant characteristics in the response",
+                "thorough understanding of accounting concepts, principles and/or processes",
+                "perceptive use of accounting terminology"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "identification of appropriate characteristics in the response",
+                "adequate understanding of accounting concepts, principles and/or processes",
+                "adequate use of accounting terminology"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of inappropriate characteristics in the response",
+                "vague or partial understanding of accounting concepts, principles and/or processes",
+                "inconsistent and/or narrow use of accounting terminology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising — Item 1",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective application of accounting principles and depreciation method to calculate the\npurchase of non-current assets and depreciation for part and full year periods",
+                "effective application of double entry to record and process transactions for the purchase\nand depreciation of non-current assets in the general ledger",
+                "effective application of accounting processes to report non-current assets in the Statement\nof Financial Position (extracts) for two consecutive financial years"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of accounting principles and depreciation method to calculate the purchase of\nnon-current assets and depreciation",
+                "application of double entry to record and process transactions for the purchase and\ndepreciation of non-current assets in the general ledger",
+                "application of accounting processes to report non-current assets in the Statement of\nFinancial Position (extracts) for two consecutive financial years"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent application of accounting principles and depreciation method to calculate the\npurchase of non-current assets and depreciation",
+                "inconsistent or partial application of double entry to record and process aspects of\ntransactions for the purchase and depreciation of non-current assets in the general ledger",
+                "inconsistent or partial application of accounting processes to report non-current assets in\nthe Statement of Financial Position (extracts)"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising — Item 2",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "effective application of accounting principles and depreciation method to calculate disposal\nof non-current assets, including historical cost, depreciation for a part year, accumulated\ndepreciation and gain or loss on disposal",
+                "effective application of double entry to record and process transactions for the disposal of a\nnon-current asset in the general ledger",
+                "effective application of accounting processes to report disposal data and information in the\nStatement of Profit or Loss (extract)"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "application of accounting principles and depreciation method to calculate disposal of non-\ncurrent assets",
+                "application of double entry to record and process transactions for the disposal of a non-\ncurrent asset in the general ledger",
+                "application of accounting processes to report disposal data and information in the\nStatement of Profit or Loss (extract)"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent application of accounting principles or depreciation method to calculate the\ndisposal of non-current assets",
+                "inconsistent or partial application of double entry to record and process aspects of\ntransactions for the disposal of a non-current asset in the general ledger",
+                "inconsistent or partial application of accounting processes to report the disposal in the\nStatement of Profit or Loss (extract)"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "examines financial data and information through the identification of significant and relevant\nrelationships",
+                "thorough interpretation of trends in the financial data and information",
+                "thorough and logical explanation of issues with the management of resources"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "examines financial data and information through the identification of relationships",
+                "interpretation of trends in the financial data and information",
+                "explanation of issues with the management of resources"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "examines financial data or information through the identification of superficial relationships",
+                "superficial interpretation of financial data or information",
+                "narrow or partial statements of issues"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "perceptive judgments for proposed changes to practices of financial management relating\nto managing resources",
+                "thoroughly justified decisions for managing resources relevant to the accounting context",
+                "convincing recommendations for managing resources relevant to the accounting context"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "judgments for proposed changes to practices of financial management relating to managing\nresources",
+                "decisions for managing resources relevant to the accounting context",
+                "recommendations for managing resources relevant to the accounting context"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "rudimentary or partial statements for proposed changes to practices of financial\nmanagement relating to managing resources",
+                "inconsistent or partial decisions for the accounting context",
+                "inconsistent or partial recommendations for the accounting context"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "succinct, with effective language choices to communicate analysis, interpretation and\nevaluation to the business owner",
+                "logical sequencing and organisation of ideas in a business report (extract)",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "appropriate language choices to communicate analysis, interpretation and evaluation to the\nbusiness owner",
+                "clear sequencing and organisation of ideas in a business report (extract)",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate language choices to communicate business data, information or advice",
+                "unclear or fragmented sequencing of ideas in a business report (extract)",
+                "frequent errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 5
+          },
+          {
+            "criterion": "Synthesising — Item 1",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Synthesising — Item 2",
+            "objectives": "2",
+            "marks": 3
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 6
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 4
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "5",
+            "marks": 3
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Accounting",
+      "technique": "Examination — combination",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Synthesising",
+          "marks": 7
+        },
+        {
+          "name": "Analysing",
+          "marks": 6
+        },
+        {
+          "name": "Evaluating",
+          "marks": 4
+        },
+        {
+          "name": "Communicating",
+          "marks": 0
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "identification of significant characteristics in the response",
+                "thorough understanding of accounting concepts, principles and/or processes",
+                "perceptive use of accounting terminology"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "identification of appropriate characteristics in the response",
+                "adequate understanding of accounting concepts, principles and/or processes",
+                "adequate use of accounting terminology"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of inappropriate characteristics in the response",
+                "vague or partial understanding of accounting concepts, principles and/or processes",
+                "inconsistent and/or narrow use of accounting terminology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Synthesising",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "effective application of significant and relevant accounting principles and processes to\nidentify and correct the 5 conceptual errors relating to fully classified financial statement\nreporting for a sole trader business",
+                "effective application of accounting principles and processes to accurately generate the\nStatement of Profit or Loss and Statement of Financial Position",
+                "results from the financial statements effectively used to thoroughly solve the goal-oriented\nproblem"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "appropriate application of relevant accounting principles and processes to identify and\ncorrect 3–4 conceptual errors relating to fully classified financial statement reporting for a\nsole trader business",
+                "appropriate application of accounting principles and processes to generate the Statement\nof Profit or Loss and Statement of Financial Position",
+                "solution produced that effectively solves the goal-oriented problem"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "fundamental application of accounting principles and processes to identify and correct 1–2\nconceptual errors relating to fully classified financial statement reporting for a sole trader\nbusiness",
+                "application of fundamental accounting principles and processes to generate the Statement\nof Profit or Loss and Statement of Financial Position",
+                "solution produced that solves elements of the goal-oriented problem"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inconsistent application of accounting principles and processes to identify minimal\nconceptual errors",
+                "rudimentary application of accounting principles and processes to complete aspects of the\nStatement of Profit or Loss and Statement of Financial Position",
+                "inappropriate or partial solution produced"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "examines financial data and information through the identification of significant and relevant\nrelationships",
+                "thorough interpretation of trends in the financial data and information",
+                "thorough and logical explanation of issues for one area of performance"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "examines financial data and information through the identification of relationships",
+                "interpretation of trends in the financial data and information",
+                "explanation of issues for one area of performance"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "examines financial data or information through the identification of superficial relationships",
+                "superficial interpretation of financial data or information",
+                "narrow or partial statements about the issues"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "perceptive judgments for proposed changes to practices of financial management relating\nto one area of performance",
+                "thoroughly justified decisions for the area of performance relevant to the accounting context",
+                "convincing recommendations for the area of performance relevant to the accounting\ncontext"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "judgments for proposed changes to practices of financial management relating to one area\nof performance",
+                "decisions for the area of performance relevant to the accounting context",
+                "recommendations for the area of performance suitable for the accounting context"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "rudimentary or partial judgments for proposed changes to practices of financial\nmanagement relating to one area of performance",
+                "inconsistent or partial decisions for the accounting context",
+                "inconsistent or partial recommendations for the accounting context"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "3",
+              "descriptors": [
+                "succinct, with effective language choices to communicate analysis, interpretation and\nevaluation to the business owner",
+                "logical sequencing and organisation of ideas in a business report (extract)",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "appropriate language choices to communicate analysis, interpretation and evaluation to the\nbusiness owner",
+                "clear sequencing and organisation of ideas in a business report (extract)",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate language choices to communicate business data, information or advice",
+                "unclear or fragmented sequencing of ideas in a business report (extract)",
+                "frequent errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 5
+          },
+          {
+            "criterion": "Synthesising",
+            "objectives": "2",
+            "marks": 7
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 6
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 4
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "5",
+            "marks": 3
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "subject": "Legal Studies",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Beyond reasonable doubt",
+      "subject": "Legal Studies",
+      "description": "In Unit 1, students are introduced to the Australian legal system, the sources of law, and the roles\nof parliament and the courts. The unit focuses on legal principles and criteria, for example just\nand equitable outcomes. Students will consider how criminal law attempts to safeguard\nindividuals’ right to freedom from interference, with society’s need for order. They examine the\nconsequences of alleged criminal behaviour in terms of trial processes, punishment and\nsentences.\nWhere appropriate and possible, current contexts based on relevant and contemporary issues\nare used in this unit. Examples of issues include acts causing injury or death; property offences\n(for example, extortion and theft), wilful damage (for example, graffiti and arson), and\nenvironmental pollution; cybercrime; business, credit card and social security fraud and\ndeception; drug and public order offences; and traffic and vehicle regulatory offences.\nUnit objectives\n1. Comprehend legal concepts, principles and processes of the Australian and Queensland\nlegal systems, with a focus on criminal law.\n2. Select legal information from sources relevant to the Australian and/or Queensland criminal\njustice systems.\n3. Analyse legal issues involving the Australian and/or Queensland criminal justice systems.\n4. Evaluate legal situations relevant to the Australian and/or Queensland criminal justice\nsystems.\n5. Create responses that communicate meaning to suit the intended purpose.\nLegal Studies 2025 v1.3 Units\n\nSubje…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Balance of probabilities",
+      "subject": "Legal Studies",
+      "description": "In Unit 2, students consider legal concepts, principles and processes within the Australian and\nQueensland civil justice systems. They develop an understanding that civil law regulates the\nrights and responsibilities that exist between individuals, groups, organisations and governments.\nThey explore dispute resolution methods, including judicial determination and alternatives in and\nout of courts. Through a consideration of contemporary cases and legal issues, students evaluate\nthe effectiveness of civil law and how it affects individuals within society.\nUnit objectives\n1. Comprehend legal concepts, principles and processes of the Australian and Queensland civil\njustice systems, and in legal interactions that are planned (contract) and unplanned (the\nconcept of negligence).\n2. Select legal information from sources relevant to the Australian and/or Queensland civil\njustice systems.\n3. Analyse legal issues involving the Australian and/or Queensland civil justice systems.\n4. Evaluate legal situations relevant to the Australian and/or Queensland civil justice systems.\n5. Create responses that communicate meaning to suit the intended purpose.\nLegal Studies 2025 v1.3 Units\n\nSubject matter\nTopic 1: Civil law foundations\nIn Topic 1, students gain insight into the foundations of the Australian and Queensland legal\nsystems in the context of civil law. They consider the importance of civil law in their lives and\ndistinguish between civil and criminal law matters. Students will appreciat…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Law, governance and change",
+      "subject": "Legal Studies",
+      "description": "In Unit 3, students examine the complexities of the Australian legal system and its capacity to\ndeal with the diversity of competing needs. They explore the role of legal institutions and law-\nmaking bodies in creating laws that reflect the views of society. Students consider the range of\nforces that create catalysts for change and reform, and how laws are changed or reformed to\nreflect shifting societal demands. This unit encourages and informs critical thinking about\nAustralian and Queensland laws, and the importance of society and individuals engaging in law-\nmaking processes.\nStudents will study law, governance and change through relevant contemporary issues involving\nmatters of governance and law reform. Examples of issues could arise from a range of areas, for\nexample, family law, technology law, criminal law, counter-terrorism laws, employment law, and\ncorporate law.\nUnit objectives\n1. Comprehend legal concepts, principles and processes of Australian and Queensland\ngovernance and law reform.\n2. Select legal information from sources relevant to law reform issues.\n3. Analyse legal issues involving Australian and/or Queensland governance and law reform.\n4. Evaluate legal situations relevant to Australian and/or Queensland governance and law\nreform.\n5. Create responses that communicate meaning to suit the intended purpose.\nLegal Studies 2025 v1.3 Units\n\nSubject matter\nTopic 1: Governance in Australia\nIn Topic 1, students consider the processes and roles of government in sh…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Human rights in legal contexts................................................................................ 24",
+      "subject": "Legal Studies",
+      "description": "Assessment __________________________________________ 28\nInternal assessment 1: Examination — combination response (25%) ......................... 28\nInternal assessment 2: Investigation — inquiry report (25%)......................................... 32\nInternal assessment 3: Investigation — analytical essay (25%) .................................... 37\nExternal assessment: Examination — combination response (25%) ........................... 42\nGlossary _____________________________________________ 43\nReferences ___________________________________________ 43\nVersion history________________________________________ 43\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-subjects and i…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Legal Studies",
+      "technique": "Examination — combination response (25%) ........................... 42",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "topic": "1: Legal foundations"
+      },
+      "criteria": [
+        {
+          "name": "Punishment",
+          "marks": 1984
+        }
+      ],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Legal Studies",
+      "technique": "Examination — combination",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 8
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "accurate and detailed description of the essential features of Australian and Queensland\ngovernance",
+                "thorough explanation of legal concepts, principles and processes of Australian and\nQueensland governance",
+                "precise use of legal terminology"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "effective description of the essential features of Australian and Queensland governance",
+                "effective explanation of legal concepts, principles and processes of Australian and\nQueensland governance",
+                "effective use of legal terminology"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "adequate description of the features of Australian and Queensland governance",
+                "adequate explanation of legal concepts, principles and processes of Australian and\nQueensland governance",
+                "satisfactory use of legal terminology"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "partial identification of features of Australian and Queensland governance",
+                "partial description of legal concepts, principles or processes of Australian and/or\nQueensland governance",
+                "narrow use of legal terminology"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of aspects of governance",
+                "identification of aspects of concepts, principles or processes of governance",
+                "inconsistent use of legal terminology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "perceptive application of legal concepts, principles and/or processes to determine the\nnature and scope of a legal issue involving Australian and/or Queensland governance",
+                "interpretation of legal information to perceptively examine different relevant viewpoints and\ntheir consequences related to the legal issue",
+                "discerning use of evidence from the stimulus to support the analysis"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "effective application of legal concepts, principles and/or processes to determine the nature\nand scope of a legal issue involving Australian and/or Queensland governance",
+                "interpretation of legal information to effectively examine different relevant viewpoints and\ntheir consequences related to the legal issue",
+                "effective use of evidence from the stimulus to support the analysis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "adequate application of some legal concepts, principles and/or processes to determine the\nnature and scope of a legal issue involving Australian and/or Queensland governance",
+                "interpretation of legal information to adequately examine different viewpoints and their\nconsequences related to the legal issue",
+                "sufficient use of evidence in the analysis"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "description of aspects of the nature and/or scope of the issue",
+                "identification of superficial viewpoint/s",
+                "minimal use of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "insightful legal alternatives presented from the analysis leading to an informed\nrecommendation",
+                "justification of the recommendation through the discerning use of legal criteria",
+                "discussion of considered implications of the recommendation"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective legal alternatives presented from the analysis leading to an effective\nrecommendation",
+                "justification of the recommendation through the effective use of legal criteria",
+                "discussion of relevant implications of the recommendation"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "alternative/s presented and/or recommendation",
+                "some justification of the recommendation",
+                "identification of implication/s of the alternative/s or recommendation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "alternative/s and/or a recommendation OR narrow discussion of the legal situation based\non personal opinions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 10
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 8
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 7
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Legal Studies",
+      "technique": "Investigation — inquiry",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 6
+        },
+        {
+          "name": "Evaluating",
+          "marks": 6
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "comprehensive description of the relevant features of the Australian and/or Queensland law\nreform issue being investigated",
+                "perceptive explanation of relevant legal concepts, principles and/or processes of the\nAustralian and/or Queensland law reform issue being investigated",
+                "precise use of legal terminology"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "effective description of the relevant features of the Australian and/or Queensland law\nreform issue being investigated",
+                "effective explanation of relevant legal concepts, principles and/or processes of the\nAustralian and/or Queensland law reform issue being investigated",
+                "satisfactory use of legal terminology"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of some relevant legal concepts, principles or processes of the Australian\nand/or Queensland law reform issue being investigated"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Selecting",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "discerning choice of current and relevant legal information from primary and/or secondary\nsources relevant to the Australian and/or Queensland law reform issue being investigated",
+                "perceptive use of legal information",
+                "consistent and accurate documentation of legal information in the form of a reference list\nand citations"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "satisfactory choice of current and/or relevant legal information from primary and/or\nsecondary sources relevant to the Australian and/or Queensland law reform issue being\ninvestigated",
+                "satisfactory use of legal information",
+                "satisfactory documentation of legal information in the form of a reference list and/or\ncitations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "narrow choice of primary and/or secondary sources relevant to Australian and/or\nQueensland law reform",
+                "some use of legal information",
+                "narrow documentation of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "perceptive application of relevant legal concepts, principles and/or processes, to determine\nthe nature and scope of the law reform issue that involves Australian and/or Queensland\nlegislation being investigated",
+                "interpretation of legal information to perceptively examine different relevant viewpoints and\ntheir consequences",
+                "discerning use of evidence to support the analysis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective application of relevant legal concepts, principles and/or processes, to determine\nthe nature and scope of the law reform issue that involves Australian and/or Queensland\nlegislation being investigated",
+                "interpretation of legal information to effectively examine different relevant viewpoints and\ntheir consequences",
+                "satisfactory use of evidence within the analysis"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "superficial description of legal concepts, principles and/or processes, that link to the law\nreform issue that involves Australian and/or Queensland legislation being investigated",
+                "description or identification of different viewpoints",
+                "narrow use of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "perceptive legal alternatives presented from the analysis leading to an informed\nrecommendation",
+                "synthesis of information to justify the recommendation through the discerning use of legal\ncriteria",
+                "discussion of considered implications of the recommendation"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective legal alternatives presented from the analysis leading to an effective\nrecommendation",
+                "synthesis of information to justify the recommendation through the effective use of legal\ncriteria",
+                "discussion of relevant implication/s of the recommendation"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "alternative/s presented and/or recommendation made",
+                "some justification of the recommendation",
+                "identification of implication/s of the alternative/s or recommendation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Creating a response",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "concise expression and logical development of relevant ideas that enhance legal meaning",
+                "features of a report genre are consistently demonstrated",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "adequate expression and development of ideas that convey legal meaning",
+                "features of a report genre are demonstrated",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "some elements of report formatting and/or inconsistent use of language conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 5
+          },
+          {
+            "criterion": "Selecting",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 6
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 6
+          },
+          {
+            "criterion": "Creating a response",
+            "objectives": "5",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Legal Studies",
+      "technique": "Investigation — analytical",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 6
+        },
+        {
+          "name": "Evaluating",
+          "marks": 6
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "comprehensive description of the essential legal features of the contemporary international\nhuman rights issue being investigated",
+                "perceptive explanation of relevant legal concepts, principles and/or processes of Australia’s\nlegal response to the contemporary international human rights issue",
+                "precise use of relevant legal terminology"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "effective description of the legal features of the contemporary international human rights\nissue being investigated",
+                "effective explanation of relevant legal concepts, principles and/or processes of Australia’s\nlegal response to the contemporary international human rights issue",
+                "satisfactory use of relevant legal terminology"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "identification of some concepts, principles or processes of Australia’s response to a\ncontemporary international human rights issue"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Selecting",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "discerning choice of current and relevant legal information from primary and/or secondary\nsources relevant to the contemporary international human rights issue being investigated,\nand Australia’s legal response to it",
+                "perceptive use of legal information",
+                "consistent and accurate documentation of legal information in the form of a reference list\nand citations"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "satisfactory choice of current or relevant legal information from primary and/or secondary\nsources relevant to the contemporary international human rights issue being investigated\nand Australia’s legal response to it",
+                "satisfactory use of legal information",
+                "satisfactory documentation of legal information in the form of a reference list and/or\ncitations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "narrow choice of legal information from primary and/or secondary sources relevant to the\ncontemporary international human rights issue being investigated and/or Australia’s\nresponse to it",
+                "some use of legal information",
+                "narrow documentation of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "perceptive application of relevant legal concepts, principles and/or processes to determine\nthe nature and scope of the contemporary international human rights issue and Australia’s\nlegal response to it",
+                "interpretation of legal information to perceptively examine different relevant viewpoints and\ntheir consequences",
+                "discerning use of evidence to support the analysis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective application of relevant legal concepts, principles and/or processes to determine\nthe nature and scope of the contemporary international human rights issue and Australia’s\nlegal response to it",
+                "interpretation of legal information to effectively examine different relevant viewpoints and\ntheir consequences",
+                "satisfactory use of evidence within the analysis"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "superficial description of legal concepts, principles and/or processes that link to the nature\nand/or scope of an international human rights issue and/or Australia’s legal response to it",
+                "description or identification of superficial viewpoints",
+                "narrow use of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "perceptive legal alternatives presented from the analysis leading to an informed\nrecommendation",
+                "synthesis of information to justify the recommendation through the discerning use of legal\ncriteria",
+                "discussion of considered implications of the recommendation"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "effective legal alternatives presented from the analysis leading to an effective\nrecommendation",
+                "synthesis of information to justify the recommendation through the effective use of legal\ncriteria",
+                "discussion of relevant implications of the recommendation"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "alternative/s presented and/or recommendation made",
+                "some justification of the recommendation",
+                "identification of implication/s of the alternative/s or recommendation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Creating a response",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "concise expression and logical development of relevant ideas that enhance legal meaning",
+                "features of an analytical essay genre are consistently demonstrated",
+                "minimal errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "adequate expression and development of ideas that convey legal meaning",
+                "features of an analytical essay genre are demonstrated",
+                "some errors in spelling, grammar and punctuation"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "some elements of essay formatting and inconsistent use of language conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 5
+          },
+          {
+            "criterion": "Selecting",
+            "objectives": "2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 6
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "4",
+            "marks": 6
+          },
+          {
+            "criterion": "Creating a response",
+            "objectives": "5",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

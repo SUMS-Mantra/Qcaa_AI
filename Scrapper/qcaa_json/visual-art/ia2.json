@@ -1,0 +1,182 @@
+{
+  "assessment": "IA2",
+  "subject": "Visual Art",
+  "technique": "Project — inquiry phase 2 (25%) ............................................... 51",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Developing — generating solutions",
+      "bands": [
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "implementation of ideas and representations that enhance reading and engagement for\naudience",
+            "creation of visual response/s through\n- refinement or mastery of selected methods\n- approaches with media that establish an individualised art practice"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "implementation of ideas and representations that demonstrate choices to extend the inquiry",
+            "creation of visual response/s through\n- selection and manipulation of media\n- creative solutions to defined problems"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "implementation of ideas and representations that communicate concept, context/s, the\ninquiry question and focus",
+            "creation of visual response/s using knowledge and understanding of media that\ncomplements the chosen focus"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "implementation of ideas that use visual language relevant to the focus",
+            "creation of visual response/s using media"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Researching — reacting to stimulus",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "analysis and interpretation of artworks of self and others that demonstrates how the\nspecified context/s impacts individualised pathways",
+            "experimentation using insights gained through research to extend inquiry and art practice"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "analysis and interpretation of visual language, expression and meanings in artworks that\nexplore student-directed focus through specified context/s",
+            "experimentation with media and ideas relevant to the focus and in response to the inquiry"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "interpretation of features and meaning in artwork of self or others",
+            "experimentation with media or ideas"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Reflecting — considering ideas and information",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "evaluation of interrelationships of visual language and influences that demonstrate\npurposeful problem-solving and considered choices",
+            "justification of intended outcomes in artworks, supported by critical understanding of\nstrengths, implications and limitations of the visual inquiry"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "evaluation of influences that impact on decisions and communication with audiences",
+            "justification of viewpoints and selection of visual language and expression"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "identification of artworks and approaches to state an opinion"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Resolving — communicating as artist and audience",
+      "bands": [
+        {
+          "marks": "8-9",
+          "descriptors": [
+            "realisation of artwork/s through synthesis of knowledge, focus and context/s that enhance\nmeaning and audience engagement"
+          ]
+        },
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "application of literacy skills in authentic artist's statement/s that enable audiences to\nconstruct personal meaning and interpretations",
+            "realisation of artwork/s that reach end points and express intended meaning"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "application of literacy skills in artist’s statement/s that make connections between the focus,\ninquiry and artwork/s using relevant visual art terminology and language conventions",
+            "realisation of artwork/s that communicate artistic purpose and acquired knowledge"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "application of literacy skills to describe focus",
+            "presentation of a visual response that communicates ideas"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "use of terminology to identify artworks",
+            "presentation of a visual response"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Developing — generating solutions",
+        "objectives": "1, 7",
+        "marks": 6
+      },
+      {
+        "criterion": "Researching — reacting to stimulus",
+        "objectives": "3, 6",
+        "marks": 5
+      },
+      {
+        "criterion": "Reflecting — considering ideas and information",
+        "objectives": "4, 5",
+        "marks": 5
+      },
+      {
+        "criterion": "Resolving — communicating as artist and audience",
+        "objectives": "2, 8",
+        "marks": 9
+      }
+    ],
+    "total_marks": 25
+  }
+}

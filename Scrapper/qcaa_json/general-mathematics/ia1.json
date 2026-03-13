@@ -1,0 +1,166 @@
+{
+  "assessment": "IA1",
+  "subject": "General Mathematics",
+  "technique": "Problem-solving and modelling task (20%).............................. 31",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Formulate",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "justified statements of important assumptions",
+            "justified statements of important observations",
+            "justified mathematical translation of important aspects of the task"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "statement of a relevant assumption",
+            "statement of a relevant observation",
+            "mathematical translation of an aspect of the task"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Solve",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "accurate use of mathematical knowledge for important aspects of the task",
+            "efficient use of technology",
+            "a complete solution"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "use of mathematical knowledge for an important aspect of the task",
+            "use of technology",
+            "substantial progress towards a solution"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "simplistic use of mathematical knowledge relevant to the task",
+            "simplistic use of technology",
+            "progress towards a solution"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "inappropriate use of mathematical knowledge or technology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluate",
+      "bands": [
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "verified results",
+            "justified statements about the reasonableness of the solution by considering the\nassumptions",
+            "justified statements about the reasonableness of the solution by considering the\nobservations",
+            "justified statements of relevant strengths of the solution",
+            "justified statements of relevant limitations of the solution"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "a verified result",
+            "statement about the reasonableness of the solution by considering an assumption or\nobservation",
+            "statement of a relevant strength or relevant limitation of the solution"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "statement about the reasonableness of a result or the solution",
+            "statement of a strength or limitation"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Communicate",
+      "bands": [
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "correct use of appropriate mathematical language",
+            "logical organisation of the response, which can be read independently of the task sheet",
+            "justification of decisions using mathematical reasoning"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "use of some appropriate mathematical language",
+            "adequate organisation of the response",
+            "statement of a relevant decision"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Formulate",
+        "objectives": "1, 5",
+        "marks": 4
+      },
+      {
+        "criterion": "Solve",
+        "objectives": "1, 2, 6",
+        "marks": 7
+      },
+      {
+        "criterion": "Evaluate",
+        "objectives": "4, 5",
+        "marks": 5
+      },
+      {
+        "criterion": "Communicate",
+        "objectives": "3, 5",
+        "marks": 4
+      }
+    ],
+    "total_marks": 20
+  }
+}

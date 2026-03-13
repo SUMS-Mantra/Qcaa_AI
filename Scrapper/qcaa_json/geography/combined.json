@@ -1,0 +1,657 @@
+{
+  "subject": "Geography",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Responding to risk and vulnerability in",
+      "subject": "Geography",
+      "description": "hazard zones\nIn Unit 1, students develop an understanding of how natural and ecological hazards represent\npotential sources of harm to human life, health, income and property, and how such hazards may\naffect elements of the built and natural environments.\nThrough two case studies, students investigate the risk/s posed by specific hazards in recognised\nhazard zones, analyse the vulnerability of local communities and identify ways to respond.\nStudents propose action to eliminate or minimise harm to people and the environment in\necological hazard zones.\nThe use of technologies (including spatial technology) is an integral part of learning for this unit\nand allows students to develop a range of transferable skills necessary to research, manipulate\nand represent data.\nThe learning for this unit consists of two separate and interrelated topics. Each is of equal\nimportance in providing students with the required knowledge and skills to demonstrate\nunderstanding of the unit objectives.\nUnit objectives\n1. Explain geographical processes and biophysical and anthropogenic interactions that result in\nhazard zones.\n2. Comprehend geographic patterns by recognising spatial patterns of hazard zones at global,\nregional and local scales, identifying relationships and implications for people and places in\nthese zones.\n3. Analyse threat and/or vulnerability data and information to infer how patterns, trends and\nrelationships represent geographical challenges for people and environments in hazard\n…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Planning sustainable places",
+      "subject": "Geography",
+      "description": "In Unit 2, students develop an understanding of the challenges of sustainable development for\nremote, rural and urban places in Australia and a megacity in the developing world. Students\ninvestigate the geographical processes and interactions over time and space that have resulted in\nchallenges for places in Australia and megacities in developing countries. Students propose\naction to improve the liveability for a place in Australia and a megacity.\nIt is recommended that students undertake fieldwork in this unit for Topic 1: Responding to\nchallenges facing a place in Australia. Fieldwork plays a central role in developing geographical\nskills and understanding. Through experiential learning, students develop the skills necessary to\ncollect, manipulate and explain the meaning of data for a familiar place. Through this field study,\nstudents understand that every place, including their own, is faced with the challenge of planning\nfor a more liveable future.\nThe learning for this unit consists of two separate and interrelated topics. Each is of equal\nimportance in providing students with the required knowledge and skills to demonstrate\nunderstanding of the unit objectives.\nUnit objectives\n1. Explain geographical processes and physical and anthropogenic interactions that result in\nplaces with distinct characteristics (remote, rural, urban, megacity).\n2. Comprehend geographic patterns by recognising spatial patterns and indicators of human\nwellbeing for a megacity, and places in Aust…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Responding to land cover transformations",
+      "subject": "Geography",
+      "description": "In Unit 3, students develop an understanding of changes to the biophysical environment over\ntime, with a particular focus on land cover transformation and climate change. Through a case\nstudy and fieldwork, students investigate the geographical processes, natural and anthropogenic,\nthat have resulted in change to Earth’s land cover and climate change and the resulting impacts\nand challenges posed at global, regional and local scales. Students propose action in response to\na land management or water management challenge for a fieldwork location.\nFieldwork plays a central role in Topic 2 of this unit. Through experiential learning, students apply\na range of geographic skills to collect, manipulate and explain the meaning of data. Through this\nfield study, students understand that managing land cover change at the local level is required for\nresilient and sustainable futures.\nThe learning for this unit consists of two separate and interrelated topics. Each is of equal\nimportance in providing students with the required knowledge and skills to demonstrate\nunderstanding of the unit objectives.\nUnit objectives\n1. Explain geographical processes and biophysical and anthropogenic interactions that result in\nland cover change, and a changing climate.\n2. Comprehend geographic patterns by recognising spatial patterns of land cover change and\nindications of climate change identifying relationships and implications for people and places.\n3. Analyse climate and land cover data and informatio…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Managing population change .................................................................................. 26",
+      "subject": "Geography",
+      "description": "Assessment __________________________________________ 30\nInternal assessment 1: Examination — combination response (25%) ......................... 30\nInternal assessment 2: Field report (25%) ........................................................................ 34\nInternal assessment 3: Data report (25%)......................................................................... 39\nExternal assessment: Examination — combination response (25%) ........................... 44\nGlossary _____________________________________________ 46\nReferences ___________________________________________ 46\nVersion history________________________________________ 47\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Geography",
+      "technique": "Examination — combination response (25%) ........................... 44",
+      "unit": "1 and Unit 2",
+      "conditions": {
+        "topic": "2. A minimum of five hours must be spent in the field for this specified field study. It is"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Geography",
+      "technique": "Examination — combination",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Explaining",
+          "marks": 5
+        },
+        {
+          "name": "Communicating",
+          "marks": 7
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Explaining",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "detailed explanations of interactions between biophysical and anthropogenic processes\nthat result in land cover change",
+                "detailed explanations of interactions between biophysical and anthropogenic processes\nthat result in climate change",
+                "explanations of complex relationships between land cover change and climate change"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "simple explanations of interactions between biophysical and anthropogenic process that\nresult in land cover change",
+                "simple explanations of interactions between biophysical and anthropogenic process that\nresult in climate change",
+                "explanations of simple relationships between land cover change and climate change"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear explanation of interactions between biophysical and anthropogenic processes that\nresult in land cover change",
+                "unclear explanation of interactions between biophysical and anthropogenic processes that\nresult in climate change",
+                "vague explanation of relationships between land cover change and climate change"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "recognition of comprehensive spatial patterns of land cover change",
+                "recognition of critical indications of climate change",
+                "identification of significant relationships and implications for people and/or places"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "recognition of simple spatial patterns of land cover change",
+                "recognition of fundamental indications of climate change",
+                "identification of rudimentary relationships and implications for people and/or places"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "vague recognition of spatial patterns of land cover change",
+                "vague recognition of indications of climate change",
+                "identification of irrelevant relationships and/or implications for people and/or places"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing and Applying",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "astute interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+                "discerning use of data and information",
+                "sophisticated generalisations about the impacts of the geographical challenge on\nbiophysical and anthropogenic environments"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "logical interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+                "considered use of data and information",
+                "reasoned generalisations about the impacts of the geographical challenge on biophysical\nand anthropogenic environments"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "simple interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+                "appropriate use of data and information",
+                "fundamental generalisations about the impacts of the geographical challenge on\nbiophysical and anthropogenic environments"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "vague interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge",
+                "minimal use of data and information",
+                "narrow generalisations about the impacts of the geographical challenge on biophysical and\nanthropogenic environments"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "consistently uses appropriate forms of geographical communication",
+                "accomplished use of geographical terminology",
+                "adept use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "uses appropriate forms of geographical communication",
+                "considered use of geographical terminology",
+                "purposeful use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "uses relevant forms of geographical communication",
+                "appropriate use of geographical terminology",
+                "sufficient use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "uses inappropriate forms of geographical communication",
+                "inconsistent use of geographical terminology",
+                "fragmented use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Explaining",
+            "objectives": "1",
+            "marks": 5
+          },
+          {
+            "criterion": "Comprehending",
+            "objectives": "2",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing and Applying",
+            "objectives": "3, 4",
+            "marks": 8
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "6",
+            "marks": 7
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Geography",
+      "technique": "Field report (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Communicating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Explaining and Comprehending",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "detailed explanation of biophysical and anthropogenic processes and interactions that\nresult in land cover change for the fieldwork location",
+                "recognition of comprehensive spatial patterns of land cover change for the fieldwork\nlocation",
+                "recognition of significant relationships and implications for people and places"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate explanation of biophysical and anthropogenic processes and interactions that\nresult in land cover change for the fieldwork location",
+                "recognition of simple spatial patterns of land cover change for the fieldwork location",
+                "recognition of rudimentary relationships and implications for people and places"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear explanation of biophysical and anthropogenic processes and interactions that result\nin land cover change for the fieldwork location",
+                "vague recognition of spatial patterns of land cover change for the fieldwork location",
+                "recognition of irrelevant relationships and implications for people and places"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing and Applying",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "astute interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+                "discerning use of fieldwork data and information",
+                "sophisticated generalisations about the impacts of the geographical challenge at the\nfieldwork location"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "effective interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+                "considered use of fieldwork data and information",
+                "reasoned generalisations about the impacts of the geographical challenge at the fieldwork\nlocation"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "simple interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+                "appropriate use of fieldwork data and information",
+                "fundamental generalisations about the impacts of the geographical challenge at the\nfieldwork location"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "superficial interpretations and inferences that identify how patterns, trends and\nrelationships represent a geographical challenge arising from land cover change at the\nfieldwork location",
+                "narrow use of fieldwork data and information",
+                "cursory generalisations about the impacts of the geographical challenge at the fieldwork\nlocation"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "vague interpretations and inferences about how patterns, trends and relationships\nrepresent a geographical challenge arising from land cover change at the fieldwork location",
+                "fragmented use of fieldwork data and information",
+                "narrow generalisations about the impacts of the geographical challenge at the fieldwork\nlocation"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Proposing action",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "insightful proposal/s in response to the generalisations",
+                "justified action/s to create or improve the sustainability at the fieldwork location",
+                "uses credible evidence to support the proposal"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "simple proposal/s in response to the generalisations",
+                "informed action/s to create or improve the sustainability at the fieldwork location",
+                "uses sufficient evidence to support the action"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "irrelevant proposal in response to the generalisations",
+                "action proposed is vague",
+                "uses minimal evidence to inform action"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "proficient transformation and representation of geographical data and information",
+                "creates sophisticated cartographic forms",
+                "creates sophisticated graphic forms",
+                "accomplished use of geographical terminology",
+                "adept use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate transformation and representation of geographical data and information",
+                "creates simple cartographic forms",
+                "creates simple graphic forms",
+                "considered use of geographical terminology",
+                "purposeful use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "minimal transformation and representation of geographical data and information",
+                "creates inappropriate cartographic forms",
+                "creates inappropriate graphic forms",
+                "inconsistent use of geographical terminology",
+                "fragmented use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Explaining and Comprehending",
+            "objectives": "1, 2",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing and Applying",
+            "objectives": "3, 4",
+            "marks": 10
+          },
+          {
+            "criterion": "Proposing action",
+            "objectives": "5",
+            "marks": 5
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "6",
+            "marks": 5
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Geography",
+      "technique": "Data report (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Communicating",
+          "marks": 7
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Explaining and Comprehending",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "detailed explanation of geographic processes and interactions that result in demographic or\npopulation change for a place in Australia",
+                "recognition of comprehensive spatial patterns of demographic or population change for a\nplace in Australia",
+                "recognition of significant relationships and implications for people and/or place"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "adequate explanation of geographic processes and interactions that result in demographic\nor population change for a place in Australia",
+                "recognition of simple spatial patterns of demographic or population change for a place in\nAustralia",
+                "recognition of rudimentary relationships and implications for people and/or place"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "unclear explanation of geographic processes and interactions that result in demographic or\npopulation change for a place in Australia",
+                "vague recognition of spatial patterns of demographic or population change for a place in\nAustralia",
+                "recognition of irrelevant relationships and implications for people and/or place"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing and Applying",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "astute interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge/s for a place in Australia",
+                "discerning use of data and information",
+                "sophisticated generalisations about the impacts of the geographical challenge/s for people\nand/or places"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "effective interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge/s for a place in Australia",
+                "considered use of relevant data and information",
+                "reasoned generalisations about the impacts of the geographical challenge/s for people\nand/or places"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "simple interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge/s for a place in Australia",
+                "appropriate use of relevant data and information",
+                "fundamental generalisations about the impacts of the geographical challenge/s for people\nand/or places"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "superficial interpretations and inferences that identify how patterns, trends and\nrelationships represent a geographical challenge/s for a specific place in Australia",
+                "narrow use of relevant data and information",
+                "cursory generalisations about the impacts of the geographical challenge/s for people and/or\nplaces"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "vague interpretations and inferences that identify how patterns, trends and relationships\nrepresent a geographical challenge/s for a place in Australia",
+                "fragmented use of data and information",
+                "narrow generalisations about the impacts of the geographical challenge/s for people and/or\nplaces"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Proposing action",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "insightful proposal/s in response to the generalisations",
+                "justified action to address the impact/s of the identified challenge/s",
+                "uses credible evidence to support the action"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "simple proposal/s in response to the generalisations",
+                "informed action to address the impact/s of the identified challenge/s",
+                "uses sufficient evidence to support the action"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "irrelevant proposal in response to the generalisations",
+                "action proposed is vague",
+                "uses minimal evidence to support action"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Communicating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "proficient transformation and representation of geographical data and information",
+                "creates sophisticated cartographic forms",
+                "creates sophisticated graphic forms",
+                "accomplished use of geographical terminology",
+                "adept use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "competent transformation and representation of geographical data and information",
+                "creates detailed cartographic forms",
+                "creates detailed graphic forms",
+                "considered use of geographical terminology",
+                "purposeful use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "adequate transformation and representation of geographical data and information",
+                "creates simple cartographic forms",
+                "creates simple graphic forms",
+                "appropriate use of geographical terminology",
+                "suitable use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "minimal transformation and representation of geographical data and information",
+                "creates inappropriate cartographic forms",
+                "creates inappropriate graphic forms",
+                "inconsistent use of geographical terminology",
+                "fragmented use of the conventions of written communication"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Explaining and Comprehending",
+            "objectives": "1, 2",
+            "marks": 4
+          },
+          {
+            "criterion": "Analysing and Applying",
+            "objectives": "3, 4",
+            "marks": 10
+          },
+          {
+            "criterion": "Proposing action",
+            "objectives": "5",
+            "marks": 4
+          },
+          {
+            "criterion": "Communicating",
+            "objectives": "6",
+            "marks": 7
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "assessment": "IA1",
+  "subject": "Legal Studies",
+  "technique": "Examination — combination",
+  "unit": "",
+  "conditions": {},
+  "criteria": [
+    {
+      "name": "Analysing",
+      "marks": 8
+    },
+    {
+      "name": "Evaluating",
+      "marks": 7
+    }
+  ],
+  "ismg": [
+    {
+      "criterion": "Comprehending",
+      "bands": [
+        {
+          "marks": "9-10",
+          "descriptors": [
+            "accurate and detailed description of the essential features of Australian and Queensland\ngovernance",
+            "thorough explanation of legal concepts, principles and processes of Australian and\nQueensland governance",
+            "precise use of legal terminology"
+          ]
+        },
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "effective description of the essential features of Australian and Queensland governance",
+            "effective explanation of legal concepts, principles and processes of Australian and\nQueensland governance",
+            "effective use of legal terminology"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "adequate description of the features of Australian and Queensland governance",
+            "adequate explanation of legal concepts, principles and processes of Australian and\nQueensland governance",
+            "satisfactory use of legal terminology"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "partial identification of features of Australian and Queensland governance",
+            "partial description of legal concepts, principles or processes of Australian and/or\nQueensland governance",
+            "narrow use of legal terminology"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "identification of aspects of governance",
+            "identification of aspects of concepts, principles or processes of governance",
+            "inconsistent use of legal terminology"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Analysing",
+      "bands": [
+        {
+          "marks": "7-8",
+          "descriptors": [
+            "perceptive application of legal concepts, principles and/or processes to determine the\nnature and scope of a legal issue involving Australian and/or Queensland governance",
+            "interpretation of legal information to perceptively examine different relevant viewpoints and\ntheir consequences related to the legal issue",
+            "discerning use of evidence from the stimulus to support the analysis"
+          ]
+        },
+        {
+          "marks": "5-6",
+          "descriptors": [
+            "effective application of legal concepts, principles and/or processes to determine the nature\nand scope of a legal issue involving Australian and/or Queensland governance",
+            "interpretation of legal information to effectively examine different relevant viewpoints and\ntheir consequences related to the legal issue",
+            "effective use of evidence from the stimulus to support the analysis"
+          ]
+        },
+        {
+          "marks": "3-4",
+          "descriptors": [
+            "adequate application of some legal concepts, principles and/or processes to determine the\nnature and scope of a legal issue involving Australian and/or Queensland governance",
+            "interpretation of legal information to adequately examine different viewpoints and their\nconsequences related to the legal issue",
+            "sufficient use of evidence in the analysis"
+          ]
+        },
+        {
+          "marks": "1-2",
+          "descriptors": [
+            "description of aspects of the nature and/or scope of the issue",
+            "identification of superficial viewpoint/s",
+            "minimal use of evidence"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Evaluating",
+      "bands": [
+        {
+          "marks": "6-7",
+          "descriptors": [
+            "insightful legal alternatives presented from the analysis leading to an informed\nrecommendation",
+            "justification of the recommendation through the discerning use of legal criteria",
+            "discussion of considered implications of the recommendation"
+          ]
+        },
+        {
+          "marks": "4-5",
+          "descriptors": [
+            "effective legal alternatives presented from the analysis leading to an effective\nrecommendation",
+            "justification of the recommendation through the effective use of legal criteria",
+            "discussion of relevant implications of the recommendation"
+          ]
+        },
+        {
+          "marks": "2-3",
+          "descriptors": [
+            "alternative/s presented and/or recommendation",
+            "some justification of the recommendation",
+            "identification of implication/s of the alternative/s or recommendation"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "alternative/s and/or a recommendation OR narrow discussion of the legal situation based\non personal opinions"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Comprehending",
+        "objectives": "1",
+        "marks": 10
+      },
+      {
+        "criterion": "Analysing",
+        "objectives": "3",
+        "marks": 8
+      },
+      {
+        "criterion": "Evaluating",
+        "objectives": "4",
+        "marks": 7
+      }
+    ],
+    "total_marks": 25
+  }
+}

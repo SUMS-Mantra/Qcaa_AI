@@ -1,0 +1,191 @@
+{
+  "assessment": "IA2",
+  "subject": "Aerospace Systems",
+  "technique": "Examination — combination response (25%) ......................... 40",
+  "unit": "",
+  "conditions": {},
+  "criteria": [],
+  "ismg": [
+    {
+      "criterion": "Aerospace systems knowledge and problem-solving",
+      "bands": [
+        {
+          "marks": "25",
+          "descriptors": [
+            "> 96%"
+          ]
+        },
+        {
+          "marks": "24",
+          "descriptors": [
+            "> 93%"
+          ]
+        },
+        {
+          "marks": "23",
+          "descriptors": [
+            "> 89%"
+          ]
+        },
+        {
+          "marks": "22",
+          "descriptors": [
+            "> 86%"
+          ]
+        },
+        {
+          "marks": "21",
+          "descriptors": [
+            "> 82%"
+          ]
+        },
+        {
+          "marks": "20",
+          "descriptors": [
+            "> 78%"
+          ]
+        },
+        {
+          "marks": "19",
+          "descriptors": [
+            "> 75%"
+          ]
+        },
+        {
+          "marks": "18",
+          "descriptors": [
+            "> 71%"
+          ]
+        },
+        {
+          "marks": "17",
+          "descriptors": [
+            "> 68%"
+          ]
+        },
+        {
+          "marks": "16",
+          "descriptors": [
+            "> 64%"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Aerospace systems knowledge and problem-solving",
+      "bands": [
+        {
+          "marks": "15",
+          "descriptors": [
+            "> 60%"
+          ]
+        },
+        {
+          "marks": "14",
+          "descriptors": [
+            "> 57%"
+          ]
+        },
+        {
+          "marks": "13",
+          "descriptors": [
+            "> 53%"
+          ]
+        },
+        {
+          "marks": "12",
+          "descriptors": [
+            "> 50%"
+          ]
+        },
+        {
+          "marks": "11",
+          "descriptors": [
+            "> 46%"
+          ]
+        },
+        {
+          "marks": "10",
+          "descriptors": [
+            "> 42%"
+          ]
+        },
+        {
+          "marks": "9",
+          "descriptors": [
+            "> 37%"
+          ]
+        },
+        {
+          "marks": "8",
+          "descriptors": [
+            "> 33%"
+          ]
+        }
+      ]
+    },
+    {
+      "criterion": "Aerospace systems knowledge and problem-solving",
+      "bands": [
+        {
+          "marks": "7",
+          "descriptors": [
+            "> 28%"
+          ]
+        },
+        {
+          "marks": "6",
+          "descriptors": [
+            "> 24%"
+          ]
+        },
+        {
+          "marks": "5",
+          "descriptors": [
+            "> 19%"
+          ]
+        },
+        {
+          "marks": "4",
+          "descriptors": [
+            "> 14%"
+          ]
+        },
+        {
+          "marks": "3",
+          "descriptors": [
+            "> 10%"
+          ]
+        },
+        {
+          "marks": "2",
+          "descriptors": [
+            "> 5%"
+          ]
+        },
+        {
+          "marks": "1",
+          "descriptors": [
+            "> 0%"
+          ]
+        },
+        {
+          "marks": "0",
+          "descriptors": [
+            "The student response does not match any of the descriptors above."
+          ]
+        }
+      ]
+    }
+  ],
+  "mark_allocation": {
+    "criteria": [
+      {
+        "criterion": "Aerospace systems knowledge and problem-solving",
+        "objectives": "1, 2, 3, 5, 7",
+        "marks": 25
+      }
+    ],
+    "total_marks": 25
+  }
+}

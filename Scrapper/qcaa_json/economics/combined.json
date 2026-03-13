@@ -1,0 +1,602 @@
+{
+  "subject": "Economics",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Markets and models",
+      "subject": "Economics",
+      "description": "In Unit 1, students understand how the fundamental economic concepts of scarcity, choice and\nopportunity cost compel individuals, businesses and governments to make decisions about how\nbest to allocate resources among competing needs. The nature of the basic economic problem is\nexamined, and the consequences of scarcity are expressed in the production possibility curve\nand through the choices made by modern economic systems. Students analyse the factors that\nimpact on the economy through the circular flow of income model and investigate the price\nmechanism as a model for the efficient allocation of resources.\nIt is crucial that the learning for this unit is studied through current economic contexts linked to the\nbasic economic problem. Students develop an appreciation for current news in order to apply and\nadd depth to their learning from class.\nUnit objectives\n1. Comprehend economic concepts, principles and models of the economic problem, economic\nflows and market forces.\n2. Analyse economic issues that involve economic problems, economic flows and/or market\nforces.\n3. Evaluate economic outcomes relevant to economic problems, economic flows and/or market\nforces.\n4. Create responses that communicate economic meaning to suit the intended purpose.\nEconomics 2025 v1.3 Units\n\nSubject matter\nTopic 1: The basic economic problem\nIn Topic 1, students understand the foundations of the subject in terms of scarcity and choices.\nStudents learn key terminology as they consider the differe…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Modified markets",
+      "subject": "Economics",
+      "description": "In Unit 2, students explore the imperfections within markets and the economic concept that\nmarkets do not always deliver socially desirable or efficient outcomes. They investigate the\ncauses and effects of market failure and the measures and strategies that may be used to modify\nmarkets in attempts to maximise economic and social well-being. Various market interventions\nare evaluated in terms of their effectiveness in minimising the short- and long-term consequences\nof markets not delivering socially optimal outcomes.\nExamples that focus on various causes of market failure and different types of government\nstrategies and interventions can be used, for example:\n the ability of the Australian Competition and Consumer Commission (ACCC) and the courts to\nmitigate the impact of dominant firms in the market, for example the grocery, banking or\npetrol industries\n environmental sustainability (fisheries, pollution and waste) and economic equality (regional\nand individual)\n the provision of public goods (police force, public infrastructure, Australian Broadcasting\nCommission (ABC), Australian Prudential Regulation Authority (APRA), and Australian\nSecurities and Investments Commission (ASIC))\n the provision of merit goods (schools, hospitals and national parks).\nUnit objectives\n1. Comprehend economic concepts, principles and models of markets and efficiency, and\nmarket measures and strategies.\n2. Analyse economic issues that involve markets and efficiency, and market measures and\ns…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "International economics",
+      "subject": "Economics",
+      "description": "In Unit 3, students focus on the complex ideas and relationships underlying the international\neconomy and the impact that these have on Australia’s domestic economy and decision-making.\nStudents consider Australia’s engagement in international trade and the global economy,\nincluding the theories behind trade and exchange rates. They examine the balance of payments\nin depth, considering elements of the current and capital accounts. In Global economic issues,\nstudents explain the factors that contribute to and have an impact on globalisation. Trade barriers\nand trade agreements are investigated from a theoretical and contemporary viewpoint and form\nthe basis of student-led research.\nCurrent economic events and economic measurements will be used to support and develop\nunderstanding in this unit. Longer term international trends may be considered in an analysis to\nsee structural changes over time. However, the emphasis must be on a current situation and not\non an event in the economic history of Australia. Students will understand measurements of\neconomic data and how to calculate changes in percentages.\nUnit objectives\n1. Comprehend economic concepts, principles and models of international trade and global\neconomic issues.\n2. Analyse economic issues that involve international trade and global economic issues.\n3. Evaluate economic outcomes relevant to international trade and global economic issues.\n4. Create responses that communicate economic meaning to suit the intended purpose…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "Contemporary macroeconomics ............................................................................ 26",
+      "subject": "Economics",
+      "description": "Assessment __________________________________________ 30\nInternal assessment 1: Examination — combination response (25%) ......................... 30\nInternal assessment 2: Investigation (25%) ...................................................................... 34\nInternal assessment 3: Examination — extended response (25%) .............................. 38\nExternal assessment: Examination — combination response (25%) ........................... 42\nGlossary _____________________________________________ 43\nReferences ___________________________________________ 43\nVersion history________________________________________ 43\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.qld.edu.au/senior/\nsenior-subjects…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Economics",
+      "technique": "Examination — combination response (25%) ........................... 42",
+      "unit": "objectives. This subject matter is organised into topics.",
+      "conditions": {
+        "length": "condition.",
+        "topic": "1: The basic economic problem"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Economics",
+      "technique": "Examination — combination",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 8
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "9-10",
+              "descriptors": [
+                "accurate and detailed identification of a comprehensive range of the essential features of\nexchange rates, international trade patterns and theories, and the balance of payments",
+                "perceptive application of relevant economic concepts, principles and models",
+                "precise use of economic terminology"
+              ]
+            },
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "effective identification of a significant range of the essential features of exchange rates,\ninternational trade patterns and theories, and the balance of payments",
+                "effective application of relevant economic concepts, principles and models",
+                "effective use of economic terminology"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "adequate identification of the features of international trade",
+                "adequate application of relevant economic concepts, principles and models",
+                "adequate use of economic terminology"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "partial identification of the features of international trade",
+                "partial application of economic concepts, principles and/or models",
+                "narrow use of economic terminology"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of aspects of international trade",
+                "identification of aspects of economic concepts, principles or models",
+                "inconsistent or unclear use of terminology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "discerning meaning drawn from patterns or trends relevant to the economic issue identified",
+                "discerning explanation of relevant economic relationships",
+                "perceptive use of a wide variety of relevant data and information to support the analysis"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "effective meaning drawn from patterns or trends relevant to the economic issue identified",
+                "effective explanation of relevant economic relationships",
+                "effective use of a variety of relevant data and information to support the analysis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "adequate meaning drawn from patterns or trends about the economic issue identified",
+                "adequate explanation of relevant economic relationships",
+                "use of relevant data and information to support the analysis"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of pattern/s or trend/s about an economic issue",
+                "identification of a cause or effect relationship",
+                "limited use of data or information"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "perceptive use of a relevant economic criterion to make a decision about an economic\noutcome",
+                "discerning synthesis of economic ideas and perspectives derived from the analysis to\nsupport the decision",
+                "critical economic reasoning using reliable evidence from unseen sources to justify the\ndecision"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective use of a relevant economic criterion to make a decision about an economic\noutcome",
+                "effective synthesis of economic ideas or perspectives derived from the analysis to support\nthe decision",
+                "feasible economic reasoning using evidence from unseen sources to justify the decision"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "superficial decision made about an economic outcome",
+                "description of economic ideas or perspectives that link to the decision",
+                "economic reason/s that explain the decision"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "opinions or statements about economic ideas or unclear decision"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 10
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2",
+            "marks": 8
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "3",
+            "marks": 7
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Economics",
+      "technique": "Investigation (25%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 8
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "comprehensive identification of the essential features of globalisation, barriers to trade,\nand/or trade agreements",
+                "perceptive application of a significant range of economic concepts, principles and models",
+                "precise use of economic terminology"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "adequate identification of features of globalisation, barriers to trade, and/or trade\nagreements",
+                "adequate application of a range of economic concepts, principles and/or models",
+                "adequate use of economic terminology"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "partial identification of features of globalisation, barriers to trade, and/or trade agreements",
+                "partial application of economic concepts, principles and/or models",
+                "limited use of economic terminology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "discerning meaning drawn from patterns or trends relevant to the economic issue identified",
+                "discerning explanation of relevant economic relationships that includes complexity",
+                "perceptive selection and use of a wide variety of current, accurate and relevant data and\ninformation to support the analysis"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "effective meaning drawn from patterns or trends relevant to the economic issue identified",
+                "effective explanation of relevant economic relationships with some complexity",
+                "effective selection and use of a variety of current, accurate and relevant data and\ninformation to support the analysis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "adequate meaning drawn from patterns or trends relevant to the economic issue identified",
+                "adequate explanation of relevant economic relationships",
+                "use of relevant data and information to support the analysis"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of pattern/s or trend/s about an economic issue",
+                "identification of a cause or effect relationship",
+                "limited use of data or information"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "perceptive use of relevant economic criteria to make a decision about an economic\noutcome",
+                "discerning synthesis of economic ideas and perspectives derived from the analysis to\nsupport the decision",
+                "critical economic reasoning using reliable evidence to justify the decision"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective use of relevant economic criteria to make a decision about an economic outcome",
+                "effective synthesis of economic ideas or perspectives derived from the analysis to support\nthe decision",
+                "feasible economic reasoning using evidence to justify the decision"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable decision made about an economic outcome",
+                "synthesis of economic ideas or perspectives that link to the decision",
+                "economic reasons that explain the decision"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statement/s about an economic outcome",
+                "description/s of an economic idea or perspective",
+                "reason/s based on opinion"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Creating a response",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "discerning and concise expression, sequencing and development of ideas, including visual\nrepresentations, to enhance economic meaning",
+                "a formatted report used, with perceptive choices of vocabulary and minimal errors in\ngrammar, punctuation and spelling",
+                "consistent and accurate documentation of sources in a reference list and citations"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "sequencing and development of ideas to convey economic meaning",
+                "a basic formatted report used and some errors in grammar, punctuation and spelling",
+                "identification of some bibliographic information"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 6
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2",
+            "marks": 8
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "3",
+            "marks": 7
+          },
+          {
+            "criterion": "Creating a response",
+            "objectives": "4",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Economics",
+      "technique": "Examination — extended",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 8
+        },
+        {
+          "name": "Evaluating",
+          "marks": 7
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Comprehending",
+          "bands": [
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "comprehensive identification of the essential features of relevant macroeconomic\nobjectives, theories, economic indicators and budget stances",
+                "perceptive application of a significant range of economic concepts, principles and models",
+                "precise use of economic terminology"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "adequate identification of features of relevant macroeconomic objectives, theories,\neconomic indicators and budget stances",
+                "adequate application of a range of economic concepts, principles and/or models",
+                "adequate use of economic terminology"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "partial identification of features of relevant macroeconomic objectives, theories, economic\nindicators and budget stances",
+                "partial application of economic concepts, principles and/or models",
+                "narrow use of economic terminology"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "7-8",
+              "descriptors": [
+                "discerning meaning drawn from patterns or trends relevant to the economic issue identified",
+                "discerning explanation of relevant economic relationships that includes complexity",
+                "perceptive selection and use of relevant seen and unseen data and information to support\nthe analysis"
+              ]
+            },
+            {
+              "marks": "5-6",
+              "descriptors": [
+                "effective meaning drawn from patterns or trends relevant to the economic issue identified",
+                "effective explanation of relevant economic relationships with some complexity",
+                "effective selection and use of relevant seen and unseen data and information to support the\nanalysis"
+              ]
+            },
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "adequate meaning drawn from patterns or trends relevant to the economic issue identified",
+                "adequate explanation of relevant economic relationships",
+                "use of relevant seen and unseen data and information to support the analysis"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "identification of pattern/s or trend/s about an economic issue",
+                "identification of a cause or effect relationship",
+                "limited use of data or information"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "6-7",
+              "descriptors": [
+                "perceptive use of relevant economic criteria to make a decision about an economic\noutcome",
+                "discerning synthesis of economic ideas and perspectives derived from the analysis to\nsupport the decision",
+                "critical economic reasoning derived using reliable evidence from seen and unseen sources\nto justify the decision"
+              ]
+            },
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "effective use of relevant economic criteria to make a decision about an economic outcome",
+                "effective synthesis of economic ideas or perspectives derived from the analysis to support\nthe decision",
+                "feasible economic reasoning derived using evidence from seen and unseen sources to\njustify the decision"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable decision made about an economic outcome",
+                "synthesis of economic ideas or perspectives that link to the decision",
+                "economic reasons that explain the decision"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "statement/s about an economic outcome",
+                "description/s of economic idea or perspective",
+                "reason/s based on opinion"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Creating a response",
+          "bands": [
+            {
+              "marks": "3-4",
+              "descriptors": [
+                "discerning and concise expression, sequencing and development of ideas, including an\neconomic model/s, to enhance economic meaning",
+                "an analytical essay format used, with perceptive choices of vocabulary and minimal errors\nin grammar, punctuation and spelling",
+                "consistent and accurate identification of sources used"
+              ]
+            },
+            {
+              "marks": "1-2",
+              "descriptors": [
+                "sequencing and development of ideas to convey economic meaning",
+                "a basic analytical essay used and some errors in grammar, punctuation and spelling",
+                "identification of some sources used"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Comprehending",
+            "objectives": "1",
+            "marks": 6
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2",
+            "marks": 8
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "3",
+            "marks": 7
+          },
+          {
+            "criterion": "Creating a response",
+            "objectives": "4",
+            "marks": 4
+          }
+        ],
+        "total_marks": 25
+      }
+    }
+  ]
+}

@@ -1,0 +1,514 @@
+{
+  "subject": "Earth & Environmental Science",
+  "units": [
+    {
+      "unit": "Unit 1",
+      "title": "Introduction to Earth systems",
+      "subject": "Earth & Environmental Science",
+      "description": "In Unit 1, students explore the ways Earth and environmental science describes and explains\nEarth processes and phenomena that occur in different Earth systems and how they are\ninterrelated. An understanding of Earth processes is essential to appreciate the significance of\nEarth’s four systems: geosphere, atmosphere, hydrosphere and biosphere. Students investigate\nphenomena associated with Earth systems and processes. They examine relevant concepts,\nmodels, principles and theories to analyse common past and present Earth features, processes\nand phenomena.\nContexts that could be investigated include local, regional or global Earth features, processes and\nphenomena. Through the investigation of these contexts, students can explore ways to predict\nfuture changes to the geosphere, atmosphere, hydrosphere and biosphere; provide advice about\nways to mitigate the effect of human-induced change; explore ways in which science knowledge\ninteracts with social, economic, cultural and ethical factors; and describe and explain complex\nmodels of Earth’s interior.\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of different\nEarth features and processes, phenomena, systems and their interactions. Collaborative\nexperimental work will also help students to develop communication, interaction, and self-\nmanagement skills. Throughout the unit, students develop skills…"
+    },
+    {
+      "unit": "Unit 2",
+      "title": "Earth processes — energy transfers and",
+      "subject": "Earth & Environmental Science",
+      "description": "transformations\nIn Unit 2, students explore the ways Earth and environmental science is used to describe and\nexplain energy transfer and transformation in Earth systems. An understanding of the movement\nof energy between systems is essential to appreciate the importance of energy to control\nprocesses below and above Earth’s surface. Students conduct experiments and investigate\ndifferent modes of energy transfer within systems, and use models to predict the characteristics\nof systemic ocean currents, different sources of energy, and how greenhouse gases reflect or\nscatter infrared radiation leading to the greenhouse effect. They examine synoptic charts, satellite\nimages and climatic data to analyse primary data to make predictions about weather patterns.\nContexts that could be investigated include weather prediction, energy for human consumption\nand transfer and transformation of energy in oceans. Through the investigation of these contexts,\nstudents may explore the importance of accurate weather predictions to the public and private\nsector to provide severe weather warnings and to inform decision-making in aviation and marine\nindustries, as well as agriculture and forestry. They also explore the importance of\nenvironmentally friendly energy sources and the significance of photosynthesis for primary\nproduction in marine environments.\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills whi…"
+    },
+    {
+      "unit": "Unit 3",
+      "title": "Living on Earth — extracting, using and",
+      "subject": "Earth & Environmental Science",
+      "description": "managing Earth resources\nIn Unit 3, students explore the ways Earth and environmental science is used to describe and\nexplain differences between renewable and non-renewable Earth resources and how their\nextraction, use, consumption and disposal affect Earth systems. An understanding of Earth\nresources is essential to appreciate the need for sustainable sources to maintain quality of\neveryday life, balanced with the need to limit the effect that extraction and use will have on\ndifferent Earth systems. Students conduct experiments and investigations about Earth resources.\nThey examine case studies to analyse secondary data and make decisions about the viability of\nusing renewable and non-renewable Earth resources using an ‘ecological footprint’.\nContexts that could be investigated in this unit include technologies of extraction, non-renewable\nand renewable Earth resources at a regional and global level, and overfishing of marine\nresources. Through investigating these contexts, students may explore how the rate of extraction\nand other environmental factors affect the quality and availability of renewable and non-\nrenewable resources, including water, energy resources and biota, and the importance of\nmonitoring and modelling to manage these resources at local, regional and global scales.\nParticipation in a range of experiments and investigations will allow students to progressively\ndevelop their suite of science inquiry skills while gaining an enhanced appreciation of renewable\n…"
+    },
+    {
+      "unit": "Unit 4",
+      "title": "The changing Earth — the cause and impact of Earth hazards........................ 39",
+      "subject": "Earth & Environmental Science",
+      "description": "Assessment __________________________________________ 46\nInternal assessment 1: Data test (10%)............................................................................. 46\nInternal assessment 2: Student experiment (20%) .......................................................... 49\nInternal assessment 3: Research investigation (20%) .................................................... 53\nExternal assessment: Examination — combination response (50%) ........................... 57\nGlossary _____________________________________________ 59\nReferences ___________________________________________ 59\nVersion history________________________________________ 61\n\nQueensland syllabuses for senior subjects\nIn Queensland, a syllabus for a senior subject is an official ‘map’ of a senior school subject.\nA syllabus’s function is to support schools in delivering the Queensland Certificate of Education\n(QCE) system through high-quality and high-equity curriculum and assessment.\nSyllabuses are based on design principles developed from independent international research\nabout how excellence and equity are promoted in the documents teachers use to develop and\nenliven the curriculum.\nSyllabuses for senior subjects build on student learning in the Prep to Year 10 Australian\nCurriculum and include General, General (Extension), Senior External Examination (SEE),\nApplied, Applied (Essential) and Short Course syllabuses.\nMore information about syllabuses for senior subjects is available at www.qcaa.ql…"
+    }
+  ],
+  "assessments": [
+    {
+      "assessment": "External",
+      "subject": "Earth & Environmental Science",
+      "technique": "Examination — combination response (50%) ........................... 57",
+      "unit": "from which schools develop their course of study.",
+      "conditions": {
+        "topic": "1: Earth systems and models (4 hours)"
+      },
+      "criteria": [],
+      "ismg": [],
+      "mark_allocation": {}
+    },
+    {
+      "assessment": "IA1",
+      "subject": "Earth & Environmental Science",
+      "technique": "Data test (10%)............................................................................. 46",
+      "unit": "",
+      "conditions": {},
+      "criteria": [],
+      "ismg": [
+        {
+          "criterion": "Data test",
+          "bands": [
+            {
+              "marks": "10",
+              "descriptors": [
+                "> 90%"
+              ]
+            },
+            {
+              "marks": "9",
+              "descriptors": [
+                "> 80%"
+              ]
+            },
+            {
+              "marks": "8",
+              "descriptors": [
+                "> 70%"
+              ]
+            },
+            {
+              "marks": "7",
+              "descriptors": [
+                "> 60%"
+              ]
+            },
+            {
+              "marks": "6",
+              "descriptors": [
+                "> 50%"
+              ]
+            },
+            {
+              "marks": "5",
+              "descriptors": [
+                "> 40%"
+              ]
+            },
+            {
+              "marks": "4",
+              "descriptors": [
+                "> 30%"
+              ]
+            },
+            {
+              "marks": "3",
+              "descriptors": [
+                "> 20%"
+              ]
+            },
+            {
+              "marks": "2",
+              "descriptors": [
+                "> 10%"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "> 1%"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "≤ 1%"
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Data test",
+            "objectives": "2, 3, 4",
+            "marks": 10
+          }
+        ],
+        "total_marks": 10
+      }
+    },
+    {
+      "assessment": "IA2",
+      "subject": "Earth & Environmental Science",
+      "technique": "Student experiment (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale for the experiment",
+                "justified modifications to the methodology",
+                "a specific and relevant research question",
+                "a methodology that enables the collection of sufficient and relevant data",
+                "appropriate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale for the experiment",
+                "feasible modifications to the methodology",
+                "a relevant research question",
+                "a methodology that enables the collection of relevant data",
+                "use of basic genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the experiment",
+                "inappropriate modifications to the methodology",
+                "an inappropriate research question",
+                "a methodology that causes the collection of insufficient and irrelevant data",
+                "inadequate use of genre and referencing conventions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "considered management of risks/ethical issues/environmental issues",
+                "collection of sufficient and relevant raw data",
+                "fluent and concise use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "management of risks/ethical issues/environmental issues",
+                "collection of relevant raw data",
+                "competent use of scientific language and representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inadequate management of risks/ethical issues/environmental issues",
+                "collection of insufficient and irrelevant raw data",
+                "simplistic use of language and representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "correct and relevant processing of data",
+                "thorough identification of relevant trends/patterns/relationships",
+                "thorough and appropriate identification of the uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "basic processing of data",
+                "identification of obvious trends/patterns/relationships",
+                "basic identification of uncertainty and/or limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "incorrect or irrelevant processing of data",
+                "identification of incorrect or irrelevant trends/patterns/relationships",
+                "incorrect or insufficient identification of uncertainty and limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting and Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified conclusion/s linked to the research question",
+                "justified discussion of the reliability and validity of the experimental process",
+                "suggested improvements and extensions to the experiment that are logically derived from the\nanalysis of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable conclusion/s relevant to the research question",
+                "reasonable description of the reliability and/or validity of the experimental process",
+                "suggested improvements and/or extensions to the experiment that are related to the analysis\nof evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant conclusion/s",
+                "cursory or simplistic statements about the reliability and validity of the experimental process",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Finding",
+            "objectives": "1, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "2, 3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting and Evaluating",
+            "objectives": "4, 5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    },
+    {
+      "assessment": "IA3",
+      "subject": "Earth & Environmental Science",
+      "technique": "Research investigation (20%)",
+      "unit": "",
+      "conditions": {},
+      "criteria": [
+        {
+          "name": "Analysing",
+          "marks": 5
+        },
+        {
+          "name": "Interpreting",
+          "marks": 5
+        },
+        {
+          "name": "Evaluating",
+          "marks": 5
+        }
+      ],
+      "ismg": [
+        {
+          "criterion": "Forming and Finding",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "a considered rationale identifying clear development of the research question from the claim",
+                "a specific and relevant research question",
+                "selection of sufficient and relevant sources",
+                "appropriate use of genre conventions",
+                "acknowledgment of sources of information through appropriate use of referencing\nconventions"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "a reasonable rationale that links the research question and the claim",
+                "a relevant research question",
+                "selection of relevant sources",
+                "use of basic genre conventions",
+                "use of basic referencing conventions"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "a vague or irrelevant rationale for the investigation",
+                "an inappropriate research question",
+                "selection of insufficient or irrelevant sources",
+                "inadequate use of genre conventions",
+                "inadequate acknowledgment of sources"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Analysing",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "the identification of sufficient and relevant evidence",
+                "thorough identification of relevant trends/patterns/relationships in evidence",
+                "thorough and appropriate identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "the identification of relevant evidence",
+                "identification of obvious trends/patterns/relationships in evidence",
+                "basic identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "the identification of insufficient and irrelevant evidence",
+                "identification of incorrect or irrelevant trends/patterns/relationships in evidence",
+                "incorrect or insufficient identification of limitations of evidence"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Interpreting",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified scientific argument/s",
+                "justified conclusion linked to the research question",
+                "fluent and concise use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable scientific argument/s",
+                "reasonable conclusion relevant to the research question",
+                "competent use of scientific language/representations"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "inappropriate or irrelevant argument/s",
+                "inappropriate or irrelevant conclusion",
+                "incorrect use of language/representations"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        },
+        {
+          "criterion": "Evaluating",
+          "bands": [
+            {
+              "marks": "4-5",
+              "descriptors": [
+                "justified discussion of the quality of evidence",
+                "extrapolation of credible findings of the research to the claim",
+                "suggested improvements and extensions to the investigation that are considered and\nrelevant to the claim"
+              ]
+            },
+            {
+              "marks": "2-3",
+              "descriptors": [
+                "reasonable description of the quality of evidence",
+                "application of relevant findings of the research to the claim",
+                "suggested improvements and/or extensions to the investigation that are relevant to the claim"
+              ]
+            },
+            {
+              "marks": "1",
+              "descriptors": [
+                "cursory or simplistic statements about the quality of evidence",
+                "application of insufficient or inappropriate findings of the research to the claim",
+                "ineffective or irrelevant suggestions"
+              ]
+            },
+            {
+              "marks": "0",
+              "descriptors": [
+                "The student response does not match any of the descriptors above."
+              ]
+            }
+          ]
+        }
+      ],
+      "mark_allocation": {
+        "criteria": [
+          {
+            "criterion": "Forming and Finding",
+            "objectives": "1, 2, 6",
+            "marks": 5
+          },
+          {
+            "criterion": "Analysing",
+            "objectives": "3",
+            "marks": 5
+          },
+          {
+            "criterion": "Interpreting",
+            "objectives": "1, 4",
+            "marks": 5
+          },
+          {
+            "criterion": "Evaluating",
+            "objectives": "5",
+            "marks": 5
+          }
+        ],
+        "total_marks": 20
+      }
+    }
+  ]
+}
